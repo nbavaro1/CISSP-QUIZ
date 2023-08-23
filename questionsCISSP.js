@@ -41,8 +41,41 @@ var questions = [
       "answer": 1
   },
 
+{ 
+      "question": "Which of the following categories of control can include the logical mechanisms used to control access and authenticate users? ",
+      "option1": "Administrative",
+      "option2": "Clerical",
+      "option3": "technical",
+      "option4": "Physical",
+      "answer": 3
+  },
+{ 
+      "question": "Which of the following is incorrect when describing an SED? ",
+      "option1": "Eases compliance",
+      "option2": "Slow performance",
+      "option3": "Ease of use",
+      "option4": "Strong security",
+      "answer": 2
+  },
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
   ]
