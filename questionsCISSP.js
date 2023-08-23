@@ -14,7 +14,7 @@ var questions = [
       "option2": "ISO 9001",
       "option3": "ISO 27002",
       "option4": "ISO 17799",
-      "answer: 2
+      "answer": 2
   },
 {
       "question": "Which of the following endpoint security controls could have been used to potentially prevent malware such as Stuxnet, Conficker and Flame? ",
@@ -22,7 +22,7 @@ var questions = [
       "option2": "Hardening edge devices",
       "option3": "blocking removable media",
       "option4": "Enforcing application whitelisting",
-      "answer: 3
+      "answer": 3
   },
 {
       "question": "Place the following in their proper order: ",
@@ -30,7 +30,7 @@ var questions = [
       "option2": "Determine asset value, then ARO, SLE and ALE",
       "option3": "Determine asset value, then SLE, ALE, and SLE",
       "option4": "Determine asset value, then SLE, ARO and ALE",
-      "answer: 4
+      "answer": 4
   },
 
 
