@@ -32,6 +32,14 @@ var questions = [
       "option4": "Determine asset value, then SLE, ARO and ALE",
       "answer": 4
   },
+{ 
+      "question": "The downside of performing this type of assessment is that you are not working with dollar values, so it is sometimes harder to communicate the results of the assemssment to management. Which of the following assessment types does this describe? ",
+      "option1": "Qualitative",
+      "option2": "Quantitative",
+      "option3": "Numeric mitigation",
+      "option4": "Red team",
+      "answer": 1
+  },
 
 
 
