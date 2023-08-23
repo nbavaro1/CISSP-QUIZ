@@ -24,7 +24,14 @@ var questions = [
       "option4": "Enforcing application whitelisting",
       "answer: 3
   },
-
+{
+      "question": "Place the following in their proper order: ",
+      "option1": "Determine SLE, ARO and ALE, then asset value",
+      "option2": "Determine asset value, then ARO, SLE and ALE",
+      "option3": "Determine asset value, then SLE, ALE, and SLE",
+      "option4": "Determine asset value, then SLE, ARO and ALE",
+      "answer: 4
+  },
 
 
 
