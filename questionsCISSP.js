@@ -57,9 +57,30 @@ var questions = [
       "option4": "Strong security",
       "answer": 2
   },
-
-
-
+{ 
+      "question": "Which of the following is the top level of protection for commercial business classification ",
+      "option1": "Secret",
+      "option2": "Confidential",
+      "option3": "Top secret ",
+      "option4": "Private",
+      "answer": 2
+  },
+{ 
+      "question": "Which of the following is the most specific of security documents ",
+      "option1": "Procedures",
+      "option2": "Standards",
+      "option3": "Policies ",
+      "option4": "Baselines",
+      "answer": 1
+  },
+{ 
+      "question": "The last thing you want in an organization is that everyone is accountable but no one is responsible. Therefore, the data owner should be in which of the following groups? ",
+      "option1": "End users",
+      "option2": "Technical managers",
+      "option3": "Senior management ",
+      "option4": "Everyone is responsible, therefore all groups are owners ",
+      "answer": 3
+  },
 
 
 
