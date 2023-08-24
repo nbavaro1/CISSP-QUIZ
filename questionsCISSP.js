@@ -82,10 +82,46 @@ var questions = [
       "answer": 3
   },
 
-
-
-
-
+{ 
+      "question": "Which term best describes a symbol, word, name, sound, or thing that uniquely identifies a product or service? ",
+      "option1": "Trade secret",
+      "option2": "Copyright",
+      "option3": "Patent ",
+      "option4": "Trademark ",
+      "answer": 4
+  },
+{ 
+      "question": "After opening a new branch in the Midwest your company is analyzing buying patterns to determine the relationship between various items purcheased. Which of the following best describes this situation? ",
+      "option1": "Data mining",
+      "option2": "Knowledge management",
+      "option3": "Data warehouse ",
+      "option4": "Data standards ",
+      "answer": 1
+  },
+{ 
+      "question": "Which ISO document is used for a standard for information security management? ",
+      "option1": "ISO 27001",
+      "option2": "ISO 27002",
+      "option3": "ISO 27004 ",
+      "option4": "ISO 27799 ",
+      "answer": 3
+  },
+{ 
+      "question": "Which of the following SAN solutions is fast, rides on top of Ethernet, yet is non-routable? ",
+      "option1": "SCSI",
+      "option2": "iSCSI",
+      "option3": "HBA ",
+      "option4": "FCoE ",
+      "answer": 4
+  },
+{ 
+      "question": "Who is ultimately responsible for the security of an asset? ",
+      "option1": "Asset owner",
+      "option2": "Auditor",
+      "option3": "Custodian ",
+      "option4": "Risk assessment team",
+      "answer": 1
+  },
 
 
 
