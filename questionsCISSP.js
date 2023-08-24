@@ -122,15 +122,86 @@ var questions = [
       "option4": "Risk assessment team",
       "answer": 1
   },
-
-
-
-
-
-
-
-
-
+{ 
+      "question": "The three elements of the C-I-A triad include ",
+      "option1": "Confidentiality, integrity, authentication",
+      "option2": "Confidentiality, integrity,availability",
+      "option3": "Confidentiality, integrity,authorization ",
+      "option4": "Confidentiality, integrity,accountability",
+      "answer": 2
+  },
+{ 
+      "question": "Which of the following government data classification levels describes informtation that if compromised could cause serious damage to natinal security? ",
+      "option1": "Top Secret",
+      "option2": "Secret",
+      "option3": "Confidential ",
+      "option4": "Sensitive but Unclassified",
+      "answer": 2
+  },
+{ 
+      "question": "The practice of regularly transferring personnel into different positions or departments within an organization is known as  ",
+      "option1": "Separation of duties",
+      "option2": "Reassignment",
+      "option3": "Lateral transfers ",
+      "option4": "Job rotations",
+      "answer": 4
+  },
+{ 
+      "question": "The individual responsible for assigning information classification levels for assigned information assets is   ",
+      "option1": "Management",
+      "option2": "Owner",
+      "option3": "Custodian ",
+      "option4": "User",
+      "answer": 2
+  },
+{ 
+      "question": "Most security policies are categorized as   ",
+      "option1": "Informative",
+      "option2": "Regulatory",
+      "option3": "Mandatory ",
+      "option4": "Advisory",
+      "answer": 4
+  },
+{ 
+      "question": "A baseline is a type of    ",
+      "option1": "Policy",
+      "option2": "Guideline",
+      "option3": "Procedure ",
+      "option4": "Standard",
+      "answer": 4
+  },
+{ 
+      "question": "ALE is calculated by using the following formula   ",
+      "option1": "SLE * ARO *EF = ALE",
+      "option2": "SLE * ARO = ALE",
+      "option3": "SLE + ARO = ALE",
+      "option4": "SLE - ARO = ALE",
+      "answer": 2
+  },
+{ 
+      "question": "Which of the following is not considered a general remedy for risk management?  ",
+      "option1": "Risk reduction",
+      "option2": "Risk acceptance",
+      "option3": "Risk assignment",
+      "option4": "Risk avoidance",
+      "answer": 4
+  },
+{ 
+      "question": "Failure to implement a safeguard may result in legal liability if  ",
+      "option1": "The cost it implement the safeguard is less than the cost of the associated loss.",
+      "option2": "The cost to implement the safeguard is more then the cost of the associated loss. ",
+      "option3": "Risk assignmentAn alternate but equally effective and less expensive safeguard is implemented. ",
+      "option4": "An alternate but equally effective and more expensive safeguard is implemented. ",
+      "answer": 1
+  },
+{ 
+      "question": "A cost benefit analysis is useful in safeguard selection for determining  ",
+      "option1": "Safeguard effectiveness",
+      "option2": "Technical feasibility ",
+      "option3": "Cost effectiveness",
+      "option4": "Operational impact",
+      "answer": 3
+  },
 
   
 
