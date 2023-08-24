@@ -202,7 +202,50 @@ var questions = [
       "option4": "Operational impact",
       "answer": 3
   },
+{ 
+      "question": "The following statement can be found in which standard? Systems Wwners have security responsibilitites outside their own organization ",
+      "option1": "Ethics and the internet",
+      "option2": "RFC 1087 ",
+      "option3": "ISC2 Code of ethics",
+      "option4": "NIST 800-14",
+      "answer": 4
+  },
+{ 
+      "question": "Which of the following methods of handling risk works by using a third party to absorb a portion of the risk ",
+      "option1": "Risk reduction",
+      "option2": "Risk transference ",
+      "option3": "Risk acceptance",
+      "option4": "Risk rejection",
+      "answer": 2
+  },
+{ 
+      "question": "You have been asked to calculate the annualized loss expenctancy ALE for the following variables Single loss expectancy = 25, Exposure factor = .90, Annualized rate of occurance = .40, Residual risk 30, Which of the followingis the resulting ALE ",
+      "option1": "9.00",
+      "option2": "22.50 ",
+      "option3": "10.00",
+      "option4": "14.27",
+      "answer": 3
+  },
+{ 
+      "question": "Place the following formulas in their proper order ",
+      "option1": "ALE, residual risk, SLE, ARO",
+      "option2": "ALE, ARO, SLE, residual risk ",
+      "option3": "ARO, SLE, ALE, residual risk",
+      "option4": "SLE, ARO, ALE residual risk",
+      "answer": 4
+  },
 
+
+
+
+
+
+
+
+
+
+
+  
   
 
 
