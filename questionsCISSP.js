@@ -234,10 +234,54 @@ var questions = [
       "option4": "SLE, ARO, ALE residual risk",
       "answer": 4
   },
-
-
-
-
+{ 
+      "question": "Which of the following is the formula for residual risk? ",
+      "option1": "(Threats * Vulnerability * Asset value) * Controls gap = Residual risk",
+      "option2": "(Threats * Vulnerability * Asset value) = Residual risk ",
+      "option3": "(Threats / Vulnerability * Asset value) * Controls = Residual risk",
+      "option4": "(Risk * Vulnerability * Asset value) * Controls gap = Residual risk",
+      "answer": 1
+  },
+{ 
+      "question": "Which of the following is the length of time for copyright in the United States or the European Union? ",
+      "option1": "Life plus 20 years",
+      "option2": "Life plus 30 years ",
+      "option3": "Life plus 70 years",
+      "option4": "Life plus 100 years",
+      "answer": 3
+  },
+{ 
+      "question": "Which of the following formulas represents total risk? ",
+      "option1": "Risk * Vulnerability *Asset value = Total risk",
+      "option2": "Threat * Vulnerability *Asset value = Total risk ",
+      "option3": "Risk * Value/Countermeasure  = Total risk",
+      "option4": "Threat - Vulnerability/Asset value = Total risk",
+      "answer": 2
+  },
+{ 
+      "question": "Which of the following is a flaw, loophole, oversight, or error that makes an organization susceptible to attack or damage?",
+      "option1": "Risk",
+      "option2": "Vulnerability",
+      "option3": "Threat",
+      "option4": "Exploit",
+      "answer": 2
+  },
+{ 
+      "question": "Which of the following is the most general of security documents?",
+      "option1": "Procedures",
+      "option2": "Standards",
+      "option3": "Policies",
+      "option4": "Baselines",
+      "answer": 3
+  },
+{ 
+      "question": "Which of the following groups is responsible for the actual development of new standars and protocols such as RFC 1087?",
+      "option1": "IESG",
+      "option2": "ISOC",
+      "option3": "IAB",
+      "option4": "IETF",
+      "answer": 4
+  },
 
 
 
