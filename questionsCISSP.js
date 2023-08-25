@@ -322,9 +322,98 @@ var questions = [
       "option4": "Cost of not implementing a control",
       "answer": 4
   },
+{ 
+      "question": "Masquerading as another person in order to obtain information illicitly is known as ",
+      "option1": "Hacking",
+      "option2": "Social engineering",
+      "option3": "Extortion",
+      "option4": "Exhumation",
+      "answer": 2
+  },
+{ 
+      "question": "Viruses, rootkits, and Trojan horses are know as ",
+      "option1": "Maniacal code",
+      "option2": "Fractured code",
+      "option3": "infectious code",
+      "option4": "Malicious code",
+      "answer": 4
+  },
+{ 
+      "question": "Antivirus software that detects viruses by watching for anomalous behavior uses what technique? ",
+      "option1": "Signature matching",
+      "option2": "Fleuristics",
+      "option3": "Heroistics",
+      "option4": "Heuristics",
+      "answer": 4
+  },
+{ 
+      "question": "A developer, suspecting that he may be fired soon, modifies an important program that will corrupt payroll files long after he is gone. The developer has created an ",
+      "option1": "Delayed virus",
+      "option2": "Logic bomb",
+      "option3": "Applet bomb",
+      "option4": "Trojan horse",
+      "answer": 2
+  },
+{ 
+      "question": "A SYN flood is an example of a  ",
+      "option1": "Dictionary attack",
+      "option2": "High Watermark attack",
+      "option3": "Buffer Overflow attack",
+      "option4": "Denial of Service attack",
+      "answer": 4
+  },
+{ 
+      "question": "The process of recording changes made to systems is know as  ",
+      "option1": "Change Review Board",
+      "option2": "System Maintenance",
+      "option3": "Change Management",
+      "option4": "Configuration Management",
+      "answer": 4
+  },
+{ 
+      "question": "A system that accumulates knowledge by observing events inputs and outcomes is know as an ",
+      "option1": "Expert system",
+      "option2": "Neural network",
+      "option3": "Synaptic network",
+      "option4": "Neural array",
+      "answer": 2
+  },
+{ 
+      "question": "The logic present in a object is known as  ",
+      "option1": "Encapsulation",
+      "option2": "Personality",
+      "option3": "Behavior",
+      "option4": "Method",
+      "answer": 4
+  },
+{ 
+      "question": "The restricted environment that Java applets occuy is known as a   ",
+      "option1": "Sandbox",
+      "option2": "Workbox",
+      "option3": "Trusted Zone",
+      "option4": "Instantiation",
+      "answer": 1
+  },
+{ 
+      "question": "An attacker has placed a URL on a website that , if clicked, will cause malicious javascript to execute on victims browsers. This is know as a   ",
+      "option1": "Phishing attack",
+      "option2": "Script injection attack",
+      "option3": "Cross-site scripting attack",
+      "option4": "Cross-site request forgery attack",
+      "answer": 3
+  },
 
 
 
+
+
+
+
+
+
+
+
+  
   
   
 
