@@ -282,10 +282,46 @@ var questions = [
       "option4": "IETF",
       "answer": 4
   },
-
-
-
-
+{ 
+      "question": "Which organizational role is tasked with assigning senisitivity labels? ",
+      "option1": "Management",
+      "option2": "The auditor",
+      "option3": "The user",
+      "option4": "The owner",
+      "answer": 4
+  },
+{ 
+      "question": "When the cost of the countermeasure outweighs the value of the asset, which of the following is the best approach?",
+      "option1": "take no action",
+      "option2": "Transference the risk",
+      "option3": "Mitigate the risk",
+      "option4": "Increase the cost of exposure",
+      "answer": 1
+  },
+{ 
+      "question": "Which ISO document is used for a standard for information security management",
+      "option1": "ISO 27001",
+      "option2": "ISO 27002",
+      "option3": "ISO 27004",
+      "option4": "ISO 27799",
+      "answer": 3
+  },
+{ 
+      "question": "It is important that the CISSP candidate understand the differences between the various legal systems used around the world. One early system was Corpus Juris Civilis which feated a comprehesive system of written rules of law that serves as the basis for which legal system today?",
+      "option1": "Civil law",
+      "option2": "Religious law",
+      "option3": "Common law",
+      "option4": "Customary law",
+      "answer": 1
+  },
+{ 
+      "question": "TCO does not include which of the following",
+      "option1": "Software updates",
+      "option2": "Subscription costs",
+      "option3": "Maintenance costs",
+      "option4": "Cost of not implementing a control",
+      "answer": 4
+  },
 
 
 
