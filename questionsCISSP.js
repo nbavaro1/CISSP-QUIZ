@@ -642,13 +642,102 @@ var questions = [
       "option4": "Output verification",
       "answer": 3
   },
+{ 
+      "question": "The four modes of DES include all the following except?",
+      "option1": "ECB",
+      "option2": "ECC",
+      "option3": "CFB",
+      "option4": "CBC",
+      "answer": 2
+  },
+{ 
+      "question": "A type of cipher that replaces bits characters, or character blocks with alternate bits, characters, or character blocks to produce ciphertext is known as a  ?",
+      "option1": "Permutation cipher",
+      "option2": "Block cipher",
+      "option3": "Transposition cipher",
+      "option4": "Substitution cipher",
+      "answer": 4
+  },
+{ 
+      "question": "Which of the following is not an advantage of symmetric key systems? ",
+      "option1": "Scalability",
+      "option2": "Speed",
+      "option3": "Strength",
+      "option4": "Availability",
+      "answer": 1
+  },
+{ 
+      "question": "The Advanced Encryption Standard AES is based on what symmetric key algorithm? ",
+      "option1": "Twofish",
+      "option2": "Knapsack",
+      "option3": "Diffie Hellman",
+      "option4": "Rijndael",
+      "answer": 4
+  },
+{ 
+      "question": "A message that's encrypted with only the sender's private key for the purpose of authentication is known as a  ",
+      "option1": "Secure message format",
+      "option2": "Signed and secure message format",
+      "option3": "Open message format",
+      "option4": "Message digest",
+      "answer": 3
+  },
+{ 
+      "question": "All the following are examples of asymmetric key systems based on descrete logarithms except  ",
+      "option1": "Diffie-Hellman",
+      "option2": "Elliptic Curve",
+      "option3": "RSA",
+      "option4": "El Gamal",
+      "answer": 3
+  },
+ { 
+      "question": "The four main components of a public key infrastructure PKI include all the following except  ",
+      "option1": "Directory Service",
+      "option2": "Certification Authority",
+      "option3": "Repository",
+      "option4": "Archive",
+      "answer": 1
+  }, 
+ { 
+      "question": "Which of the following Internet specifications provides secure e-commerce by using symmetric key systems, asymmetric key systems and dual signatures.  ",
+      "option1": "Public Key Infrastructure PKI",
+      "option2": "Secure Electronic Transaction SET",
+      "option3": "Secure Sockets Layer SSL",
+      "option4": "Secure Hypertest Transfer Protocol S-HTTP",
+      "answer": 2
+  },
+ { 
+      "question": "The minimum number of SAs required for a two way IPSec session between two comunication hosts using byth AH and ESP is   ",
+      "option1": "1",
+      "option2": "2",
+      "option3": "4",
+      "option4": "8",
+      "answer": 3
+  },
+{ 
+      "question": "An IPSec SA consists of the following parameters which uniquely identify it in an IPSec session except   ",
+      "option1": "Source IP Address",
+      "option2": "Destination IP Address",
+      "option3": "Security Protocol ID",
+      "option4": "Security Parameter Index SPI",
+      "answer": 1
+  },
 
 
 
 
 
 
-  
+
+
+
+
+
+
+
+
+
+
   
 
 
