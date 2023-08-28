@@ -522,18 +522,126 @@ var questions = [
       "option4": "Relational database management system",
       "answer": 3
   },
-
-
-
-
-
-
-
-
-
-
-
-
+{ 
+      "question": "You are security manager for a bank that has 100 employees. They are all required to encrypt data before they send it. While they examined both symetric and asymmetric encryption, management has decided to use DES encryption. How many keys will they require for all employees?",
+      "option1": "4950",
+      "option2": "49.5",
+      "option3": "99",
+      "option4": "4900",
+      "answer": 1
+  },
+{ 
+      "question": "Which of the following best describes obtaining plaintext from chphertext without a key?",
+      "option1": "Frequency analysis",
+      "option2": "Cryptanalysis",
+      "option3": "Decryption",
+      "option4": "Hacking",
+      "answer": 2
+  },
+{ 
+      "question": "Which of the following attacks occurs when an attacker can intercept session keys and reuse them at a later date?",
+      "option1": "Known plaintext attack",
+      "option2": "Ciphertext-only attack",
+      "option3": "Man in the middle attack",
+      "option4": "Replay attack",
+      "answer": 4
+  },
+{ 
+      "question": "Which of the following is a disadvantage of symmetric encryption?",
+      "option1": "Key size",
+      "option2": "speed",
+      "option3": "Key management",
+      "option4": "Key strength",
+      "answer": 3
+  },
+{ 
+      "question": "Which of the following is not an example of symmetric algorithm?",
+      "option1": "DES",
+      "option2": "RC5",
+      "option3": "AES",
+      "option4": "RSA",
+      "answer": 4
+  },
+{ 
+      "question": "Which of the following forms of DES is considered the most vulnerable to attack",
+      "option1": "CBC",
+      "option2": "ECB",
+      "option3": "CFB",
+      "option4": "OFB",
+      "answer": 2
+  },
+{ 
+      "question": "DES uses which of the following for a key size?",
+      "option1": "56 bits",
+      "option2": "64 bits",
+      "option3": "96 bits",
+      "option4": "128 bits",
+      "answer": 1
+  },
+{ 
+      "question": "Which implementation of Triple-DES uses the same key for the first and third iterations?",
+      "option1": "DES-EE3",
+      "option2": "HAVAL",
+      "option3": "DES-EE2",
+      "option4": "DES-X",
+      "answer": 3
+  },
+{ 
+      "question": "Which of the following algorithms is used for key distribution, not encryption or digital signatures?",
+      "option1": "El Gamal",
+      "option2": "HAVAL",
+      "option3": "Diffie-Hellman",
+      "option4": "ECC",
+      "answer": 3
+  },
+{ 
+      "question": "Which hashing algorithm produces a 160-bit output?",
+      "option1": "MD2",
+      "option2": "MD4",
+      "option3": "SHA-1",
+      "option4": "El Gamal",
+      "answer": 3
+  },
+{ 
+      "question": "What is another name for a one-time pad?",
+      "option1": "ATBASH cipher",
+      "option2": "Vigenere cipher",
+      "option3": "Caesar cipher",
+      "option4": "Vernam cipher",
+      "answer": 4
+  },
+{ 
+      "question": "Which of the following is alsoknown as a ROT3 cipher?",
+      "option1": "ATBASH cipher",
+      "option2": "Vigenere cipher",
+      "option3": "Caesar cipher",
+      "option4": "Vernam cipher",
+      "answer": 3
+  },
+{ 
+      "question": "Which of the following did the Wassenaar arrangement replace?",
+      "option1": "IETF",
+      "option2": "ComCo",
+      "option3": "The group of five",
+      "option4": "CoCom",
+      "answer": 4
+  },
+{ 
+      "question": "Which of the following is not a hashing algorithm?",
+      "option1": "Whirpool",
+      "option2": "RipeMD",
+      "option3": "Tiger",
+      "option4": "Mars",
+      "answer": 4
+  },
+{ 
+      "question": "While working with a file integrity program, Tripwire you have been asked to review some recent issues with a cryptographic program. What is it called when two different keys generate the same ciphertext for the same message?",
+      "option1": "Hashing",
+      "option2": "A collision",
+      "option3": "Key clustering",
+      "option4": "Output verification",
+      "answer": 3
+  },
 
 
 
