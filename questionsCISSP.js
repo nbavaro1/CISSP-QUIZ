@@ -802,9 +802,97 @@ var questions = [
       "option4": "E6",
       "answer": 3
   },
+{ 
+      "question": "The two types of intrusion detection are",
+      "option1": "Attack based systems and response based systems",
+      "option2": "Signature based systems and anomaly based systems",
+      "option3": "Knowledge based systems and scripture based systems",
+      "option4": "Passive monitoring systems and active monitoring systems",
+      "answer": 2
+  },
+{ 
+      "question": "Recording data traveling on a network is known as ",
+      "option1": "Promiscuous mode",
+      "option2": "Packet sniffing",
+      "option3": "Packet snoring",
+      "option4": "Packing sneaking",
+      "answer": 2
+  },
+{ 
+      "question": "Which of the following is not an example of penetrating testing ",
+      "option1": "Radiation monitoring",
+      "option2": "War driving",
+      "option3": "Port scanning",
+      "option4": "War diving",
+      "answer": 4
+  },
+{ 
+      "question": "Trusted recovery is concenrned with  ",
+      "option1": "The ability of a system to be rebuilt",
+      "option2": "The vulnerability of a system while it's being rebuilt",
+      "option3": "The ability of a system to rebuild itself",
+      "option4": "The willingness of a system to rebuild itself",
+      "answer": 2
+  },
+{ 
+      "question": "The third party inspection of a system is known as a    ",
+      "option1": "Confidence check",
+      "option2": "Integrity trail",
+      "option3": "Audit trail",
+      "option4": "Audit",
+      "answer": 4
+  },
+{ 
+      "question": "One of the primary concerns with long term audit log retention is    ",
+      "option1": "Whether anyone will be around who can find them",
+      "option2": "Whether any violations of privacy laws have occured",
+      "option3": "Whether anyone will be around who understands them",
+      "option4": "Whether any tape/disk drives will be available to read them",
+      "answer": 4
+  },
+{ 
+      "question": "The required operating state of a network interface on a system running a sniffer is     ",
+      "option1": "Open mode",
+      "option2": "Promiscuous mode",
+      "option3": "Licentious mode",
+      "option4": "Pretentious mode",
+      "answer": 2
+  },
+{ 
+      "question": "Filling a system's hard drive so that it can no longer record audit records is known as an     ",
+      "option1": "Audit lock out",
+      "option2": "Audit exception",
+      "option3": "Denial of Facilities attack",
+      "option4": "Denial of Service attack",
+      "answer": 4
+  },
+{ 
+      "question": "An investigator who needs to have access to detailed employee event information may need to use    ",
+      "option1": "Keystroke monitoring",
+      "option2": "Intrusion detection",
+      "option3": "Keystroke analysis",
+      "option4": "Trend analysis",
+      "answer": 1
+  },
+{ 
+      "question": "Which of the following is not true about a signature based IDS    ",
+      "option1": "It reports a low number of false positives",
+      "option2": "It requires periodic updating of its signature files",
+      "option3": "It reports a high number of false positives",
+      "option4": "It can't detect anomalies based on trends",
+      "answer": 3
+  },
 
 
 
+
+
+
+
+
+
+
+  
 
 
 
