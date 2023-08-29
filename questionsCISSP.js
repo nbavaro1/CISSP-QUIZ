@@ -722,14 +722,86 @@ var questions = [
       "option4": "Security Parameter Index SPI",
       "answer": 1
   },
-
-
-
-
-
-
-
-
+{ 
+      "question": "The four CPU operatiing states include all the following except   ",
+      "option1": "Operating",
+      "option2": "Problem",
+      "option3": "Wait",
+      "option4": "Virtual",
+      "answer": 4
+  },
+{ 
+      "question": "A computer system that alternates execution of multiple subprograms on a single processor describes what type of system?  ",
+      "option1": "Multiprogramming",
+      "option2": "Multitasking",
+      "option3": "Multiuser",
+      "option4": "Multiprocessing",
+      "answer": 2
+  },
+{ 
+      "question": "An address used as the origin for calculating other addresses describes  ",
+      "option1": "Base addressing",
+      "option2": "Indexed addressing",
+      "option3": "Indirect addressing",
+      "option4": "Direct addressing",
+      "answer": 1
+  },
+{ 
+      "question": "The four main functions of the operating system include all the following except ",
+      "option1": "Process management",
+      "option2": "BIOS management",
+      "option3": "I/O device management",
+      "option4": "File management",
+      "answer": 2
+  },
+{ 
+      "question": "The total combination of protection mechanisms within a computer system, including hardware, firmware, and software, which is responsible for enforcing a security policy defines",
+      "option1": "Reference monitor",
+      "option2": "Security kernel",
+      "option3": "Trusted Computing Base",
+      "option4": "Protection domain",
+      "answer": 3
+  },
+{ 
+      "question": "A system that continues to operate following a failure of a network component describes which type of system?",
+      "option1": "Fault tolerant",
+      "option2": "Fail safe",
+      "option3": "Fail soft",
+      "option4": "Failover",
+      "answer": 1
+  },
+{ 
+      "question": "Which of the following access control models addresses availability issues?",
+      "option1": "Bell LaPadula",
+      "option2": "Biba",
+      "option3": "Clark Wilson",
+      "option4": "None of the above",
+      "answer": 4
+  },
+{ 
+      "question": "The four basic control requirements identified in the Orange Book include all the following except?",
+      "option1": "Role Based access control",
+      "option2": "Discretionary access control",
+      "option3": "Mandatory access control",
+      "option4": "Object reuse",
+      "answer": 1
+  },
+{ 
+      "question": "The purpose of session management is a web application is",
+      "option1": "To prevent Denial of Service attacks",
+      "option2": "To collect session based security metrics",
+      "option3": "To control the nuber of concurret sessions",
+      "option4": "To protect sessions from unauthorized access",
+      "answer": 4
+  },
+{ 
+      "question": "Which of the following ITSEC classification levels is equivalent to TCSEC level B3",
+      "option1": "E3",
+      "option2": "E4",
+      "option3": "E5",
+      "option4": "E6",
+      "answer": 3
+  },
 
 
 
