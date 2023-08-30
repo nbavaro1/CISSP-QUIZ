@@ -890,7 +890,6 @@ var questions = [
       "option4": "Maximum Tolerable Downtime",
       "answer": 4
   },
-  },
 { 
       "question": "Which of the following is not a natural disaster?  ",
       "option1": "Avalanche",
