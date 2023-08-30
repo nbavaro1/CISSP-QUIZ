@@ -957,15 +957,141 @@ var questions = [
   },
 { 
       "question": "The most extensive test for a Disaster Recovery Plan   ",
-      "option1": "Has dual failover
+      "option1": "Has dual failover",
       "option2": "Is a waste of paper",
       "option3": "Is known as a parallel test",
       "option4": "Is known as an interruption test",
       "answer": 4
   },
+{ 
+      "question": "You are an information assurance manager for a large company that wants to develop a BCP. You would like have your team throughly test the plan to ensure that when the company faces a natural disaster, it will survive. The company relies heavily on e-commerce and must ensure that in the event a server fails customers will still be able to complete financial tranactions online. You have already implemented redundancy for the web application servers, and you have deployed a database activity monitor and web application firewall. Your concern is that jbackup systems com on if the primary system fails. You would like to test these systems but do not want to take primary systems offline. What best explains the type of test you are recommending?   ",
+      "option1": "Tabletop/walkthrough",
+      "option2": "Simulation",
+      "option3": "Parallel",
+      "option4": "Full interruption",
+      "answer": 3
+  },
+{ 
+      "question": "Which of the following groups is responsible for project initiation?  ",
+      "option1": "Functional business units",
+      "option2": "Senior management",
+      "option3": "BCP team members",
+      "option4": "Middle management",
+      "answer": 2
+  },
+{ 
+      "question": "When organization starts to plan for business continuity and disaster recovery it will likely be a very large, complex, and multi-discipinary project that would bring key associates within the organization together. What best describes the role of senior management? ",
+      "option1": "They will plan for money for the DR project manager, technology experts, process experts, or other financial requirements from various departments with in the organization",
+      "option2": "To be willing to make the discussion to make DRP a priority, commit and allow staff the time, and set hard dates for completion.",
+      "option3": "BCP team membersTo manage the multi-disciplinary people to keep them all on the same page",
+      "option4": "To be experts and understand specific processes that require special skill set",
+      "answer": 2
+  },
+{ 
+      "question": "Which of the following is not considered an advantage of a mutual aid agreement? ",
+      "option1": "Low cost",
+      "option2": "Enforcement",
+      "option3": "Documentation",
+      "option4": "Testing",
+      "answer": 2
+  },
+{ 
+      "question": "Which of the following uses batch processing? ",
+      "option1": "Remote journaling",
+      "option2": "Hierarchical storage management",
+      "option3": "Electronic vaulting",
+      "option4": "Static management",
+      "answer": 3
+  },
+{ 
+      "question": "Which of the following BCP tests carries the most risk? ",
+      "option1": "Full interruption",
+      "option2": "Parallel",
+      "option3": "Walkthrough",
+      "option4": "Checklist",
+      "answer": 1
+  },
+{ 
+      "question": "Which of the following is the best definition of a software escrow agreement? ",
+      "option1": "Provides the vendor with additional assurances that the software will be used per licensing agreements",
+      "option2": "Specifies how much a vendor can charge for updates",
+      "option3": "Gives the company access to the source code under certain conditions",
+      "option4": "Provides the vendor access to the organization's code if there are questions of compatibility",
+      "answer": 3
+  },
+{ 
+      "question": "Which of the following will a business impact analysis provide? ",
+      "option1": "Determining the maximum outage time before the company is permanently damaged",
+      "option2": "Detailing how training and awareness will be performed and how the plan will be updated",
+      "option3": "Establishing the need for BCP",
+      "option4": "Selecting recovery strategies",
+      "answer": 1
+  },
+{  
+      "question": "Mike had a server crash on Thursday mornig,Bob performed a backup in which he used the complete backup from Sunday and several other tapes from Monday, Tuesday and Wednesday. Which tape backup method was used? ",
+      "option1": "Full restore",
+      "option2": "Structured restore",
+      "option3": "Differential restore",
+      "option4": "Selecting recovery Incremental restore",
+      "answer": 4
+  },
+{  
+      "question": " Which of the following tape rotation schemes involves using five sets of tapes with each set labeled A through E? ",
+      "option1": "Tower of Hanoi",
+      "option2": "Son-father-grandfather",
+      "option3": "Complex",
+      "option4": "Grandfather-father-son",
+      "answer": 1
+  },
+{  
+      "question": " If the recovery point objective RPO is low which of the follwing techniques would be the most appropriate solution? ",
+      "option1": "Clustering",
+      "option2": "Database shadowing",
+      "option3": "Remote journaling",
+      "option4": "Tape backup",
+      "answer": 4
+  },
+{  
+      "question": " You have been assigned to the BCP team responsible for backup options and offsite storage. Your company is considering the purchase of software from a small startup operation that has a proven record for unique software solutions. To mitigate the potential for loss, which of the following should you reccommend? ",
+      "option1": "Clustering",
+      "option2": "Software escrow",
+      "option3": "Insurance",
+      "option4": "Continuous backup",
+      "answer": 2
+  },
+{  
+      "question": "Which of the following is one of the most important steps that is required before developing a business continuity plan?",
+      "option1": "Perform a BIA",
+      "option2": "Perform quantitative and qualitative risk assessment",
+      "option3": "Get senior management buy in",
+      "option4": "Determine membership of the BCP team",
+      "answer": 3
+  },
+{  
+      "question": "When developing a business continuity plan what shold be the number one priority?",
+      "option1": "Minimizing outage times",
+      "option2": "Mitigating damage",
+      "option3": "Documenting every conceivable threat",
+      "option4": "Protection of human safety",
+      "answer": 4
+  },
+{  
+      "question": "Which of the following could be used to determine MTD for a vital function?",
+      "option1": "Payroll",
+      "option2": "Product support",
+      "option3": "Purchasing",
+      "option4": "Research and development",
+      "answer": 1
+  },
 
 
-  
+
+
+
+
+
+
+
 
 
 
