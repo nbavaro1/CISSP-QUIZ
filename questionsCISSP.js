@@ -882,14 +882,87 @@ var questions = [
       "option4": "It can't detect anomalies based on trends",
       "answer": 3
   },
-
-
-
-
-
-
-
-
+{ 
+      "question": "The longest period of time that a business can survive without a critical function is called   ",
+      "option1": "Downtime Tolerability Period",
+      "option2": "Greatest Tolerable Downtime",
+      "option3": "Maximum Survivable Downtime",
+      "option4": "Maximum Tolerable Downtime",
+      "answer": 4
+  },
+  },
+{ 
+      "question": "Which of the following is not a natural disaster?  ",
+      "option1": "Avalanche",
+      "option2": "Stock market crash",
+      "option3": "Fire",
+      "option4": "Water supply storage drought",
+      "answer": 2
+  },
+{ 
+      "question": "The impact of a disaster on business operations is contained in   ",
+      "option1": "Local newspapers and online media",
+      "option2": "The Business Impact Assessment",
+      "option3": "The Operations Impact Assessment",
+      "option4": "The Vulnerability Assessment",
+      "answer": 2
+  },
+{ 
+      "question": "The decision whether to purchase an emergency generator is based on    ",
+      "option1": "Wholesale electric rates",
+      "option2": "Retail electric rates",
+      "option3": "The duration of a typical outage",
+      "option4": "The income rate of affected systems",
+      "answer": 3
+  },
+{ 
+      "question": "The purpose of a UPS is   ",
+      "option1": "To provide instantaneous power cutover when utility power fails",
+      "option2": "A lower cost for overnight shipping following a disaster",
+      "option3": "The duration of a typical outageThe need to steer an unresponsive vehicle after it's moving again",
+      "option4": "To restore electric power within 24 hours",
+      "answer": 1
+  },
+{ 
+      "question": "The Business Impact Assessment  ",
+      "option1": "Describes the impact of disaster recovery planning on the budget",
+      "option2": "Describes the impact of a disaster on business operations",
+      "option3": "Is a prerequisite to the Vulnerability Assessment",
+      "option4": "Is the first official statement produced after a disaster",
+      "answer": 2
+  },
+{ 
+      "question": "To maximize the safety of backup media, it should be stored ",
+      "option1": "At a specialized off-site media storage facility",
+      "option2": "At the residences of various senior managers",
+      "option3": "In the operations center in a locked cabinet",
+      "option4": "Between 50F and 60F",
+      "answer": 1
+  },
+{ 
+      "question": "An alternate information processing facility with all systems, patches, and data mirrored from live production systems is known as a  ",
+      "option1": "Warm site",
+      "option2": "Hot site",
+      "option3": "Recovery site",
+      "option4": "Mutual Aid Center",
+      "answer": 2
+  },
+{ 
+      "question": "The greatest advantage of a cold site is   ",
+      "option1": "It can be built nearly anywhere",
+      "option2": "Its high responsiveness",
+      "option3": "Its low cost",
+      "option4": "Mutual Aid Its close proximity to airports",
+      "answer": 3
+  },
+{ 
+      "question": "The most extensive test for a Disaster Recovery Plan   ",
+      "option1": "Has dual failover
+      "option2": "Is a waste of paper",
+      "option3": "Is known as a parallel test",
+      "option4": "Is known as an interruption test",
+      "answer": 4
+  },
 
 
   
