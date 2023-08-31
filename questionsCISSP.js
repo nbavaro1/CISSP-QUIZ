@@ -1242,10 +1242,54 @@ var questions = [
       "option4": "It is harmful if inhaled",
       "answer": 2
   },
-
-
-
-
+ {  
+      "question": "The Triffid Corporation publishes a strategic overview of the compa ny's intent to secure all the data the company possesses. This document is signed by Triffid senior management What kind of document is this",
+      "option1": "Policy",
+      "option2": "Procedure",
+      "option3": "Standard",
+      "option4": "Law",
+      "answer": 1
+  },
+{  
+      "question": "Which of the following is an example of something you are authenfication factor",
+      "option1": "A credit card presented to a cash machine",
+      "option2": "Your password and PIN",
+      "option3": "A user ID",
+      "option4": "A photograph of your face",
+      "answer": 4
+  },
+{  
+      "question": "Triffid Corporation has a rule that all employees working with sensitive hardcopy documents must put the documents into a safe at the end of the workday, whaere they are locked up until the following workday. What kind of control is the process of putting the documentes into the safe?",
+      "option1": "Administrative",
+      "option2": "Tangential",
+      "option3": "Physical",
+      "option4": "Technical",
+      "answer": 1
+  },
+{  
+      "question": "Prachi works as a database administrator for Triffid Inc Prachi is allowed to add or delete users, but is not allowed to read or modify the data in the database itself. When Prachi logs into the system and  access control list ACL checks to determine which permissions Prachi has?",
+      "option1": "The Subject",
+      "option2": "The object",
+      "option3": "The rule",
+      "option4": "The firmware",
+      "answer": 3
+  },
+{  
+      "question": "The logical address of a device connected to the network or internet",
+      "option1": "Media access control MAC address",
+      "option2": "Internet Protocol IP address",
+      "option3": "Geophysical address",
+      "option4": "Terminal address",
+      "answer": 2
+  },
+{  
+      "question": "Garfield is a security analyst at Triffid Inc Garfield notices that a particular application in the production environment is being copied very quickly across systems and devices utillized by many users. What kind of attack could this be?",
+      "option1": "Spoofing",
+      "option2": "Side channel",
+      "option3": "Trojan",
+      "option4": "Worm",
+      "answer": 4
+  },
 
 
 
