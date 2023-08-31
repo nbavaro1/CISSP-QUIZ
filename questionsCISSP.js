@@ -1162,8 +1162,101 @@ var questions = [
       "option4": "As son as it has been detected",
       "answer": 4
   },
+{  
+      "question": "The three elements of the fire triangle necessary for a fire to burn include all the following except",
+      "option1": "Fuel",
+      "option2": "Oxygen",
+      "option3": "Heat",
+      "option4": "Nitrogen",
+      "answer": 4
+  },
+{  
+      "question": "Electrical fires are classified as what type of fire and use what extinguishing methods?",
+      "option1": "Class B; CO2 or soda acid",
+      "option2": "Class B; CO2 or FM-200",
+      "option3": "Class C; CO2 or FM-200",
+      "option4": "Class A; water or soda acid",
+      "answer": 3
+  },
+{  
+      "question": "A prolonged drop in voltage describes what electrical anomaly",
+      "option1": "Brownout",
+      "option2": "Blackout",
+      "option3": "Sag",
+      "option4": "Fault",
+      "answer": 1
+  },
+{  
+      "question": "What type of cabling should be used below raised floors and above drop ceilings?",
+      "option1": "CAT-5",
+      "option2": "Plenum",
+      "option3": "PVC",
+      "option4": "Water-resistant",
+      "answer": 2
+  },
+{  
+      "question": "In order to deter casual trespassers, fencing should be a minimum height of ?",
+      "option1": "1 to 3 feet",
+      "option2": "3 to 4 feet",
+      "option3": "6 to 7 feet",
+      "option4": "8 feet or higher",
+      "answer": 2
+  },
+{  
+      "question": "Three types of intrusion detection systems IDSs used for physical security include photoelectric sensors, dry contact switches, and which of the following ?",
+      "option1": "Motio detectors",
+      "option2": "Anomaly based",
+      "option3": "Host based",
+      "option4": "Network based",
+      "answer": 1
+  },
+{  
+      "question": "A water sprinkler system in which no water is initially present in the pipes and which at activation delivers a large volume of water describes what type of system?",
+      "option1": "Wet pipe",
+      "option2": "Dry pipe",
+      "option3": "Deluge",
+      "option4": "Preaction",
+      "answer": 3
+  },
+{  
+      "question": "Portable CO2 fire extinguishers are classified as what type of extinguishing system?",
+      "option1": "Gas discharge systems",
+      "option2": "Water sprinkler systems",
+      "option3": "Deluge systems",
+      "option4": "Preaction systems",
+      "answer": 1
+  },
+{  
+      "question": " Which of the following extinguishing agents fights fires by separating the elements of the fire triangle, rather then by simply removing one element?",
+      "option1": "Water",
+      "option2": "Soda acid",
+      "option3": "CO2",
+      "option4": "FM-200",
+      "answer": 4
+  },
+ {  
+      "question": "Production of Halon has been banned for what reason?",
+      "option1": "It is toxic at temperatures above 900F",
+      "option2": "It is an ozone depleting substance",
+      "option3": "It is ineffective",
+      "option4": "It is harmful if inhaled",
+      "answer": 2
+  },
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
