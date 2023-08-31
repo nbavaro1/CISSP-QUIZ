@@ -1082,14 +1082,86 @@ var questions = [
       "option4": "Research and development",
       "answer": 1
   },
-
-
-
-
-
-
-
-
+{  
+      "question": "Penalties for conviction in a civil case can include",
+      "option1": "Imprisonment",
+      "option2": "Probation",
+      "option3": "Fines",
+      "option4": "Community service",
+      "answer": 3
+  },
+{  
+      "question": "Possible damages in a civil case are classified as all the follwing except",
+      "option1": "Compensatory",
+      "option2": "Punitive",
+      "option3": "Statutory",
+      "option4": "Financial",
+      "answer": 4
+  },
+{  
+      "question": "Computer attacks motivated by curisoity or excitement describe",
+      "option1": "Fun attacks",
+      "option2": "Grudge attacks",
+      "option3": "Business attacks",
+      "option4": "Financial attacks",
+      "answer": 1
+  },
+{  
+      "question": "Intellectual property includes all the following except",
+      "option1": "Patents and trademarks",
+      "option2": "Trade secrets",
+      "option3": "Copyrights",
+      "option4": "Computers",
+      "answer": 4
+  },
+{  
+      "question": "Under the computer Fraud and Abuse Act of 1986 as amended which of the following is not considered a crime?",
+      "option1": "Unauthorized acess",
+      "option2": "Altering damaging or destroying information",
+      "option3": "Trafficking child pornography",
+      "option4": "Trafficking computer passwords",
+      "answer": 3
+  },
+{  
+      "question": "Which of the following is not considered one of the four major categories of evidence?",
+      "option1": "Circumstantial evidence",
+      "option2": "Direct evidence",
+      "option3": "Demonstrative evidence",
+      "option4": "Real evidence",
+      "answer": 1
+  },
+{  
+      "question": "In order to be admissible in a court of law evidence must be ?",
+      "option1": "Conclusive",
+      "option2": "Relevant",
+      "option3": "Incontrovertible",
+      "option4": "Immaterial",
+      "answer": 2
+  },
+{  
+      "question": "What term describes the evidence gathering technique of luring an individual toward certain evidence after that individual has already committed a crime; is this considered legal or illegal?",
+      "option1": "Enticement/Legal",
+      "option2": "Coercion/Illegal",
+      "option3": "Entrapment/Illegal",
+      "option4": "Enticement/Illegal",
+      "answer": 1
+  },
+{  
+      "question": "In a civil case the court may issue an order allowing a law enforecment official to seize specific evidence. This order is known as an?",
+      "option1": "Subpoena",
+      "option2": "Exigent circumstances doctrine",
+      "option3": "Writ of Possession",
+      "option4": "Search warrant",
+      "answer": 3
+  },
+{  
+      "question": "When should managemment be notified of a computer crime?",
+      "option1": "After the investigation has been completed",
+      "option2": "After the preliminary investigation",
+      "option3": "Prior to detction",
+      "option4": "As son as it has been detected",
+      "answer": 4
+  },
 
 
 
