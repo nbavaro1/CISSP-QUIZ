@@ -1290,15 +1290,86 @@ var questions = [
       "option4": "Worm",
       "answer": 4
   },
-
-
-
-
-
-
-
-
-
+{  
+      "question": "The number one priority of disaster planning should always be ?",
+      "option1": "Preservation of capital",
+      "option2": "Personnel evacuation and safety",
+      "option3": "Resumption of core business functions",
+      "option4": "Investor relations",
+      "answer": 2
+  },
+{  
+      "question": "An access control system that grants access to information based on that information classification and the clearance of the individual is know as ",
+      "option1": "Identity based access control",
+      "option2": "Mandatory access control",
+      "option3": "Role based access control",
+      "option4": "Clearance based access control",
+      "answer": 2
+  },
+{  
+      "question": "A database that contains the data structures used by an application is known as ",
+      "option1": "A data encyclopedia",
+      "option2": "A data dictionary",
+      "option3": "Metadata",
+      "option4": "A schema",
+      "answer": 2
+  },
+{  
+      "question": "The process of breaking the dey and or plaintext from an enciphered message is known as  ",
+      "option1": "Decryption",
+      "option2": "Steganography",
+      "option3": "Cryptanalysis",
+      "option4": "Extraction",
+      "answer": 3
+  },
+{  
+      "question": "The Internet Worm incident of 1988 was perpetrated by ",
+      "option1": "The 414 Gang",
+      "option2": "Robert Morris",
+      "option3": "Kevin Mitnick",
+      "option4": "Gene Spafford",
+      "answer": 2
+  },
+{  
+      "question": "Access controls and card key systems are examples of  ",
+      "option1": "Detective controls",
+      "option2": "Preventive controls",
+      "option3": "Corrective controls",
+      "option4": "Trust controls",
+      "answer": 2
+  },
+{  
+      "question": "Why should a datacenter's walls go all the way to the ceiling and not just stop as high as the suspended ceiling  ",
+      "option1": "The walls will be stronger",
+      "option2": "The HVAC will run more efficiently",
+      "option3": "An intruder could enter the datacenter by climbing over the low wall",
+      "option4": "The high wall will block more noise",
+      "answer": 3
+  },
+{  
+      "question": "Memory that 's used to store computer instructions and data is known as  ",
+      "option1": "UART",
+      "option2": "SIMM",
+      "option3": "Cache",
+      "option4": "ROM",
+      "answer": 3
+  },
+{  
+      "question": "of what value is separation of authority in an organization? ",
+      "option1": "It limits the capabilities of any single individual",
+      "option2": "It provides multiple paths for fulfilling critical tasks",
+      "option3": "It accommodates the requirement for parallel audit trails",
+      "option4": "It ensures that only one person is authorized to perform each task",
+      "answer": 1
+  },
+{  
+      "question": "UDP is sometimes called the unreliable data protocol because ",
+      "option1": "It works only on low speed wireless LANs",
+      "option2": "UDP packets rarely get through because they have a lower priority",
+      "option3": "Few know how to program UDP",
+      "option4": "UDP does not garantee delivery",
+      "answer": 4
+  },
 
   
 
