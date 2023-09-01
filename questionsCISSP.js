@@ -1315,7 +1315,7 @@ var questions = [
       "answer": 2
   },
 {  
-      "question": "The process of breaking the dey and or plaintext from an enciphered message is known as  ",
+      "question": "The process of breaking the key and or plaintext from an enciphered message is known as  ",
       "option1": "Decryption",
       "option2": "Steganography",
       "option3": "Cryptanalysis",
@@ -1347,7 +1347,7 @@ var questions = [
       "answer": 3
   },
 {  
-      "question": "Memory that 's used to store computer instructions and data is known as  ",
+      "question": "Memory that's used to store computer instructions and data is known as  ",
       "option1": "UART",
       "option2": "SIMM",
       "option3": "Cache",
@@ -1355,7 +1355,7 @@ var questions = [
       "answer": 3
   },
 {  
-      "question": "of what value is separation of authority in an organization? ",
+      "question": "Of what value is separation of authority in an organization? ",
       "option1": "It limits the capabilities of any single individual",
       "option2": "It provides multiple paths for fulfilling critical tasks",
       "option3": "It accommodates the requirement for parallel audit trails",
