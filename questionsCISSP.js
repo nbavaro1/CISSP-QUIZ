@@ -1530,6 +1530,86 @@ var questions = [
       "option4": "7",
       "answer": 1
   },
+{  
+      "question": "The primary difference between a hot site and a warm site is",
+      "option1": "The hot site is closer to the organization's datacenters then the warm site",
+      "option2": "The warm site's systems don't have the organization's software or data installed",
+      "option3": "The warm site doesn't have computer systems in it",
+      "option4": "The warm site is powered down but the hot sie is powered up and ready to go",
+      "answer": 2
+  },
+{  
+      "question": "Encryption, tokens, access control lists, and smart cards are know as  ",
+      "option1": "Discretionary access controls",
+      "option2": "Physical controls",
+      "option3": "Techincal controls",
+      "option4": "Administrative controls",
+      "answer": 3
+  },
+{  
+      "question": "Data mining  ",
+      "option1": "Can be performed by privileged users only",
+      "option2": "Is generally performed after hours because it's resource intensive",
+      "option3": "Refers to searches for correlations in a data warehouse",
+      "option4": "Is the term used to describe the activities of a hacker who has broken into a database",
+      "answer": 3
+  },
+{  
+      "question": "Reading down the columns of a message that has been written across is know as   ",
+      "option1": "A columnar transposition cipher",
+      "option2": "Calculating the hash",
+      "option3": "Calculating the checksum",
+      "option4": "Calculating the modulo",
+      "answer": 1
+  },
+{  
+      "question": "A witness  ",
+      "option1": "Offers an opinion based on the facts of a case and on personal expertise",
+      "option2": "Is someone who was present at the scene of the crime",
+      "option3": "Has direct personal knowledge about the event in question",
+      "option4": "Can testify in criminal proceeding only",
+      "answer": 3
+  },
+{  
+      "question": "Covert channel analysis is used to  ",
+      "option1": "Detect and understand unauthorized communication",
+      "option2": "Encipher unauthorized communications",
+      "option3": "Decipher unauthorized communications",
+      "option4": "Recover unauthorized communications",
+      "answer": 1
+  },
+{  
+      "question": "Of what value is pre-employment screening ",
+      "option1": "Undersirable medical or genetic conditions could diminish productivity",
+      "option2": "Only certain personality types can work effectively in some organizations",
+      "option3": "Employees need to have knowledge of security",
+      "option4": "Background checks could uncover undesirable qualities",
+      "answer": 4
+  },
+{  
+      "question": "The mapping of existing physical memory into a larger imaginary memory space is known as  ",
+      "option1": "Virtual memory",
+      "option2": "Swapping",
+      "option3": "Thrashing",
+      "option4": "Spooling",
+      "answer": 1
+  },
+{  
+      "question": "Which individual is responsible for protecting information  ",
+      "option1": "Owner",
+      "option2": "Custodian",
+      "option3": "Creator",
+      "option4": "User",
+      "answer": 2
+  },
+{  
+      "question": "ARP is  ",
+      "option1": "Access Routing Protocol",
+      "option2": "Address Resolution Protocol",
+      "option3": "Access Resoution Protocol",
+      "option4": "Address Recovery Protocol",
+      "answer": 2
+  },
 
 
 
@@ -1538,6 +1618,14 @@ var questions = [
 
 
 
+
+
+
+
+
+
+
+  
 
   
 
