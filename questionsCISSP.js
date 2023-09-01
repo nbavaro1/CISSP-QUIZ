@@ -203,7 +203,7 @@ var questions = [
       "answer": 3
   },
 { 
-      "question": "The following statement can be found in which standard? Systems Wwners have security responsibilitites outside their own organization ",
+      "question": "The following statement can be found in which standard? Systems Owners have security responsibilitites outside their own organization ",
       "option1": "Ethics and the internet",
       "option2": "RFC 1087 ",
       "option3": "ISC2 Code of ethics",
