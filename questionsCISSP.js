@@ -1450,13 +1450,86 @@ var questions = [
       "option4": "TCP address space is nearly exhausted",
       "answer": 2
   },
-
-
-
-
-
-
-
+{  
+      "question": "The longest period of time that an organization can accept a critical outage is know as  ",
+      "option1": "Maximum Acceptable Downtime",
+      "option2": "Greatest Tolerated Downtime",
+      "option3": "Maximum Tolerable Downtime",
+      "option4": "Recovery Time Objective",
+      "answer": 3
+  },
+{  
+      "question": "An access control system that gives the user some control over who has access to information is known as  ",
+      "option1": "Identity based access control",
+      "option2": "User directed access control",
+      "option3": "Role based access control",
+      "option4": "Clearance based access control",
+      "answer": 2
+  },
+{  
+      "question": "CRCs, parity checks, and checksums are examples of   ",
+      "option1": "Corrective application controls",
+      "option2": "Message digests",
+      "option3": "Preventive application controls",
+      "option4": "Detective application controls",
+      "answer": 4
+  },
+{  
+      "question": "Why would a user's public encryption key be widely disributed?   ",
+      "option1": "So that cryptographers can attempt to break it",
+      "option2": "Because it's encrypted",
+      "option3": "Because the user's private key cant't be derived from his or her public key",
+      "option4": "So that the user can decrypt messages from any location",
+      "answer": 3
+  },
+{  
+      "question": "An expert witness   ",
+      "option1": "Offers an opinion based on the facts of a case and on personl expertise",
+      "option2": "Is someone who was present at the scene of the crime",
+      "option3": "Has direct personal knowledge about the event in question",
+      "option4": "Can testify in criminal proceedings only",
+      "answer": 1
+  },
+{  
+      "question": "Reboot instructions and file restore procedures are examples of  ",
+      "option1": "Detective controls",
+      "option2": "Preventive controls",
+      "option3": "Corrective controls",
+      "option4": "Trust controls",
+      "answer": 3
+  },
+{  
+      "question": "Drain pipes that channel liquids away from a building are called",
+      "option1": "Positive drains",
+      "option2": "Tight lines",
+      "option3": "Storm drains",
+      "option4": "Negative drains",
+      "answer": 1
+  },
+{  
+      "question": "What's the purpose of memory protection?",
+      "option1": "It protects memory from malicious code",
+      "option2": "It prevents a program from being able to access memory used by another program",
+      "option3": "Memory protection is another term used to describe virtual memory backing store",
+      "option4": "It assures that hardware refresh happens frequently enough to maintain memory integrity",
+      "answer": 2
+  },
+{  
+      "question": "Which individual is responsible for classifying information?",
+      "option1": "Owner",
+      "option2": "Custodian",
+      "option3": "Creator",
+      "option4": "User",
+      "answer": 1
+  },
+{  
+      "question": "How many layers does the TCP/IP protocal model have?",
+      "option1": "4",
+      "option2": "5",
+      "option3": "6",
+      "option4": "7",
+      "answer": 1
+  },
 
 
 
