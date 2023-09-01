@@ -1370,8 +1370,98 @@ var questions = [
       "option4": "UDP does not garantee delivery",
       "answer": 4
   },
+{  
+      "question": "Which of the following is not a goal of a Business Impact Assessment BIA ",
+      "option1": "To inventory mutual aid agreements",
+      "option2": "To identify and prioritize business critical functions",
+      "option3": "To determine how much downtime the business can tolerate",
+      "option4": "To identify resources required by critical proceses",
+      "answer": 1
+  },
+{  
+      "question": "An access control system that grants access to information based on the identity of the user is known as ",
+      "option1": "Identity based access control",
+      "option2": "Mandatory access control",
+      "option3": "Role based access control",
+      "option4": "Clearance based access control",
+      "answer": 1
+  },  
+{  
+      "question": "The purpose of a Service Level Agreement is  ",
+      "option1": "To guarantee a minimum quality of service for an application or function",
+      "option2": "To guarantee the maximum quality of service for an application or funtion",
+      "option3": "To identify gaps in availability of an application",
+      "option4": "To correct issues identified in a security audit",
+      "answer": 1
+  },    
+{  
+      "question": "The method of encryption in which both sender and recipiet possess a common encryption key is know as   ",
+      "option1": "Message digest",
+      "option2": "Hash function",
+      "option3": "Public key cryptography",
+      "option4": "Secret key cryptography",
+      "answer": 4
+  },
+{  
+      "question": "Forensics is the term that describes   ",
+      "option1": "Due process",
+      "option2": "Tracking hackers who operate in other countries",
+      "option3": "Taking steps to preserve and record evidence",
+      "option4": "Scrubbing a system in order to return it to service",
+      "answer": 3
+  },
+{  
+      "question": "Audit trails and security cameras are examples of   ",
+      "option1": "Detective controls",
+      "option2": "Preventive controls",
+      "option3": "corrective controls",
+      "option4": "Trust controls",
+      "answer": 1
+  },
+{  
+      "question": "How does water aid in fire suppression?  ",
+      "option1": "It reduces the fires's oxygen supply",
+      "option2": "It isolates the fire's fuel supply",
+      "option3": "It lowers the temperature to a degree at which the fire can't sustain itself",
+      "option4": "It extinguishes the fire through a chemical reaction",
+      "answer": 3
+  },
+{  
+      "question": "Firmware is generally stored on ?  ",
+      "option1": "ROM or EPROM",
+      "option2": "Tape",
+      "option3": "RAM",
+      "option4": "Any removable media",
+      "answer": 1
+  },
+{  
+      "question": "The term open view refers to what activity ?  ",
+      "option1": "Reclassifying a document so that anyone can view it",
+      "option2": "Viewing the contents of one's private encryption key",
+      "option3": "Leaving classified information where unauthorized people can see it",
+      "option4": "Using a decryption key to view the contents of a message",
+      "answer": 3
+  },
+{  
+      "question": "TCP is a poor choice for streaming video because?  ",
+      "option1": "It is too bursty for large networks",
+      "option2": "Acknowledgment and sequencing add significantly to its overhead",
+      "option3": "Checksums in video packet are meaningless",
+      "option4": "TCP address space is nearly exhausted",
+      "answer": 2
+  },
 
-  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
