@@ -1690,9 +1690,90 @@ var questions = [
       "option4": "It acquires the next IP address on a circular route",
       "answer": 1
   },
+{  
+      "question": "The Disaster Recovery Polan DRP needs to be continuously maintained because  ",
+      "option1": "The organization's software versions are constantly changing",
+      "option2": "The organization's business processes are constnatly changing",
+      "option3": "The available software patches are constantly changing",
+      "option4": "The organization's data is constnatly changing",
+      "answer": 2
+  },
+{  
+      "question": "Security guards, locked doors, and surveillance cameras are know as   ",
+      "option1": "Site access controls",
+      "option2": "Safeguards",
+      "option3": "Physical access controls",
+      "option4": "Administrative contols",
+      "answer": 3
+  },
+{  
+      "question": "Neural networking gets its name from  ",
+      "option1": "The make and model of equipment in a network",
+      "option2": "Patterns thought to exist in the brain",
+      "option3": "Its inventor, Sigor Neura",
+      "option4": "Observed patterns in neural telpathy",
+      "answer": 2
+  },
+{  
+      "question": "The process of hiding a message inside a larger dataset is known as   ",
+      "option1": "Decryption",
+      "option2": "Steganography",
+      "option3": "Cryptanalysis",
+      "option4": "Extraction",
+      "answer": 2
+  },
+{  
+      "question": "Enticement is defined as   ",
+      "option1": "Being caught with criminal evidence in one's possession",
+      "option2": "Leading someone to commit a crime that they wouldn't otherwise have committed",
+      "option3": "Monitoring with the intent of recording a crime",
+      "option4": "Keeping the criminal at the scene of the crime long enough to gather evidence",
+      "answer": 4
+  },
+{  
+      "question": "The practice of separation of duties  ",
+      "option1": "Is used to provide variety by rotating personnel among various tasks",
+      "option2": "Helps to prevent any single individual from compromisig an information system",
+      "option3": "Is used to ensure that the most experienced persons get the best tasks",
+      "option4": "Is used in large 24x7 operation shops",
+      "answer": 2
+  },
+{  
+      "question": "Tailgating is a term describing what activity? ",
+      "option1": "Logging in to a server from two or more locations",
+      "option2": "Causing a PBX to permit unauthorized long distance calls",
+      "option3": "Following an employee through an uncontrolled access",
+      "option4": "Following an employee through a controlled access",
+      "answer": 4
+  },
+{  
+      "question": "Which of the following is not a security issue with distributed architectures? ",
+      "option1": "Lack of security awareness by some personnel",
+      "option2": "Difficulty in controlling the distribution and use of software",
+      "option3": "Protection of centrally stored information",
+      "option4": "Backups might not be performed on some systems, risking loss of data",
+      "answer": 3
+  },
+{  
+      "question": "What's the purpose of a senior management statement of security policy ",
+      "option1": "It defines who's responsible for carrying out a security policy",
+      "option2": "It states that senior management need not follow a security policy",
+      "option3": "It emphasizes the importance of security throughout an organization",
+      "option4": "It states that senior management must also follow a security policy",
+      "answer": 3
+  },
+{  
+      "question": "What is the purpose of RARP ",
+      "option1": "When given an IP address RARP returns a MAC address",
+      "option2": "When given a MAC address RARP returns an IP address",
+      "option3": "It traces the source address of a spoffed packet",
+      "option4": "It determines the least cost route through a multipath network",
+      "answer": 2
+  },
 
 
 
+  
 
 
 
