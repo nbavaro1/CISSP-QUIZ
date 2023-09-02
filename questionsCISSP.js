@@ -1610,12 +1610,86 @@ var questions = [
       "option4": "Address Recovery Protocol",
       "answer": 2
   },
-
-
-
-
-
-
+{  
+      "question": "Which of the following is not a concern for a hot site  ",
+      "option1": "Programs and data at the hot site must be protected",
+      "option2": "A widespread disaster will strain the hot sites's resources",
+      "option3": "A hot site is expensive because of the controls and patches required",
+      "option4": "Computer equipment must be shipped quickly to the hot site for it to be effective",
+      "answer": 4
+  },
+{  
+      "question": "Supervision audits, procedures, and assessments are known as  ",
+      "option1": "Discretionary access controls",
+      "option2": "Safeguards",
+      "option3": "Physical controls",
+      "option4": "Administrative controls",
+      "answer": 4
+  },
+{  
+      "question": "Object oriented, relational, and network are examples of   ",
+      "option1": "Types of database tables",
+      "option2": "Types of database records",
+      "option3": "Types of database queries",
+      "option4": "Types of databases",
+      "answer": 4
+  },
+{  
+      "question": "An asymmetric cryptosystem is also known as a   ",
+      "option1": "Message digest",
+      "option2": "Hash function",
+      "option3": "Public key cryptosystem",
+      "option4": "Secret key cryptosystem",
+      "answer": 3
+  },
+{  
+      "question": "Entrapment is defined as   ",
+      "option1": "Leading someone to comit a crime that they wouldn't otherwise have committed",
+      "option2": "Monitoring with the intent of recording a crime",
+      "option3": "Paying someone to commit a crime",
+      "option4": "Being caught with criminal evidence in one's possession",
+      "answer": 1
+  },
+{  
+      "question": "Least priviege means  ",
+      "option1": "Analysis that determines which privileges are required to complete a task",
+      "option2": "People who have a high privileges delegate some of those privileges to others",
+      "option3": "The people who have the fewest access rights do all the work",
+      "option4": "Users should have the minimum privileges required to perform required tasks",
+      "answer": 4
+  },
+{  
+      "question": "Which of the following is not a part of a building's automated access audit log? ",
+      "option1": "Time of the attempted entry",
+      "option2": "The reason for the attempted entry",
+      "option3": "Location of the attempted entry",
+      "option4": "Entry success or failure",
+      "answer": 2
+  },
+{  
+      "question": "Systems that have published specifications and standards are known as ? ",
+      "option1": "Open source",
+      "option2": "copyleft",
+      "option3": "Freeware",
+      "option4": "Open Systems",
+      "answer": 4
+  },
+{  
+      "question": "Which of the following is not a crierion for classifying information?  ",
+      "option1": "Marking",
+      "option2": "Useful life",
+      "option3": "Value",
+      "option4": "Age",
+      "answer": 1
+  },
+{  
+      "question": "What is the purpose of ARP  ",
+      "option1": "When given an IP address, ARP returns a MAC address",
+      "option2": "When given a MAC address, ARP returns an IP address",
+      "option3": "It calculates the shortest path between two nodes on a network",
+      "option4": "It acquires the next IP address on a circular route",
+      "answer": 1
+  },
 
 
 
