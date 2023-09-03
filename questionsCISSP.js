@@ -1850,6 +1850,92 @@ var questions = [
       "option4": "IPv6 address",
       "answer": 2
   },
+{  
+      "question": "An organization that's developing its DRP has established a 20 minute Recovery Time Objective RTO. Which solution will best support this objective ",
+      "option1": "Cluster",
+      "option2": "Cold site",
+      "option3": "Hot site",
+      "option4": "Virtualization",
+      "answer": 3
+  },
+{  
+      "question": "Audits, background checks, video cameras, and listneing devices are known as ",
+      "option1": "Discretionary controls",
+      "option2": "Physical controls",
+      "option3": "Preventive controls",
+      "option4": "Detective controls",
+      "answer": 4
+  },
+{  
+      "question": "What's the primary input of a high level product design ",
+      "option1": "Feasibility study",
+      "option2": "Integration rules",
+      "option3": "Unit testing",
+      "option4": "Requirements",
+      "answer": 4
+  },
+{  
+      "question": "What historic event was the backdrop for breakthroughs in strategic cryptogaphy",
+      "option1": "The Gulf War",
+      "option2": "World War I",
+      "option3": "World War II",
+      "option4": "The Six Day War",
+      "answer": 3
+  },
+{  
+      "question": "Which of the following is not a precaution that needs to be taken before monitoring email",
+      "option1": "Establishing strict procedures that define under what circumstances email may be searched",
+      "option2": "Posting a visible notice that states email is company information subject to search",
+      "option3": "Issuing monitoring tools to all email administrators",
+      "option4": "Making sure that all employees know that email is being monitored",
+      "answer": 3
+  },
+{  
+      "question": "What's the potential security benefit of rotation of duties?",
+      "option1": "It reduces the risk that personnel will perform unauthorized activities",
+      "option2": "It ensures that all personnel are familiar with all security tasks",
+      "option3": "It's used to detect covert activities",
+      "option4": "It ensures security because personnel aren't very familiar with their duties",
+      "answer": 1
+  },
+{  
+      "question": "What does fail closed mean in the context of controlled building entrances",
+      "option1": "Controlled entrances permit no one to pass",
+      "option2": "Controlled entrances permit people to pass with identification",
+      "option3": "The access control computer is down",
+      "option4": "Everyone is permitted to enter the building",
+      "answer": 1
+  },
+{  
+      "question": "The sum total of all protection mechanisms in a system is known as a ",
+      "option1": "Trusted Computing Base",
+      "option2": "Protection domain",
+      "option3": "Trusted path",
+      "option4": "SPM Summation Protection Mechanism",
+      "answer": 1
+  },
+{  
+      "question": "What is the definition of a threat ",
+      "option1": "Any event that produces an undesirable outcome",
+      "option2": "A weakness present in a control or countermeasure",
+      "option3": "An act of aggression that causes harm",
+      "option4": "An individual likely to violate security policy",
+      "answer": 1
+  },
+{  
+      "question": "04:c6:d1:45:87:E8 is a  ",
+      "option1": "MAC address",
+      "option2": "IPv4 address",
+      "option3": "Subnet mask",
+      "option4": "IPv6 address",
+      "answer": 1
+  },
+
+
+
+
+
+
 
   
 
