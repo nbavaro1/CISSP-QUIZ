@@ -1770,15 +1770,86 @@ var questions = [
       "option4": "It determines the least cost route through a multipath network",
       "answer": 2
   },
-
-
-
-  
-
-
-
-
-
+{  
+      "question": "How is the organization's DRP best kept up to date? ",
+      "option1": "With regular audits to ensure that changes in the business processes are known",
+      "option2": "By maintaining lists of current software versions, patches and configurations",
+      "option3": "By maintaining personnel contact lists",
+      "option4": "By regularly testing the DRP",
+      "answer": 1
+  },
+{  
+      "question": "Role based access control and task based access control are example of  ",
+      "option1": "Mandatory access controls",
+      "option2": "Administrative controls",
+      "option3": "Discretionary acess controls",
+      "option4": "Non descretionary access controls",
+      "answer": 4
+  },
+{  
+      "question": "The verification activity associated with coding is called ",
+      "option1": "Unit testing",
+      "option2": "Design review",
+      "option3": "System testing ",
+      "option4": "Architecture review",
+      "answer": 1
+  },
+{  
+      "question": "Steganography isn't easily noticed because ",
+      "option1": "Monitor and picture quality are so good these days",
+      "option2": "Most PCCs speakers are tuned offor disabled",
+      "option3": "The human eye often can't sense the noise that steganography introduces ",
+      "option4": "Checksums can't detect most steganographed images",
+      "answer": 3
+  },
+{  
+      "question": "The purpose of a honeypot is to  ",
+      "option1": "Log an intruder's actions",
+      "option2": "Act as a decoy to keep the intruder interested while his or her origin and identity are traced",
+      "option3": "Deflect Denial of Service attacks away from production servers ",
+      "option4": "Provide direct evidence of a break in",
+      "answer": 2
+  },  
+{  
+      "question": "Which of the following tasks would not be performed by a security administrator ",
+      "option1": "Changing file permissions",
+      "option2": "Configuring user privileges",
+      "option3": "Installing system software",
+      "option4": "Reviewing audit data",
+      "answer": 3
+  },
+{  
+      "question": "What does fail open mean in the context of controlled building entrances",
+      "option1": "Controlled entrances permit no one to pass",
+      "option2": "Controlled entrances permit people to pass without identification",
+      "option3": "A power outage won't affect control of the entrance",
+      "option4": "A pass key is required to enter the building",
+      "answer": 2
+  },
+{  
+      "question": "TCB is an acronym for ",
+      "option1": "Trusted Computing Baseline",
+      "option2": "Trusted Computing Base",
+      "option3": "Tertiary Computing Base",
+      "option4": "Trusted Cache Base",
+      "answer": 2
+  },
+{  
+      "question": "What is the purpose of an advisory policy?",
+      "option1": "This is an optional policy that can be followed",
+      "option2": "This is an informal offering of advice regarding security practices",
+      "option3": "This is a temporary policy good only for a certain period of time",
+      "option4": "This is a policy that must be followed but is not mandated by regulation",
+      "answer": 4
+  },
+{  
+      "question": "132.116.72.5 is a ",
+      "option1": "MAC address",
+      "option2": "IPv4 address",
+      "option3": "Subnet mask",
+      "option4": "IPv6 address",
+      "answer": 2
+  },
 
   
 
