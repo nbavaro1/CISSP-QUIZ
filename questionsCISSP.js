@@ -1930,8 +1930,87 @@ var questions = [
       "option4": "IPv6 address",
       "answer": 1
   },
-
-
+{  
+      "question": "Which of the following is not a natural disaster  ",
+      "option1": "Tsunami",
+      "option2": "Pandemic",
+      "option3": "Flood",
+      "option4": "Communications outage",
+      "answer": 4
+  },
+{  
+      "question": "Smart cards, fences, guard dogs, and card key access are known as   ",
+      "option1": "Mandatory controls",
+      "option2": "Physical controls",
+      "option3": "Preventive controls",
+      "option4": "Detective controls",
+      "answer": 3
+  },
+{  
+      "question": "The main improvement of the Waterfall software life cycle model over earlier process models is   ",
+      "option1": "System and software requirements are combined into one step",
+      "option2": "Developers can back up one step in the process for rework",
+      "option3": "Coding and testing is combined into one step",
+      "option4": "The need for rework was eliminated",
+      "answer": 2
+  },
+{  
+      "question": "Non repudiation refers to   ",
+      "option1": "The technology that shoots down the I didn't send that message excuse",
+      "option2": "Reverification of all cerificate authority CA certificate servers",
+      "option3": "The annual competency review of system authentication mechanisms",
+      "option4": "The annual competency review of network authentication mechanisms",
+      "answer": 1
+  },
+{  
+      "question": "Intelectual property laws apply to   ",
+      "option1": "Trade secrets, trademarks, copyrights, and patents",
+      "option2": "Trademarks, copyrights, and patents",
+      "option3": "Trademarks only",
+      "option4": "Patents only",
+      "answer": 1
+  },
+{  
+      "question": "The process of reviewing and approving changes in production systems is know as  ",
+      "option1": "Availability management",
+      "option2": "configuration management",
+      "option3": "Chage management",
+      "option4": "Resource control",
+      "answer": 3
+  },
+{  
+      "question": "A water sprinkler system that's characterized as always having water in teh pipes is know as ",
+      "option1": "Dry pipe",
+      "option2": "Wet pipe",
+      "option3": "Preaction",
+      "option4": "Discharge",
+      "answer": 2
+  },
+{  
+      "question": "The mechanism that overlaps hardware instructions to increase performance is know as  ",
+      "option1": "RISC",
+      "option2": "Pipeline",
+      "option3": "Pipe dream",
+      "option4": "Multitasking",
+      "answer": 2
+  },
+{  
+      "question": "A weakness in a security control is called a   ",
+      "option1": "Risk",
+      "option2": "Vulnerability",
+      "option3": "Threat",
+      "option4": "Hole",
+      "answer": 2
+  },
+{  
+      "question": "The ping command sends  ",
+      "option1": "IGRP Echo Reply packets",
+      "option2": "IGRP Echo Request packets",
+      "option3": "ICMP Echo Request packets",
+      "option4": "HoleUDP Echo Request packets",
+      "answer": 3
+  },
+  
 
 
 
