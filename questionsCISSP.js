@@ -2090,8 +2090,132 @@ var questions = [
       "option4": "Transport email",
       "answer": 4
   },
+{  
+      "question": "Which of the following best describes a superscalar processor? ",
+      "option1": "A superscarlar processor can execute only one instruction at a time",
+      "option2": "A superscalar processor has two large caches that are used ias input and output buffers",
+      "option3": "A superscalar processor can execute multiple instructionat the same time",
+      "option4": "A superscalar processor has two large caches that are used as output buffers",
+      "answer": 3
+  },
+{  
+      "question": "Which of the following are developed by programmers and used to allow the bypassing of normal processes during development, but are left in the software when it ships to the customer? ",
+      "option1": "Back doors",
+      "option2": "Traps",
+      "option3": "Buffer overflows",
+      "option4": "Covert channels",
+      "answer": 1
+  },
+{  
+      "question": " Carl has noticed a high level of TCP traffic in and out of the network. After running a packet sniffer, he discovered malformed TCP ACK packets with unauthorized data. What has Carl discoved? ",
+      "option1": "Buffer overflow attack",
+      "option2": "Asynchronous attack",
+      "option3": "Covert channel attack",
+      "option4": "DoS attack",
+      "answer": 3
+  },
+{  
+      "question": " You have been promoted to CISO and have instructed the security staff to harden user systems. You are concerned about employee web browsing activity and active web pages they may visit. You have instructed the staff that browsers should be patched and updated, cookie control options should be set the execution of active code should be controlled security protocols such as HTTPS, TLS, SSL3 and so on should be used, and to control what can be executed locally. You have informed the CIO that functionality must be sacrificed. What type of attack are you attempting to prevent? ",
+      "option1": "SYN flood attack",
+      "option2": "Buffer overflow attack",
+      "option3": "TOC/TOU attack",
+      "option4": "Client side attack",
+      "answer": 4
+  },
+  {  
+      "question": " Which ot the following standars evaluates functionality and assurance separately? ",
+      "option1": "TCSEC",
+      "option2": "TNI",
+      "option3": "ITSEC",
+      "option4": "CTCPEC",
+      "answer": 3
+  },
+{  
+      "question": " Which of the following was the first model developed that was based on confidentiality ",
+      "option1": "Bell-LaPadula",
+      "option2": "Biba",
+      "option3": "Clark-Wilson",
+      "option4": "Take-Grant",
+      "answer": 1
+  },
+{  
+      "question": " Which of the following models is integrity based and was developed for commerical applications ",
+      "option1": "Information Flow",
+      "option2": "Clark-Wilson",
+      "option3": "Bell-LaPadula",
+      "option4": "Brewer-Nash",
+      "answer": 2
+  },
+{  
+      "question": " Which of the following does the Biba model address? ",
+      "option1": "Focuses on internal threats",
+      "option2": "Focuses on external threats",
+      "option3": "Addresses confidentiality",
+      "option4": "Addresses availablity",
+      "answer": 2
+  },
+{  
+      "question": " Which model is also known as the Chinese Wall model? ",
+      "option1": "Bida",
+      "option2": "Take-Grant",
+      "option3": "Harrison-Ruzzo-Ullman",
+      "option4": "Brewer-Nash",
+      "answer": 4
+  },
+{  
+      "question": " Which of the following examines integrity and availabilty? ",
+      "option1": "Orange Book",
+      "option2": "Brown Book",
+      "option3": "Red Book",
+      "option4": "Purple Book",
+      "answer": 3
+  },
+{  
+      "question": " What is the purpose of the property in the bell-LaPadula mode? ",
+      "option1": "No read up",
+      "option2": "No write up",
+      "option3": "No read down",
+      "option4": "No write down",
+      "answer": 4
+  },
+{  
+      "question": " What is the purpose of the simple integrity property of the Bida model? ",
+      "option1": "No read up",
+      "option2": "No write up",
+      "option3": "No read down",
+      "option4": "No write down",
+      "answer": 3
+  },
+{  
+      "question": " Which of the following can be used to connect different MAC systems together? ",
+      "option1": "Labels",
+      "option2": "Reference monitor",
+      "option3": "Controls",
+      "option4": "Guards",
+      "answer": 4
+  },
+{  
+      "question": " Which of the following security modes of operation best describes when a user has a valid need to know all data? ",
+      "option1": "Dedicated",
+      "option2": "System High",
+      "option3": "Compartmented",
+      "option4": "Multilevel",
+      "answer": 1
+  },
+{  
+      "question": " Which of the following security models makes use of the TLC concept? ",
+      "option1": "Biba",
+      "option2": "Clark-Wilson",
+      "option3": "Bell-LaPadula",
+      "option4": "Brewer Nash",
+      "answer": 2
+  },
 
 
+
+
+
+  
 
 
 
