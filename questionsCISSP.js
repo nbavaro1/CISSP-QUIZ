@@ -2007,11 +2007,95 @@ var questions = [
       "option1": "IGRP Echo Reply packets",
       "option2": "IGRP Echo Request packets",
       "option3": "ICMP Echo Request packets",
-      "option4": "HoleUDP Echo Request packets",
+      "option4": "Hole UDP Echo Request packets",
       "answer": 3
   },
-  
+{  
+      "question": "The term remote journaling refers to   ",
+      "option1": "A mechanism that transmits transactions to an alternative processing site",
+      "option2": "A procedure for maintaining multiple copies of change control records",
+      "option3": "A procedure fro maintaining multiple copies of configuration management records",
+      "option4": "A mechanism that ensures the survivability of writen records",
+      "answer": 1
+  },  
+{  
+      "question": "Is identification weaker then authentication?  ",
+      "option1": "Yes, Identity is based only on the assertion of identiy without providing proof",
+      "option2": "Yes Identification uses ASCII data wheras authentication used binary data",
+      "option3": "No Identification and authentication proved the same level of identity",
+      "option4": "No they are used in different contexts and have nothing to do with each others",
+      "answer": 1
+  },
+{  
+      "question": "A project team is at the beginning stages of a new software development project. The team wants to ensure that seurity features are present in the completed software application. In what stage should security be introduced? ",
+      "option1": "Requirements development",
+      "option2": "Test plan development",
+      "option3": "Application coding",
+      "option4": "Implementation plan development",
+      "answer": 1
+  },
+{  
+      "question": " the amount of effort required to break a given ciphertext is know as ",
+      "option1": "The Work function",
+      "option2": "The effort function",
+      "option3": "Cryptanalysis",
+      "option4": "Extraction",
+      "answer": 1
+  },
+{  
+      "question": "In order to be admissible, electronic evidence must ",
+      "option1": "Be legally permissible",
+      "option2": "Not be copied",
+      "option3": "Have been in the custody of the investigator at all times",
+      "option4": "Not contain viruses",
+      "answer": 1
+  },
+{  
+      "question": "The process of maintaining and documenting software versions and settings is know as  ",
+      "option1": "Availability management",
+      "option2": "Configuration management",
+      "option3": "change management",
+      "option4": "Resource control",
+      "answer": 2
+  },
+{  
+      "question": "A water sprinkler system that charges the pipes when it receives a heat or smoke alarm, and then discharges the water when a higher ambient temperature is reached is know as ",
+      "option1": "Dry pipe",
+      "option2": "wet pipe",
+      "option3": "Preaction ",
+      "option4": "Discharge",
+      "answer": 3
+  },
+{  
+      "question": "FORTRAN, BASIC and C are known as  ",
+      "option1": "Structured languages",
+      "option2": "Nested languages",
+      "option3": "Second generation languages",
+      "option4": "Third generation languages",
+      "answer": 4
+  },
+{  
+      "question": "A security control intended to reduce risk is called a  ",
+      "option1": "Safeguard",
+      "option2": "Threat",
+      "option3": "Countermeasure",
+      "option4": "Partition",
+      "answer": 1
+  },
+{  
+      "question": "SMTP is used to  ",
+      "option1": "Manage multiple telnet sessions",
+      "option2": "Tunnel private sessions through the Internet",
+      "option3": "Simulate modems",
+      "option4": "Transport email",
+      "answer": 4
+  },
 
+
+
+
+
+  
 
 
 
