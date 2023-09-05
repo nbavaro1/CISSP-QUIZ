@@ -2290,13 +2290,100 @@ var questions = [
       "option4": "An eavesdropper can record and later play back an SSL session",
       "answer": 2
   },
+ {  
+      "question": "Which of the following is not a method used to create an online redundant data set ?",
+      "option1": "Remote journaling",
+      "option2": "Off site storage",
+      "option3": "Electronic vaulting",
+      "option4": "Database mirroring",
+      "answer": 2
+  },  
+ {  
+      "question": "The phrase something you are refers to?",
+      "option1": "A user's security clearance",
+      "option2": "A user's role",
+      "option3": "Type 2 authentication",
+      "option4": "Type 3 authentication",
+      "answer": 4
+  },
+ {  
+      "question": "How does the Waterfall software development life cycle help to assure that applications will be secure?",
+      "option1": "Security requirements can be included early on and verified later in testing",
+      "option2": "The testing phase includes penetration testing",
+      "option3": "The Risk Analysis phase will uncover flaws inteh feasibility model",
+      "option4": "A list of valid users must be approved prior to production",
+      "answer": 1
+  },
+{  
+      "question": "The ability for a government agency to wiretap a data connection was implemented in the ?",
+      "option1": "Skipjack chip",
+      "option2": "Magic lantern",
+      "option3": "Cutty chip",
+      "option4": "Clipper chip",
+      "answer": 4
+  },
+{  
+      "question": "Under what circumstance may evidence be seized without a warrant?",
+      "option1": "If it's in the public domain",
+      "option2": "If it's believed that its destruction is imminent",
+      "option3": "In international incidents",
+      "option4": "If it's on a computer",
+      "answer": 2
+  },
+{  
+      "question": "The traces of original data remaining after media erasure are known as?",
+      "option1": "Data remanence",
+      "option2": "Data traces",
+      "option3": "Leakage",
+      "option4": "Data particles",
+      "answer": 1
+  },  
+{  
+      "question": "Why shold a datacenter's walls go all the way to the ceiling and not just stop as high as the supended ceiling?",
+      "option1": "The walls will serve as an effective fire break",
+      "option2": "The HVAC will run more efficiently",
+      "option3": "The walls will be stronger",
+      "option4": "The high wall will block more noise",
+      "answer": 1
+  }, 
+{  
+      "question": "Protection rings are used for ?",
+      "option1": "Implementing memory protection",
+      "option2": "Creating nested protection domains",
+      "option3": "Modeling layers of protection around an information object",
+      "option4": "Shieldign systems from EMF",
+      "answer": 2
+  }, 
+{  
+      "question": "Annualized Rate of Occurrencerefers to  ?",
+      "option1": "The exact frequency of a threat",
+      "option2": "The estimated frequency of a threat",
+      "option3": "The estimated monetary value of a threat",
+      "option4": "The exact monetary value of a threat",
+      "answer": 2
+  }, 
+{  
+      "question": "An access control list is not used by  ?",
+      "option1": "A firewall or screening router to determine which packets should pass through",
+      "option2": "A router to determine which administrative nodes may access it",
+      "option3": "A bastion host to determine which network services should be permitted",
+      "option4": "A client system to record and save passwords. ",
+      "answer": 4
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
   
-
-
-
-
-  
-
   
 
 
