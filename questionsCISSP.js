@@ -2210,15 +2210,86 @@ var questions = [
       "option4": "Brewer Nash",
       "answer": 2
   },
-
-
-
-
-
-  
-
-
-
+{  
+      "question": "Backing up data by sending it through a communications line to a remote location is know as ",
+      "option1": "Transaction journaling",
+      "option2": "Off site storage",
+      "option3": "Electronic vaulting",
+      "option4": "Electronic journaling",
+      "answer": 3
+  },
+{  
+      "question": "Two factor authentication is so called because ",
+      "option1": "It requires two of the three authentications types",
+      "option2": "Tokens use two factor encryption to hide their secret algorithms",
+      "option3": "Authentication difficulty is increased by a factor of two",
+      "option4": "It uses a factor of two prime numbers algorithm for added strength",
+      "answer": 1
+  },
+{  
+      "question": "Which of the following is not a value of change control in the software development life cycle?",
+      "option1": "Changes are documented and subject to approval",
+      "option2": "Scope creep is controlled",
+      "option3": "It gives the customer veto power over proposed changes",
+      "option4": "The cost of changes is considered",
+      "answer": 3
+  },
+{  
+      "question": "What's one disadvantage of an organization signing its own certificates?",
+      "option1": "The cerificate signing function is labor intensive",
+      "option2": "Anyone outside the organization will receive warning messages",
+      "option3": "The user identification process is labor intensive",
+      "option4": "It's much more expensive then having cerificates signed by a Certification Authority CA",
+      "answer": 2
+  },
+{  
+      "question": "Which agency has jurisdiction over computer crimes in the United States?",
+      "option1": "The Department of Justice",
+      "option2": "The Electronic Crimes Task Force",
+      "option3": "Federal, state, or local jurisdiction",
+      "option4": "The FBI and the Secret Service",
+      "answer": 3
+  },
+{  
+      "question": "Configuration Managemnet is used to ?",
+      "option1": "Document the approval process for configuration changes",
+      "option2": "Control the approval process for configuration changes",
+      "option3": "Ensure that changes made to an information system don't compromise its security",
+      "option4": "Preserve a complete history of the changes to software or data in a system",
+      "answer": 4
+  },
+ {  
+      "question": "Why would a dry pipe sprinkler be preferred over a wet pipe sprinkler?",
+      "option1": "Dry pipe systems put out a fire more quickly",
+      "option2": "Dry pipe systems consume less water",
+      "option3": "Dry pipe systems have a smaller likelihood of rust damage",
+      "option4": "Dry pipe systems have a potentially useful time delay before water is discharged",
+      "answer": 4
+  }, 
+ {  
+      "question": "The purpose of an operating system is to ?",
+      "option1": "Manage hardware resources",
+      "option2": "Compile program code",
+      "option3": "Decompile program code",
+      "option4": "Present graphic display to users",
+      "answer": 1
+  }, 
+ {  
+      "question": "The purpose of risk analysis is ?",
+      "option1": "To qualify the classification of a protential threat",
+      "option2": "To quantify the likelihood of a potential threat",
+      "option3": "To quantify the net present value of an asset",
+      "option4": "To quantify the impact of a potential threat",
+      "answer": 4
+  },
+ {  
+      "question": "Which of the following is a disadvantage of SSL ?",
+      "option1": "It requires a certificate on every client system",
+      "option2": "It is CPU intensive",
+      "option3": "All clients must be retrofitted with HTTPv3 browsers",
+      "option4": "An eavesdropper can record and later play back an SSL session",
+      "answer": 2
+  },
   
 
 
