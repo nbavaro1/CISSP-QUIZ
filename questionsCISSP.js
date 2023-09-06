@@ -2450,9 +2450,100 @@ var questions = [
       "option4": "It's used to dynamically build network routes",
       "answer": 3
   },
+{  
+      "question": "The purpose of a BIA is?",
+      "option1": "To determine the critcality of business processes",
+      "option2": "To determine the impact of disasters on critical processes",
+      "option3": "To determine the impact of software defects on critical business processes",
+      "option4": "To determine which software defect should be fixed first",
+      "answer": 2
+  },
+{  
+      "question": "An organization has recently implemented a palm scan biometric system ot control access to sensitive zones in a building. Some employees have objected to the biometric system for sanitary reasons. The organization should?",
+      "option1": "Switch to a finerprint scanning biometric system",
+      "option2": "Educate users about the inherent cleanliness of the ststem",
+      "option3": "Allow users who object to the system to be able to bypass it",
+      "option4": "Require employees to use a hand sanitizer prior to using the biometric system",
+      "answer": 4
+  },
+{  
+      "question": "A security specialist has discovered that an application her company produces has a JavaScript injection vulnerability. What advice should the security specialist give to the application's developers?",
+      "option1": "Implement input filtering to block JavaScript and other script languages",
+      "option2": "Upgrade to the latest releasee of Java",
+      "option3": "Recompile the application with safe input filtering turned on",
+      "option4": "Recompile the application by using UTF-8 character set support",
+      "answer": 1
+  },
+{  
+      "question": "Cryptography can be used for all the following situations except",
+      "option1": "Performance",
+      "option2": "Confidentiality",
+      "option3": "Integrity",
+      "option4": "Authentication",
+      "answer": 1
+  },
+{  
+      "question": "The burden of proff in US civil law is ",
+      "option1": "The preponderance of the evidence",
+      "option2": "Beyond a reasonable doubt",
+      "option3": "Beyond all doubt",
+      "option4": "Based on the opinion of the presiding judge",
+      "answer": 1
+  },
+{  
+      "question": "An orgainization may choose to perform periodic background checks on its employees for all the following reasons except ",
+      "option1": "To determine whether the employee has earned any additional educational degrees",
+      "option2": "To determine whether a detrimental change in an employee's financial situation might entice him or her to steal from the employer",
+      "option3": "To determine whether a criminal offense has occured since the person was hired that would impact the risk of continued employment",
+      "option4": "To uncover any criminal offenses that weren't discovered in the initial background check",
+      "answer": 1
+  },
+{  
+      "question": "Which class of hand held fire extinguisher should be used in a datacenter ",
+      "option1": "Class B",
+      "option2": "Class C",
+      "option3": "Class A",
+      "option4": "Class D",
+      "answer": 2
+  },
+ {  
+      "question": "All the following CPUs are CISC design except ",
+      "option1": "PDP-11",
+      "option2": "Intel x86",
+      "option3": "SPARC",
+      "option4": "Motorola 68000",
+      "answer": 3
+  }, 
+{  
+      "question": "A system architect has designed a system that is protected with redundant parallel firewalls. This follow shich security design principle ",
+      "option1": "Avoidance of a single point of failure",
+      "option2": "Defense in depth",
+      "option3": "fail open",
+      "option4": "Fail closed",
+      "answer": 1
+  },
+{  
+      "question": "The type of cable that is best suited for high RF and EMF environments is ",
+      "option1": "Fiber optic",
+      "option2": "Shielded twisted pair",
+      "option3": "Coaxial",
+      "option4": "Thinnet",
+      "answer": 1
+  },
 
 
 
+
+
+
+
+
+
+
+
+
+
+  
 
 
   
