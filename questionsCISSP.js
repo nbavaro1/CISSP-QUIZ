@@ -2370,14 +2370,86 @@ var questions = [
       "option4": "A client system to record and save passwords. ",
       "answer": 4
   },
-
-
-
-
-
-
-
-
+{  
+      "question": "A DRP that has a high RPO and a low RTO will result in ?",
+      "option1": "A system that takes more time to recover but has recent data",
+      "option2": "A system that recovers quickly but has old data",
+      "option3": "A system that recovers quickly and has recent data",
+      "option4": "A system that has never been tested ",
+      "answer": 2
+  },
+{  
+      "question": "Two factor authentication is stronger then single factor authentication because ?",
+      "option1": "It uses a factor of two prime numbers algorithm for added strenght",
+      "option2": "It relies on two factors, such as a password and a smart card",
+      "option3": "Authentication difficulty is increased by a factor of two",
+      "option4": "The user must be physically present to authenticate ",
+      "answer": 2
+  },
+{  
+      "question": "The main purpose of configuration management is to ?",
+      "option1": "Require cost justification for any change in a software product",
+      "option2": "Require approval for any desired change in a software product",
+      "option3": "Maintain a detailed record of changes for the lifetime of a software product",
+      "option4": "Provide the customer with a process for requesting configuration changes",
+      "answer": 3
+  },
+{  
+      "question": "The cipher device used by Germany in WWII is known as  ?",
+      "option1": "M-922",
+      "option2": "M-902",
+      "option3": "Enigma",
+      "option4": "Turing",
+      "answer": 3
+  },
+{  
+      "question": "Motive, means, and opportunity ?",
+      "option1": "Are required prior to the commission of a crime",
+      "option2": "Are the required three pieces of evidence in any crimiinal trial",
+      "option3": "Are the three factors that help determine whether someon may have committed a crime",
+      "option4": "Are the usual ingredients in a sting operation",
+      "answer": 3
+  },
+{  
+      "question": "Software controls are used to  ?",
+      "option1": "Perform input checking to ensure that no buffer overflows occur",
+      "option2": "Keep running programs from viewing or changing other programs memory",
+      "option3": "Perform configuration management like function on software",
+      "option4": "Ensure the confidentiality and integrity of software",
+      "answer": 4
+  },
+{  
+      "question": "Which of the following are not fire detectors ?",
+      "option1": "Dial up alarms",
+      "option2": "Heat sensing alarms",
+      "option3": "Flame sensing alarms",
+      "option4": "Smoke sensing alarms",
+      "answer": 1
+  },
+{  
+      "question": "The TCSEC document is known as the Orange book because ?",
+      "option1": "It's orange in color",
+      "option2": "It covers the major classes of computing system security D through A",
+      "option3": "Its coverage of security was likend to  the defoliant Agent Orange",
+      "option4": "No adequate model of computing system secuity was available at the time",
+      "answer": 1
+  },
+{  
+      "question": "Single Loss Expectancy refers to ?",
+      "option1": "The expectation of the occurence of a single loss",
+      "option2": "The monetary loss relized from an individual threat",
+      "option3": "The likelihood that a single loss will occur",
+      "option4": "The annualized monetary loss from a single threat",
+      "answer": 2
+  },
+{  
+      "question": "What is the purpose of the DHCP protocol?",
+      "option1": "It's used to diagnose network problems",
+      "option2": "It assigns IP addresses to servers",
+      "option3": "It assigns IP addresses to stations that join the network",
+      "option4": "It's used to dynamically build network routes",
+      "answer": 3
+  },
 
 
 
