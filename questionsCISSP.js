@@ -2530,16 +2530,86 @@ var questions = [
       "option4": "Thinnet",
       "answer": 1
   },
-
-
-
-
-
-
-
-
-
-
+{  
+      "question": "A Disaster Recovery planning team has been told by management that the equipment required to meet RTO and RPO targets is too costly. What's the best course of action to take? ",
+      "option1": "Classify the system as being out of scope",
+      "option2": "Reduce the RTO and RPO targes",
+      "option3": "Look for less expensive methods for achieving targets and report to management if no alternatives can be found",
+      "option4": "Ask for more budget for recovery systems",
+      "answer": 3
+  },
+{  
+      "question": "A security manager is planning a new video surveillance system. The manager wants the video surveillance system to be both a detective control and a deterrent control. What aspect of the system's design will achieve this objective ",
+      "option1": "Include a video recording capability in the system",
+      "option2": "Make video cameras conspicuously visible and post warning notices",
+      "option3": "Hide video cameras and don't post warning notices",
+      "option4": "Make video monitors conspicuously visible",
+      "answer": 2
+  },
+{  
+      "question": "Privacy advocacy organizations are concerned about the practice of aggregation which involves ",
+      "option1": "Selling highly sensitive data to the highest bidder",
+      "option2": "Distributing highly sensitive data to third parties",
+      "option3": "combining low sensitivity data elements that results in highly sensitive data",
+      "option4": "Disclosing highly sensitive data to government agencies",
+      "answer": 3
+  },
+{  
+      "question": "A cipher uses a table to replace plaintext characters with ciphertext characters. This type of cipher is known as  ",
+      "option1": "Stream",
+      "option2": "Block",
+      "option3": "Substitution",
+      "option4": "Transpostion",
+      "answer": 3
+  },
+{  
+      "question": "Under US law the amount of a fine and the length of imprisonment are based on   ",
+      "option1": "The opinion of the judge",
+      "option2": "The opinion of the jury",
+      "option3": "The evidence introduced in a trial",
+      "option4": "Federal sentencing guidlines",
+      "answer": 4
+  },
+{  
+      "question": "An organization has identified a high risk activity that's performed by a single individual. The organiztion will change the activity so that two or more individuals are required to perform the task. This new setup is known as  ",
+      "option1": "Single point of failure",
+      "option2": "Shared custody",
+      "option3": "Split custody",
+      "option4": "Separation of duties",
+      "answer": 4
+  },
+{  
+      "question": "An organization wants to erect fencing around its property to keep out determined intruders. What are the minimum specifications that the organization should onsider? ",
+      "option1": "Eight feet in height and three strands of barbed wire at the top",
+      "option2": "Twelve feet in height and three strands of barbed wire at the top",
+      "option3": "Eight feet in height",
+      "option4": "Twelve feet in height",
+      "answer": 1
+  },
+{  
+      "question": "Which type of technology is a computer designer most likely to use for main memory? ",
+      "option1": "EAROM",
+      "option2": "Dynamic RAM",
+      "option3": "Flash ",
+      "option4": "Hard drive",
+      "answer": 2
+  },
+{  
+      "question": "A document that lists the equipment brands, programming languages, and communications protocols to be used in an organiation is a  ",
+      "option1": "Policy",
+      "option2": "Guideline",
+      "option3": "Requirement ",
+      "option4": "Standard",
+      "answer": 4
+  },
+{  
+      "question": "Which of the following is true about Digital Subscriber Line ",
+      "option1": "Digital Subscriber Line is synonymous with DOCSIS Digital Over Cable Services Interface Specification",
+      "option2": "Digital Subscrber Line is a simplex protocol",
+      "option3": "Digital Subscriber Line has been superseded by ISDN ",
+      "option4": "Digital Subscriber Line has  superseded ISDN",
+      "answer": 4
+  },
 
 
 
