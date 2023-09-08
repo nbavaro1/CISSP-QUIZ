@@ -2810,16 +2810,86 @@ var questions = [
       "option4": "ISAKMP is the standard that defines how to protect keys and establish policies ofr setting key lifetimes, and sets out essential elements of business continuity and disaster recovery planning ",
       "answer": 1
   }, 
-
-
-
-
-
-
-
-
-
-
+{  
+      "question": "Damage assessment of a datacenter after an earthquake shold be performed by  ? ",
+      "option1": "The chief security officer",
+      "option2": "The datacenter manager",
+      "option3": "An unlicensed structural engineer",
+      "option4": "A licensed Structural engineer",
+      "answer": 4
+  }, 
+{  
+      "question": "The primary reason users are encouraged to use passphrases rather then passwords is ? ",
+      "option1": "They'll choose a longer passwords that are inherently stronger than shorter ones. ",
+      "option2": "Their passwords will include spaces which make passwords more complex",
+      "option3": "Newer systems don't support passwords",
+      "option4": "Passphrases can be coupled with biometric systems",
+      "answer": 1
+  },
+{  
+      "question": "An application that was previously written to support a single user has been changed to support muliple concurrent users. The application encounters errors when two users attempt to access the same record. What feature should be added to the application to prevent these errors? ",
+      "option1": "Load balancing ",
+      "option2": "Replication",
+      "option3": "Record locking",
+      "option4": "Clustering",
+      "answer": 3
+  },
+{  
+      "question": "Two users, A and B have exhanged public keys. How can user A send a secret message to user B? ",
+      "option1": "User A encrypts a message with user B's public key, user B decrypts the message with user B's private key ",
+      "option2": "User a encryps the message with user A's private key, user B decrypts teh message with user B's private key",
+      "option3": "User A encrypts the message with user A's private key, user B decrypts the message with user A's public key",
+      "option4": "User A encrypts the message with user B's public key, user B decrypts the message with user A's public key",
+      "answer": 1
+  },
+{  
+      "question": "Under what US law will the intruder likely be charged? ",
+      "option1": "Cybercrime Act of 2001 ",
+      "option2": "Federal Information  Security Management Act of 2002",
+      "option3": "US computer fraud and abuse act of 1986",
+      "option4": "US Computer Security Act of 1987",
+      "answer": 3
+  },
+{  
+      "question": "The process of including text such as Company Confidential for Internal use only on a document is know as ? ",
+      "option1": "Branding ",
+      "option2": "Classification",
+      "option3": "Watermarking",
+      "option4": "Marking",
+      "answer": 4
+  },
+{  
+      "question": "An organization wants to install a motion detector in a protion of a building that has variable ambient noise. Which type of motion detoector should be considered? ",
+      "option1": "Wave pattern or capacitance ",
+      "option2": "Wave pattern",
+      "option3": "Capacitance",
+      "option4": "Photo-electronic",
+      "answer": 1
+  },
+{  
+      "question": "An organization uses a Windows based server to act as a file server. The owners of individual files and directories are able to grant read and write permissions to other users in the organization. This capability most closely resembles which security model? ",
+      "option1": "Discretionary access control DAC ",
+      "option2": "Mandatory access control MAC",
+      "option3": "Access matrix",
+      "option4": "Take Grant",
+      "answer": 1
+  },
+{  
+      "question": "The relationship between threat, vulnerability and risk is defined as ? ",
+      "option1": "Risk = vulnerability x threat ",
+      "option2": "Threat = vulnerability x risk",
+      "option3": "Vulnerability = threat x risk ",
+      "option4": "Risk  = vuthreatlnerablity + risk ",
+      "answer": 1
+  },
+{  
+      "question": "Which of the following WiFi protocols has not been compromised ? ",
+      "option1": "WEP ",
+      "option2": "WPA",
+      "option3": "WPA2 ",
+      "option4": "TKIP ",
+      "answer": 3
+  },
   
    
 
