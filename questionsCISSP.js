@@ -2690,6 +2690,126 @@ var questions = [
       "option4": "EIGRP",
       "answer": 1
   },
+{  
+      "question": "Your are a security consulant for a new company that is going to sell products online. Customers will be expected to pay for their products on the company website. It is necessary to establish a secure connection between two TCP based machines to ensure web communications for financial transactions. jYou have been asked to suggest some type of extensible authenticatin protocol to help secure this traffic. Which version would you consider the most secure but also the most costly? ",
+      "option1": "EAP-LEAP",
+      "option2": "EAP-MD5",
+      "option3": "EAP-TLS ",
+      "option4": "EAP-SIM",
+      "answer": 3
+  },
+{  
+      "question": "You just overheard two people discussing ways to steal electronic serial numbers ESNs What type of attack are they discussing? ",
+      "option1": "Bank card hacking",
+      "option2": "Modem hacking",
+      "option3": "PBX hacking ",
+      "option4": "Cell phone hacking",
+      "answer": 4
+  },
+{  
+      "question": "You are a security consulant for a company that has a location in Huston, Texas, New York City, and Dallas, Texas. Your client requires link to link communications from LAN to the WAN for data/traffic encryption supported by IP that includes encryption and authentication. They will be using L2TP at L3 of the OSI model. The CIO for the company plans to migrate to IPv6 over the next year so he needs something that will be compatible wiith IPv6. What is the best protocol to use for your client? ",
+      "option1": "IPSec Transport mode",
+      "option2": "IPSec Tunnel model",
+      "option3": "PPTP ",
+      "option4": "L2F",
+      "answer": 2
+  },
+{  
+      "question": "Which of the following is a mechanism for converting internal IP address found in IP headers into public addresses for transmission over the internet? ",
+      "option1": "ARP",
+      "option2": "DNS",
+      "option3": "DHCP ",
+      "option4": "NAT",
+      "answer": 4
+  },
+{  
+      "question": "Samuel has been asked to start the implementation of IPv6 on an existing IPv4 network. The current system has no native connection to an IPv6 network. It has about 130 hosts. The internal routing protocol is OSPF. Which technology woudl you recommed that Samuel useart ? ",
+      "option1": "VRRP",
+      "option2": "Teredo",
+      "option3": "802.1AE ",
+      "option4": "6to4",
+      "answer": 2
+  },
+{  
+      "question": "You hae been brought on as a consulant to a small non-profit where they are using a routing protocol that is based on Bellman Ford algorithms. Although the network has reached convergence, one path is no longer available and shows an infinite hop count. What is the proper term to describe this situation? ",
+      "option1": "Loopback",
+      "option2": "Split horizon",
+      "option3": "Classless Inter domain Routing ",
+      "option4": "Poison reverse",
+      "answer": 4
+  },
+{  
+      "question": " Which of the following is considered a current updated standard to the WEP protocol? ",
+      "option1": "WPA2",
+      "option2": "SMLI",
+      "option3": "PGP",
+      "option4": "POP",
+      "answer": 1
+  },
+{  
+      "question": " Which of the following closely resembles a packet filtering device because it makes decisions on addresses, ports, and protocols? ",
+      "option1": "Stateless firewall",
+      "option2": "Circuit level proxy",
+      "option3": "Application proxy",
+      "option4": "Stateful firewall",
+      "answer": 2
+  },
+ {  
+      "question": "This protocol is considered a forerunner to Frame Relay and works over POTS lines? ",
+      "option1": "SMDS",
+      "option2": "ATM",
+      "option3": "X.25",
+      "option4": "T-carriers",
+      "answer": 3
+  }, 
+ {  
+      "question": "RADIUS provides which of the following? ",
+      "option1": "Authentication and accountability",
+      "option2": "Authorization and accountability",
+      "option3": "Authentication and authorization",
+      "option4": "Authentication, authorization, and accountablity",
+      "answer": 3
+  }, 
+ {  
+      "question": "You have been asked to implement a WAN technology for your client. The client is based in a rural area in the southern US. The client does not want to use a circuit switched technology. Based on this information, which of the following is a cell switched technology which you could use? ",
+      "option1": "DSL",
+      "option2": "T1",
+      "option3": "ISDN",
+      "option4": "ATM",
+      "answer": 4
+  }, 
+{  
+      "question": "Which of the following is considered a third generation firewall? ",
+      "option1": "Packet filter",
+      "option2": "Circuit proxy",
+      "option3": "Application proxy",
+      "option4": "Stateful firewall",
+      "answer": 4
+  }, 
+{  
+      "question": "Identify protocols that work at OSI Layers 2, 6, 3, 4, and 7? ",
+      "option1": "ARP, SQL, ICMP, SMB and SNMP",
+      "option2": "L2TP, SMB, IP, SQL, and HTTP",
+      "option3": "WEP, ASCII, IPX, TCP, and BootP",
+      "option4": "PPP, ZIP, SPX, UDP, and TFTP",
+      "answer": 3
+  }, 
+{  
+      "question": "Which of the following wireless standards has a range of  5.15-5.35 ghZ to 5.725-5.825 GHz and a range of approximately 60 feet? ",
+      "option1": "802.11a",
+      "option2": "802.11b",
+      "option3": "802.11g",
+      "option4": "802.11n",
+      "answer": 1
+  }, 
+{  
+      "question": "Which of the following is the best description of ISAKMP? ",
+      "option1": "Defines procedures and packet formats to establish, negotiate, modify and delete Security Associations and defines payloads for exchanging key generation and authentication data. Typically utilizes IKE for key exchange, although other methods can be implemented ",
+      "option2": "Enables the authentication of the parties involved in a secure transition and contains the certificate issure's name, valid from date and valid to date, the owner of the certificate the subject the subject's public key the time stamp and the certificate issuer's digital signature ",
+      "option3": "A framework for managing private keys and certificates that provides a standard for key generation, authentication, distribution and storage, establishes who is responsible for authenticationg the identy of the owners of the digital certificates, and follows the X.509 standard",
+      "option4": "ISAKMP is the standard that defines how to protect keys and establish policies ofr setting key lifetimes, and sets out essential elements of business continuity and disaster recovery planning ",
+      "answer": 1
+  }, 
 
 
 
@@ -2698,7 +2818,8 @@ var questions = [
 
 
 
-  
+
+
   
    
 
