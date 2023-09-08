@@ -2610,14 +2610,98 @@ var questions = [
       "option4": "Digital Subscriber Line has  superseded ISDN",
       "answer": 4
   },
+{  
+      "question": "A DRP has an RTO of 24 hours and an RPO of 56 hours. This indicates that ",
+      "option1": "The system will be operational within 24 hours and the maximum data loss is 56 hours",
+      "option2": "The system will be operational within at least 24 hours and the maximum data loss is 56 hours",
+      "option3": "The system wil be operational within 56 hours and the maximum data loss is 24 hours ",
+      "option4": "The system will be operational within 24 hours and the maximum data loss will be 32 hours",
+      "answer": 1
+  },
+{  
+      "question": "The ability to associate users with their actions is known as ",
+      "option1": "Non repudiation",
+      "option2": "Accountability",
+      "option3": "Audit trails ",
+      "option4": "Responsibility",
+      "answer": 2
+  },
+{  
+      "question": "A database administratoor has tuned a transaction processing database for optimum performance. Business users now want to use the same database for business intelligence and decision support. What action should the database administrator take ",
+      "option1": "Implement a separate data warehouse that's tuned for decision support",
+      "option2": "Tune the transaction processing database to optimize performance of decision support queries",
+      "option3": "Implement a database server cluster and tune the passive server for decision support ",
+      "option4": "Establish separte user IDs fro transaction use and decision support use and tune each for their respective purposes",
+      "answer": 1
+  },
+ {  
+      "question": "The Advaned Encryption Standard algorithm is based on ",
+      "option1": "The Rijndael block cipher",
+      "option2": "The Rijndael stream cipher",
+      "option3": "The Skipjack cipher ",
+      "option4": "The triple DES cipher",
+      "answer": 1
+  }, 
+{  
+      "question": "An organization has developed a new technique for compiling computer code and wants to protect that technique by using applicable intellectual property law. Which type of protection should the organization use ",
+      "option1": "Patent",
+      "option2": "Trademark",
+      "option3": "Service mark ",
+      "option4": "Copyright",
+      "answer": 1
+  }, 
+{  
+      "question": "An organization is reducing the size of its workforce and has targeted the lead database administrator for termination of employment. How should the organization handle this termination? ",
+      "option1": "Terminate the employee's user accounts within 24 hours of notification",
+      "option2": "Terminate the employee's user accounts immediately after notification",
+      "option3": "Terminate the employee's user accounts within 48 hours of notification ",
+      "option4": "Retain the employee's user accounts until a replacement cna be trained",
+      "answer": 2
+  }, 
+}, 
+{  
+      "question": "What's one disadvantage of the use of key cards as a building access control? ",
+      "option1": "Key card readers are expensive",
+      "option2": "The False Accept Rate FAR may exceed the False Reject Rate FRR",
+      "option3": "Any party who finds a lost key card can use it to enter a building ",
+      "option4": "A key card's PIN code is easily decrypted",
+      "answer": 3
+  },
+{  
+      "question": "All the following are components of an operation system except ",
+      "option1": "Compiler",
+      "option2": "Kernel",
+      "option3": "Device driver ",
+      "option4": "Tools",
+      "answer": 1
+  },
+{  
+      "question": "A document that describes the steps to be followed to complete a task is known as ",
+      "option1": "Process",
+      "option2": "Procedure",
+      "option3": "Guideline ",
+      "option4": "Standard",
+      "answer": 2
+  },
+{  
+      "question": "Which routing protocol transmits its passwords in plaintext? ",
+      "option1": "RIPv2",
+      "option2": "RIPv1",
+      "option3": "BGP ",
+      "option4": "EIGRP",
+      "answer": 1
+  },
+
+
+
+
+
 
 
 
   
-
-
   
-  
+   
 
 
   ]
