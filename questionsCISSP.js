@@ -2658,7 +2658,6 @@ var questions = [
       "option4": "Retain the employee's user accounts until a replacement cna be trained",
       "answer": 2
   }, 
-}, 
 {  
       "question": "What's one disadvantage of the use of key cards as a building access control? ",
       "option1": "Key card readers are expensive",
