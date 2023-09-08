@@ -2634,7 +2634,7 @@ var questions = [
       "option4": "Establish separte user IDs fro transaction use and decision support use and tune each for their respective purposes",
       "answer": 1
   },
- {  
+{  
       "question": "The Advaned Encryption Standard algorithm is based on ",
       "option1": "The Rijndael block cipher",
       "option2": "The Rijndael stream cipher",
