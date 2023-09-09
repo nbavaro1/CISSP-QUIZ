@@ -2890,6 +2890,131 @@ var questions = [
       "option4": "TKIP ",
       "answer": 3
   },
+{  
+      "question": "Christine works for a government agency that is very concerned about the confidentiality of information. The government agency has strong controls for the process of identification, authentication, and authorization. Before Christine the subject can access her information the security label on objects and clearance on subjects are verified what is this an example of what ? ",
+      "option1": "DAC ",
+      "option2": "LBAC",
+      "option3": "RBAC ",
+      "option4": "MAC ",
+      "answer": 4
+  },
+{  
+      "question": "Which of the following biometric systems would be considered the most accurate ? ",
+      "option1": "Retina scan CER 3 ",
+      "option2": "Fingerprint CER 4",
+      "option3": "Keyboard dynamics CER 5 ",
+      "option4": "Voice recognition CER 6 ",
+      "answer": 1
+  },
+{  
+      "question": "What are the two primary compoents of a DAC ? ",
+      "option1": "Access rights and permissions, and security labels ",
+      "option2": "File and data ownership and access rights and permissions",
+      "option3": "Security labels and discretionary access lists ",
+      "option4": "File and data ownership, and security labels",
+      "answer": 2
+  },
+{  
+      "question": "You have been hired as a contractor for a government agency. You have been cleared for secret access based on your need to know. Authentication authorization, and accountability are also enforced. At the end of each week the government security officer for whom you work is tasked with the review of security logs to ensure only authorized users have logged into the network and have not attempted to access unauthorized data. The process of ensuring accountability for access to information system included four phases. What is this an example of ? ",
+      "option1": "Identification ",
+      "option2": "Accountability",
+      "option3": "Authorization ",
+      "option4": "Authentication",
+      "answer": 2
+  },
+{  
+      "question": "When registering for a new service, you weree asked the following questions. What country were you born in? What's your pet's name? What is your mothers maiden name? What type of password system is being used ? ",
+      "option1": "Cognitive",
+      "option2": "One time",
+      "option3": "Virtual",
+      "option4": "Complex",
+      "answer": 1
+  },
+{  
+      "question": "Mark has just completed his new peer to peer network for the small insurance office he owns. Although he will allow internes access, he does not want users to log in remotely. Which of the following models most closely match his design?  ",
+      "option1": "TACACS+ ",
+      "option2": "MAC",
+      "option3": "RADIUS ",
+      "option4": "DAC",
+      "answer": 4
+  },
+{  
+      "question": " Which of the following is the best answer TACACS+ features what ? ",
+      "option1": "One factor authentication",
+      "option2": "Decentralized access control",
+      "option3": "Two factor authentication ",
+      "option4": "Accountability",
+      "answer": 3
+  },
+{  
+      "question": "A newly hired junior security administrator will assume your position temporarlly while you are on vacation. You're trying to explain the basiccs of access control and the functionality of rule based access control mechanisms like ACL. Which of the following best describes the order in which an ACL operates? ",
+      "option1": "ACLs apply all deny statements before allow statements.",
+      "option2": "Rule based access control and the role based access control is basically the same thing",
+      "option3": "ACLs end with an implict deny all statement ",
+      "option4": "ACLs are processed from the bottom up",
+      "answer": 3
+  },
+{  
+      "question": "RADIUS provides which of the following? ",
+      "option1": "Authorization and accountability",
+      "option2": "Authentication",
+      "option3": "Authentication authorization and accountability  ",
+      "option4": "Authentication and authorization",
+      "answer": 3
+  },
+{  
+      "question": "Which of the following is the best description of a situation where a user can sign up for social media account such as Facebook and then use their credentials to log in and access another organizations sites such as Yahoo? ",
+      "option1": "Transitive trust",
+      "option2": "Federated ID",
+      "option3": "Non transitive trust  ",
+      "option4": "Single sign on",
+      "answer": 2
+  },
+{  
+      "question": "What type of attack targets pronounceable passwords? ",
+      "option1": "Brute force attacks",
+      "option2": "Dictionary attacks",
+      "option3": "Hybrid attacks  ",
+      "option4": "Rainbow tabels",
+      "answer": 2
+  },
+{  
+      "question": "Which of the following represents the best method of password storage? ",
+      "option1": "A cleartext file",
+      "option2": "Symmetric encryption",
+      "option3": "A one way encryption process  ",
+      "option4": "An XOR process",
+      "answer": 3
+  },
+{  
+      "question": "Which access control model makes use of a join and a meet? ",
+      "option1": "Rule based access control",
+      "option2": "MAC",
+      "option3": "DAC  ",
+      "option4": "Lattice",
+      "answer": 4
+  },
+{  
+      "question": "Which of the following access control models is commonly used with firewall and edge devices? ",
+      "option1": "Rule based access control",
+      "option2": "MAC",
+      "option3": "DAC  ",
+      "option4": "Lattice",
+      "answer": 1
+  },
+{  
+      "question": "Because of recent highly pubicized hacking new reports senior management has become more concerned about security. As the senior security administrator you are asked to suggest changes that should be implemented. jWhich of the following access methods should you recommed if the method is to be one that is primarily based on pre established access, can't be changed by users and works well in situations where there is high turnover? ",
+      "option1": "Discretionary access control",
+      "option2": "Mandatory access control",
+      "option3": "Rule based access control  ",
+      "option4": "Role based access control",
+      "answer": 4
+  },
+
+
+
+
+
   
    
 
