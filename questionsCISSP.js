@@ -3010,7 +3010,90 @@ var questions = [
       "option4": "Role based access control",
       "answer": 4
   },
+{  
+      "question": "The purpose of software escrow is ? ",
+      "option1": "Secure storage of software source code in the event of a disaster or the failure of the company that produced it",
+      "option2": "Third party confirmation of the integrity of a software application",
+      "option3": "Secure storage of software object code in the event of a disaster or the failure of the company that produced it  ",
+      "option4": "Third party delivery of a software application",
+      "answer": 1
+  },
+{  
+      "question": "A system has been designed to include strong aurhentication and transaction logging so that subjects can't deny having performed actions. This inability for a subject to deny having performed an action is known as  ? ",
+      "option1": "Irresponsibility",
+      "option2": "Culpable deniability",
+      "option3": "Non repudiation ",
+      "option4": "Dissociation",
+      "answer": 3
+  },
+{  
+      "question": "An organization is considering the purchase of a business application. What should the organization develop before making a product decision ? ",
+      "option1": "Application code",
+      "option2": "Specifications",
+      "option3": "Design  ",
+      "option4": "Requirements",
+      "answer": 4
+  },
+{  
+      "question": "Two users want to establish a private communications link. The two users have never communicated before. How should a symmetric encryption key be communicated to both parties? ",
+      "option1": "The encryption key should be kept by one party only",
+      "option2": "The encryption key should be transmitted as part of initial communications",
+      "option3": "The encryption key should be transmitted by using an in band communications channel  ",
+      "option4": "Teh encryption key should be transmitted by using an out of band communications channel",
+      "answer": 4
+  },
+{  
+      "question": "An organization has developed a new method for building a mechanical device. The organization doesn't want to reveal the method to any third party. Which type of protection should be used ? ",
+      "option1": "Copyright",
+      "option2": "Patent",
+      "option3": "Trade secret  ",
+      "option4": "Trademark",
+      "answer": 3
+  },
+{  
+      "question": "An intruder has broken into an organization's computer systems to steal industrial designs. This action is known as ? ",
+      "option1": "Robbery",
+      "option2": "Cracking",
+      "option3": "Hacking  ",
+      "option4": "Espionage",
+      "answer": 4
+  },
+{  
+      "question": "For fire suppression in a commercial datacenter, all the following types of fire suppression systems may be considered except? ",
+      "option1": "FM-200",
+      "option2": "Inert gas",
+      "option3": "Preaction  ",
+      "option4": "Deluge",
+      "answer": 4
+  },
+{  
+      "question": "TCSEC has been superseded by which standard? ",
+      "option1": "Common Criteria",
+      "option2": "ITSEC",
+      "option3": "ISO 27002  ",
+      "option4": "DITSCAP",
+      "answer": 1
+  },
+{  
+      "question": "When is it prudent to performa quantitative risk analysis? ",
+      "option1": "When the probability of occurrence is low",
+      "option2": "When the value of assets is high",
+      "option3": "Whent the value of assets is low  ",
+      "option4": "When the probability of occurrence is high",
+      "answer": 2
+  },
+{  
+      "question": "Two users wish to establish a private communications link. Teh two users have never communicated before. What algorithm should be used to establish a symmetric encryption key? ",
+      "option1": "Merkle",
+      "option2": "Diffie-Hellman",
+      "option3": "Babbage ",
+      "option4": "RSA",
+      "answer": 2
+  },
 
+
+
+  
 
 
 
