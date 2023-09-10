@@ -3090,14 +3090,138 @@ var questions = [
       "option4": "RSA",
       "answer": 2
   },
+{  
+      "question": "Ip spoofing is commonly used for which of the following types of attacks? ",
+      "option1": "Salami",
+      "option2": "Keystroke logging",
+      "option3": "DoS  ",
+      "option4": "Data diddling",
+      "answer": 3
+  },
+{  
+      "question": "Which of the following best describes session hijacking? ",
+      "option1": "Session hijacking works by first suberting the DNS process. If this is successful, an attacker can use an already established TCP connection",
+      "option2": "Session hijacking subverts the UDP protocol. It allows an attacker to use an already established connection",
+      "option3": "Session hijacking targets the TCP connection between a client and a server. If the attacker learns the initial sequence, he might be able to hijack a connection ",
+      "option4": "Session hijacking works by first suberting the DNS process. If this is successful an attacker can use an already established UDP connction",
+      "answer": 3
+  },
+{  
+      "question": "Several of your company's employees have been hit with email scans over the last several weeks. One of these attacks successfully tricked an employee into revealing his username and password. Management has asked you to look for possible solutions to these attacks. Which of the following represents the best answer? ",
+      "option1": "Implement a new more robust password policy that requires complex passwords",
+      "option2": "Start a training and awareness program",
+      "option3": "Increase the organization's email filtering ability  ",
+      "option4": "Develop a policy that restricts email to official use only",
+      "answer": 2
+  },
+{  
+      "question": "In part the ISC2 Code of Ethics states which of the following? ",
+      "option1": "Thou shalt not use a computer to harm other people",
+      "option2": "Compromising the privacy of users is unethical",
+      "option3": "All information should be free ",
+      "option4": "Act honorably, honestly, justly, responsibly and legally",
+      "answer": 4
+  },  
+{  
+      "question": "Which of the following groups presents the largest threat to your organization? ",
+      "option1": "Insiders",
+      "option2": "Corporate spies",
+      "option3": "Government spies ",
+      "option4": "Script kiddies",
+      "answer": 1
+  },
+{  
+      "question": "Locard's Exchange Principle states which of the following? ",
+      "option1": "The chain of custody should never be broken",
+      "option2": "There is always some trace evidence",
+      "option3": "Three things are required for a crime mean,s motive and opportunity",
+      "option4": "Checksums shold be used to authenticate evidence",
+      "answer": 2
+  },
+{  
+      "question": "Which of the following international organizations was established to standardize the handling of forennsic evidence? ",
+      "option1": "The international Organization on Forensic Analysis",
+      "option2": "The EU Policy Council of Criminal Evidence",
+      "option3": "The United Nations Organization on Computer Evidence",
+      "option4": "The International Organization on Computer Evidence",
+      "answer": 4
+  },
+{  
+      "question": "For evidence to be used in court, it must not be which of the following? ",
+      "option1": "Relevant",
+      "option2": "Properly preserved",
+      "option3": "Identifiable",
+      "option4": "Justifiable",
+      "answer": 4
+  },
+{  
+      "question": "Which of the following best defines hearsay evidence? ",
+      "option1": "Can be used in civil cases",
+      "option2": "Is not admissible in court",
+      "option3": "Is considered third hand information",
+      "option4": "Can be used to verify what has been presented through best evidence",
+      "answer": 2
+  },
+{  
+      "question": "Ethical hackers are different from hakers in which of the following ways? ",
+      "option1": "They have permission to destroy a network",
+      "option2": "Their goal is to do no harm",
+      "option3": "They cannot be held liable for any damage",
+      "option4": "They cannot be prosecuted or jailed",
+      "answer": 2
+  },
+{  
+      "question": "When dealing with computer forensics, which itern should be addressed first? ",
+      "option1": "Hard drives",
+      "option2": "DVDs",
+      "option3": "Contents of RAM",
+      "option4": "Computer printouts",
+      "answer": 3
+  },
+{  
+      "question": "Which of the following best describes SATAN? ",
+      "option1": "It is used for password cracking",
+      "option2": "It is used for reviewing audit logs",
+      "option3": "It is used to exploit systems",
+      "option4": "It is used to find vulnerabilities",
+      "answer": 4
+  },
+{  
+      "question": "The computer forensic investigator should do what during duplication? ",
+      "option1": "Make a direct copy",
+      "option2": "Make a bit level copy",
+      "option3": "Make a logical copy",
+      "option4": "Format the target drive to clear any contents before copying",
+      "answer": 2
+  },
+{  
+      "question": "What type of penetration test examines what insiders can access? ",
+      "option1": "Whitebox",
+      "option2": "Graybox",
+      "option3": "Blackbox",
+      "option4": "Bluebox",
+      "answer": 2
+  },
+{  
+      "question": "These individuals are known for their attacks on PBX and telecommunication systems? ",
+      "option1": "Script kiddies",
+      "option2": "Phreakers",
+      "option3": "Crackers",
+      "option4": "Hackers",
+      "answer": 2
+  },
+
+
+
+
+
+
+
+
 
 
 
   
-
-
-
-
   
    
 
