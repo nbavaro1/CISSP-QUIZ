@@ -3210,15 +3210,86 @@ var questions = [
       "option4": "Hackers",
       "answer": 2
   },
-
-
-
-
-
-
-
-
-
+{  
+      "question": "The purpose of Layer 1 in the OSI model is to  ",
+      "option1": "Transmit and receive bits",
+      "option2": "Sequence packets and calculate checksums",
+      "option3": "Perform application to appliation communications",
+      "option4": "Transmit and receive frames",
+      "answer": 1
+  },
+{  
+      "question": "The main reason for incorporationg a CAPICHA is   ",
+      "option1": "To slow down brute force attacks",
+      "option2": "To prevent non human interaction",
+      "option3": "To improve application performance",
+      "option4": "To reduce false positives",
+      "answer": 2
+  },
+{  
+      "question": "A set of SQL statements that are stored in the database is known as a    ",
+      "option1": "Callout",
+      "option2": "Subroutine",
+      "option3": "Prepared statement",
+      "option4": "Stored procedure",
+      "answer": 4
+  },
+{  
+      "question": "Two users have exchanged public keys. User A has encrypted a message with User B's public key. What must User B do to read the message?   ",
+      "option1": "Decrypt the message with User A's private key",
+      "option2": "Decrypt the message with User A's public key",
+      "option3": "Decrypt the message with User B's public key",
+      "option4": "Decrypt the message with User B's private key",
+      "answer": 4
+  },
+{  
+      "question": "The USA PATRIOT Act?   ",
+      "option1": "Makes it illegal to encrypt international email messages",
+      "option2": "Makes it illegal to export strong encryption technology",
+      "option3": "Gives law enforcement greater power of surveillance, search and seizure",
+      "option4": "Means judges no longer need to approve search warrants",
+      "answer": 3
+  },
+{  
+      "question": "An organization has added bank account numbers to the data it backs up to tape. The organization should?   ",
+      "option1": "Back up only the hashes of bank account number and not the numbers themselves",
+      "option2": "Split bank account numbers so they reside on two different back up tapes",
+      "option3": "Stop sending backup tapes off site",
+      "option4": "Encrypt backup tapes that are sent offsite",
+      "answer": 4
+  },
+{  
+      "question": "The purpose of motion sensing request to exit sensor on a exterior doorway is ?   ",
+      "option1": "Count the number of persons exiting the door",
+      "option2": "Count the number of persons entering the door",
+      "option3": "Unlock an exterior door and permit a person to exit",
+      "option4": "Detect when a person is approaching an exterior exit from the inside",
+      "answer": 4
+  },
+{  
+      "question": "The risks associated with outsouring computing to the Cloud ar all of the follwoing except ?   ",
+      "option1": "Data ownership",
+      "option2": "Data jurisdiction",
+      "option3": "Control effectiveness",
+      "option4": "Availablity",
+      "answer": 1
+  },
+{  
+      "question": "A system architect has designed a system that is protected with two layers of firewalls, where each firewall is a different make. The follows which security design principle?   ",
+      "option1": "Avoidance of a single point of failure",
+      "option2": "Defense in depth",
+      "option3": "Fail open",
+      "option4": "Fail closed",
+      "answer": 2
+  },
+{  
+      "question": "The range of all possible encryption keys is known as ?   ",
+      "option1": "Keyrange",
+      "option2": "Keyspace",
+      "option3": "Elliptic curve",
+      "option4": "Cryptospcae",
+      "answer": 2
+  },
 
 
   
