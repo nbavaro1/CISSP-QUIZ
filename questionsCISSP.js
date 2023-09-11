@@ -3290,7 +3290,133 @@ var questions = [
       "option4": "Cryptospcae",
       "answer": 2
   },
+{  
+      "question": "You have been given an attachment that was sent to the head of payroll and was flagged as malicious. You have been asked to examine the malware. You have decided to execute the malware inside a virtual environment. What is the best description of this environment ?   ",
+      "option1": "Honeypot",
+      "option2": "Hyperjacking",
+      "option3": "Sandbox",
+      "option4": "Decompiler",
+      "answer": 3
+  },
+{  
+      "question": "Which of the following is not a seecurity or operational reason to use mandatory vacations ?   ",
+      "option1": "It allows the organization the opportunity to audit employee work",
+      "option2": "It ensures that the employee is well rested",
+      "option3": "It keeps one person from easily being able to carry out covert activities",
+      "option4": "It ensures that employees will know that illicit activities could be uncovered",
+      "answer": 2
+  },
+{  
+      "question": "What type of control is an audit trail?   ",
+      "option1": "Application",
+      "option2": "Administrative",
+      "option3": "Preventative",
+      "option4": "Detective",
+      "answer": 4
+  },
+{  
+      "question": "Which of the following is not a benefit of RAID?   ",
+      "option1": "Capacity benefits",
+      "option2": "Increased recovery time",
+      "option3": "Performance improvements",
+      "option4": "Fault tolerance",
+      "answer": 2
+  },
+{  
+      "question": "Separation of duties is related to which of the following?   ",
+      "option1": "Dual controls",
+      "option2": "Principle of least privilege",
+      "option3": "Job rotation",
+      "option4": "Principle of privilege",
+      "answer": 2
+  },
+{  
+      "question": "Phreakers target which of the followin resources?   ",
+      "option1": "Mainframes",
+      "option2": "Networks",
+      "option3": "PBX systems",
+      "option4": "Wireless networks",
+      "answer": 3
+  },
+{  
+      "question": "You recently emailed a colleague you worked with years agao. You noticed that the email you sent him was rejected and you have been asked to resend it. What has happened with the message transfer agent?   ",
+      "option1": "Whitelist",
+      "option2": "Graylist",
+      "option3": "Blacklist",
+      "option4": "Black hole",
+      "answer": 2
+  },
+{  
+      "question": "Your organization has experienced a huge disruption. In this type of situation which of the following is designed to take on operational capabilities when the primary site is not functioning?   ",
+      "option1": "BCP",
+      "option2": "Audit",
+      "option3": "Incident response",
+      "option4": "COOP",
+      "answer": 4
+  },
+{  
+      "question": "Which RAID type provides data striping but on redundancy?   ",
+      "option1": "RAID 0",
+      "option2": "RAID 1",
+      "option3": "RAID 3",
+      "option4": "RAID 4",
+      "answer": 1
+  },
+{  
+      "question": "Which of the following is the fastest backup option but takes the longest to restore?   ",
+      "option1": "Incremental",
+      "option2": "Differential",
+      "option3": "Full",
+      "option4": "Grandfathered",
+      "answer": 1
+  },
+{  
+      "question": "Which of the following types of intrusion detection systems could be best described as one that compares normal to abnormal activity?   ",
+      "option1": "Pattern based",
+      "option2": "Statistical based",
+      "option3": "Trafffic based",
+      "option4": "Protocol based",
+      "answer": 2
+  },
+{  
+      "question": "Which of the following processes involves overwritting the data with zeros?   ",
+      "option1": "Formatting",
+      "option2": "Drive wiping",
+      "option3": "Zeroization",
+      "option4": "Degaussing",
+      "answer": 3
+  },
+{  
+      "question": "What type of RAID provides a stripe of mirrors?   ",
+      "option1": "RAID 1",
+      "option2": "RAID 5",
+      "option3": "RAID 10",
+      "option4": "RAID 15",
+      "answer": 3
+  },
+{  
+      "question": "Which of the following is the name of a multidisk technique that offers no advantage in speed and does not mirro, althought it does allow drives of various sizes to be used and can be used on two ro more drives?   ",
+      "option1": "RAID 0",
+      "option2": "RAID 1",
+      "option3": "RAID 5",
+      "option4": "JBOD",
+      "answer": 4
+  },
+{  
+      "question": "You have been assigned to a secret project that requires a massive amount of processing power. Which of the following techniques is best suited for your needs?   ",
+      "option1": "Redundant servers",
+      "option2": "Clustering",
+      "option3": "Distributed computing",
+      "option4": "Cloud computing",
+      "answer": 2
+  },
 
+
+
+
+
+
+  
 
   
   
