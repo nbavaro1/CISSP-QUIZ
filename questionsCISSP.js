@@ -3410,12 +3410,86 @@ var questions = [
       "option4": "Cloud computing",
       "answer": 2
   },
-
-
-
-
-
-
+{  
+      "question": "2001:0f56:45E3:ba98 is a ?   ",
+      "option1": "MAC address",
+      "option2": "IPv4 address",
+      "option3": "Subnet mask",
+      "option4": "IPv6 address",
+      "answer": 4
+  },
+{  
+      "question": "An authentication system does not limit the number of invalid login attemps. This system is?   ",
+      "option1": "Designed for machine interaction only",
+      "option2": "Integrated to a single sign on SSO service",
+      "option3": "Vulnerable to brute force attacks",
+      "option4": "Not used to store sensitive data",
+      "answer": 3
+  },
+{  
+      "question": "An attacker has discovered a way to change his permissions from an ordinary end user to an administrator. This type of attack is known as ?   ",
+      "option1": "Back door",
+      "option2": "Denial of Service",
+      "option3": "Privilege injection",
+      "option4": "Escalation of privilege",
+      "answer": 4
+  },
+{  
+      "question": "A user has lost the password to his private key. The user should   ",
+      "option1": "Create a new password for his private key",
+      "option2": "Decrypt his private key",
+      "option3": "Retrieve the password from his public key",
+      "option4": "Generate a new keypair",
+      "answer": 4
+  },
+{  
+      "question": "The burden of proff in US criminal law is    ",
+      "option1": "The preponderance of the evidence",
+      "option2": "Beyond a reasonable doubt",
+      "option3": "Beyond all doubt",
+      "option4": "Based on the opinion of the presiding judge",
+      "answer": 2
+  },
+{  
+      "question": "The best approach for patch management is   ",
+      "option1": "Install only those patches that scanning tools specify are missing",
+      "option2": "Install patches only after problems are experienced",
+      "option3": "Install all available patches",
+      "option4": "Perform risk analysis and install patches that are relevant",
+      "answer": 4
+  },
+{  
+      "question": "In addition to video surveillance how can a public reception area be best protected?   ",
+      "option1": "Duress alarm",
+      "option2": "Pepper spray",
+      "option3": "Hand signals",
+      "option4": "Emergency telephone numbers",
+      "answer": 1
+  },
+{  
+      "question": "The main weakness of a homogeneous environment is ?   ",
+      "option1": "A variety of systems is more difficult to manage effectively",
+      "option2": "Inconsistent manaagement among systems in the environment",
+      "option3": "A vulnerability in one system is likely to be found in all systems in the environment",
+      "option4": "Port scans will take longer to complete",
+      "answer": 3
+  },
+{  
+      "question": "A security manager has designed a building entrance that will lock doors inthe event of a power failure. This follows which security design principle?   ",
+      "option1": "Avoidance of a single point of failure",
+      "option2": "Defense in depth",
+      "option3": "Fail open",
+      "option4": "Fail closed",
+      "answer": 4
+  },
+{  
+      "question": "An effective cryptosystem is all of the following except ?   ",
+      "option1": "Efficient",
+      "option2": "Easy to crack",
+      "option3": "Easy to use",
+      "option4": "Strong even if its algorithm is known",
+      "answer": 2
+  },
   
 
   
