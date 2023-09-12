@@ -3490,7 +3490,95 @@ var questions = [
       "option4": "Strong even if its algorithm is known",
       "answer": 2
   },
-  
+{  
+      "question": "255.255.0.0 is a  ?   ",
+      "option1": "MAC address",
+      "option2": "IPv4 address",
+      "option3": "Subnet mask",
+      "option4": "IPv6 address",
+      "answer": 3
+  },  
+{  
+      "question": "The main reason for preventing password re-use is ?   ",
+      "option1": "To increase password entropy",
+      "option2": "To prevent a user from reverting to their old, familiar password",
+      "option3": "To encourage users to use different passwords on different systems",
+      "option4": "To prevent users from using the same passwords on different systems",
+      "answer": 2
+  },
+{  
+      "question": "A software developer has introduced a feature in an application that permits him to access the application without the need to log in. This feature is known as a ?   ",
+      "option1": "Bypass",
+      "option2": "Front door",
+      "option3": "Side door",
+      "option4": "Back door",
+      "answer": 4
+  },
+{  
+      "question": " A cryptosystem uses two digit numerals to represent each character of a message. This is a ?   ",
+      "option1": "Concealment cipher",
+      "option2": "Vernam cipher",
+      "option3": "Subsitution chipher",
+      "option4": "Transposition cipher",
+      "answer": 3
+  },
+{  
+      "question": "California state law SB-1386?   ",
+      "option1": "Requires organiations to publish their privacy policies",
+      "option2": "Requires organiations to encrypt bank account numbers",
+      "option3": "Requires organizations to disclose security breaches to affected citizens",
+      "option4": "Requires organizations to encrypt private data",
+      "answer": 3
+  },
+{  
+      "question": "The purpose of penetration testing is ?   ",
+      "option1": "Simulate an attack by insiders",
+      "option2": "Confirm the presence of application vulnerabilities",
+      "option3": "Confirm the effectiveness of patch management",
+      "option4": "Simulate a real attack and identify vulenerabilities",
+      "answer": 4
+  },
+{  
+      "question": "An advantage of video surveillance motion sensing recording over continuous recording is ?   ",
+      "option1": "Date and time stamping on video frames",
+      "option2": "Improved durability of storage media",
+      "option3": "Lower cost of storage media",
+      "option4": "Relevant content can be retained for a longer period of time",
+      "answer": 4
+  },
+{  
+      "question": "The four basic requirements in the Orange Book are ?   ",
+      "option1": "Security policy, assurance, accountability, and documentation",
+      "option2": "Security policy, availability, accountability, and documentation",
+      "option3": "Security policy, assurance, confidentiality, and documentation",
+      "option4": "Security policy, assurance, accountability, and integrity",
+      "answer": 1
+  },
+{  
+      "question": "A document that is unclassified ?   ",
+      "option1": "Is a threat to national security",
+      "option2": "Is not sensitive",
+      "option3": "Is secret and must be protected",
+      "option4": "Is not a threat to national security",
+      "answer": 2
+  },
+{  
+      "question": "In a symmetric cryptosystem, two users who wish to exchange encrypted messages eschane cryptovaribles. The next thing the users should do is?   ",
+      "option1": "Re-issue encryption keys",
+      "option2": "Begin to exchange encrypted messages",
+      "option3": "Change encryption algorithms",
+      "option4": "Change to an asymmetric cryptosystem",
+      "answer": 2
+  },
+
+
+
+
+
+
+
+
+
 
   
   
