@@ -3650,8 +3650,100 @@ var questions = [
       "option4": "Concealment cipher",
       "answer": 2
   },
+{  
+      "question": "Systems on an internal network have RFC 1918 network addresses. To permit these systems to communicate with systems on the internet, what should be implemented on the firewall?    ",
+      "option1": "NAT",
+      "option2": "NAC",
+      "option3": "NAP",
+      "option4": "NAS",
+      "answer": 1
+  },
+{  
+      "question": "The purpose of a user account access review is  ",
+      "option1": "All of these",
+      "option2": "To ensure that employee terminations were properly processed",
+      "option3": "To ensure that all role assignments were properly approved",
+      "option4": "To ensure that assigned roles are still needed",
+      "answer": 1
+  },
+{  
+      "question": "The most effective countermeasure for session hijacking is  ",
+      "option1": "Two factor authentication",
+      "option2": "Strong passwords",
+      "option3": "Full disk encryption",
+      "option4": "Full session HTTPS encryption",
+      "answer": 4
+  },
+{  
+      "question": "A cryptologist has determined that a cryptosystem has a weak PRNG. This can lead to   ",
+      "option1": "Compromise of the cryptosystem",
+      "option2": "Increased performance of the cryptosystem",
+      "option3": "Decreased performance of the cryptosystem",
+      "option4": "Collisions",
+      "answer": 1
+  },
+{  
+      "question": "Recordkeeping that is related to the acquisition and management of forensic evidence is known as    ",
+      "option1": "Best evidence",
+      "option2": "Burden of proff",
+      "option3": "Chain of custody",
+      "option4": "Certification",
+      "answer": 3
+  },
+{  
+      "question": "The purpose of audit trails includes all of the following except    ",
+      "option1": "Event reconstruction",
+      "option2": "Investigation support",
+      "option3": "Enforcement of accountability",
+      "option4": "Data recovery",
+      "answer": 4
+  },
+{  
+      "question": "In a datacenter that provides dual power feeds to each equipment rack components with dual power supplies are connected to each power feed. Why should power circuits not be loaded over 40% capacity   ",
+      "option1": "To permit systems to be power cycled without overloading circuits",
+      "option2": "To permit systems to be rebooted without overloading circuits",
+      "option3": "To permit power supplies to be swapped out",
+      "option4": "If one power feed fails power draw on alternate ciruits will double",
+      "answer": 4
+  },
+{  
+      "question": "A web application that uses sequential session identifiers   ",
+      "option1": "Has high resilience",
+      "option2": "Has low resilience",
+      "option3": "Is vulnerable to session hijacking",
+      "option4": "Is not vulnerable to session hijacking",
+      "answer": 3
+  },
+{  
+      "question": "All of the following statements about policies are true except  ",
+      "option1": "They specify what should be done",
+      "option2": "They specify how something should be done",
+      "option3": "They should be reviewed annually",
+      "option4": "They are formal statements of rules",
+      "answer": 2
+  },
+{  
+      "question": "An encryption algorithm that replaces bits, characters, or blocks in plaintext with alternate bits, characters or blocks is known as a  ",
+      "option1": "Subsitution cipher",
+      "option2": "Transposition cipher",
+      "option3": "Vernam cipher",
+      "option4": "Concealment cipher",
+      "answer": 1
+  },
 
 
+
+
+
+
+
+
+
+
+
+
+
+  
   
   
    
