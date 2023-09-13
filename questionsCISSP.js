@@ -3570,14 +3570,86 @@ var questions = [
       "option4": "Change to an asymmetric cryptosystem",
       "answer": 2
   },
-
-
-
-
-
-
-
-
+{  
+      "question": "In the resource \\usdb01\symm\dev\src\, usdb01 is a ?   ",
+      "option1": "Server",
+      "option2": "Directory",
+      "option3": "File",
+      "option4": "Network",
+      "answer": 1
+  },
+{  
+      "question": "An attacker has obtained a file containing hashed passwords. The fastest way to crack the hashed passwords is    ",
+      "option1": "Unsalt the hashes",
+      "option2": "Brute force attack",
+      "option3": "Rainbow tables",
+      "option4": "Cryptanalysis",
+      "answer": 3
+  },
+{  
+      "question": "The best method for defending against cross site request forgery CSRF attack is    ",
+      "option1": "Encrypt traffic with SSL/TLS",
+      "option2": "Block JavaScript execution",
+      "option3": "Filter input fields to reject injection strings",
+      "option4": "Include a transaction conifirmation step with every critical application functon",
+      "answer": 4
+  },
+{  
+      "question": "A cryptosystem uses a key that is the same length of the message. The key is used only for this message. This is a     ",
+      "option1": "Transformation cipher",
+      "option2": "Transposition cipher",
+      "option3": "Substitution cipher",
+      "option4": "Vernam cipher",
+      "answer": 4
+  },
+{  
+      "question": "The purpose of the Sarbanes Oxley Act of 2002 is to     ",
+      "option1": "Restore investors confidence in US companies",
+      "option2": "Ensure privacy of all US citizens",
+      "option3": "Increase penalties for security breaches",
+      "option4": "Reduce securities fraud",
+      "answer": 1
+  },
+{  
+      "question": "A disadvantage of a HIDS is all of the following except     ",
+      "option1": "A server based HIDS system cannot be a choke point like a NIDS/NIPS can",
+      "option2": "A separate HIDS instance must be installed and maintained on every server",
+      "option3": "HIDS can only perform signature based dection not anomaly based dection",
+      "option4": "It will not detect port scans on unused IP addresses",
+      "answer": 3
+  },
+{  
+      "question": "The primary advantage for remote monitoring of datacenter access controls is    ",
+      "option1": "Local monitoring cannot identify all intrusions",
+      "option2": "Remote monitoring is more effective than local monitoring",
+      "option3": "Reduction of costs",
+      "option4": "It compensates for the possiblility that personnel in the datacenter are unavailable or compromised",
+      "answer": 4
+  },
+{  
+      "question": "TCSEC evaluation criteria are    ",
+      "option1": "Ceritication, inspection and accreditation",
+      "option2": "Confidentiality, integrity, and availability",
+      "option3": "Measurement, guidance and acquisition",
+      "option4": "System architecture, system integrity and covert channel analysis",
+      "answer": 3
+  },
+{  
+      "question": "A document that lists approved protocols is known as a    ",
+      "option1": "Process",
+      "option2": "Procedure",
+      "option3": "Guideline",
+      "option4": "Standard",
+      "answer": 4
+  },
+{  
+      "question": "An encryption algorithm that rearranges bits, characters, or blocks of data is known as a    ",
+      "option1": "Subsititution cipher",
+      "option2": "Transposition cipher",
+      "option3": "Vernam cipher",
+      "option4": "Concealment cipher",
+      "answer": 2
+  },
 
 
   
