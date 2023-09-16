@@ -3730,16 +3730,86 @@ var questions = [
       "option4": "Concealment cipher",
       "answer": 1
   },
-
-
-
-
-
-
-
-
-
-
+{  
+      "question": "Two factor authentication is preferred for VPN becauswe  ",
+      "option1": "It is more resistant to a dictionary attack",
+      "option2": "It is more resistant to a replay attack",
+      "option3": "Encryption protects authentication credentials",
+      "option4": "Encryption protects encapsulated traffic",
+      "answer": 1
+  },
+{  
+      "question": "An audit of user access has revealed that user accounts are not being locked when employees leave the organization. The best way to mitigate this finding is ",
+      "option1": "Reset all account passwords",
+      "option2": "Lock all user accounts and require users to re-apply for access",
+      "option3": "Improve the termination process and perform monthly access reviews",
+      "option4": "Discipline the culpable personnel",
+      "answer": 3
+  },
+{  
+      "question": "A blogging site allows users to embed JavaScript in the body of blog entries. This will allow what type of attack? ",
+      "option1": "Cross frame scription",
+      "option2": "Cross site request forgery",
+      "option3": "Non persistent cross site scriptiong",
+      "option4": "Persistent cross site scripting",
+      "answer": 4
+  },
+{  
+      "question": "A system designer needs to choose a stream cipher to encrypt data. The designer should choose? ",
+      "option1": "3DES",
+      "option2": "AES",
+      "option3": "RC1",
+      "option4": "RC4",
+      "answer": 4
+  },
+{  
+      "question": "Evidence that is obtained through illegal means? ",
+      "option1": "May be used in a legal proceeding",
+      "option2": "May be used as indirect evidence",
+      "option3": "Cannot be used in a legal proceeding",
+      "option4": "Must be returned to its owner",
+      "answer": 3
+  },
+{  
+      "question": "A particular type of security incident occurs frequently in an organization. What shold be performed to reduce the frequency of these incidents? ",
+      "option1": "Audit log correction",
+      "option2": "Root cause analysis",
+      "option3": "Incident forensics",
+      "option4": "Six Sigma analysis",
+      "answer": 2
+  },
+{  
+      "question": "What procedure should be followed by personnel in case of fire in a datacenter? ",
+      "option1": "All personnel shold remain to fight the fire",
+      "option2": "One person shold remain behind and fight the fire",
+      "option3": "Collect backup media and evacuate",
+      "option4": "Immediate evacuation",
+      "answer": 4
+  },
+{  
+      "question": "The following statements about the Common Criteria are true except? ",
+      "option1": "It is the European version of ITSEC",
+      "option2": "It has been adopted as international standard ISO 15408",
+      "option3": "It contains eight levels of evaluation assurance",
+      "option4": "It supersedes TCSEC and ITSEC",
+      "answer": 1
+  },
+{  
+      "question": "An organization has employees in many countries, where laws vary on the type of background checks that can be performed. The best approach for background checks is ? ",
+      "option1": "Perform background checks only in those countries that permit reasonable checks",
+      "option2": "Perform the best background check in each country as permitted by law",
+      "option3": "Perform the same background check in all countries by performing only what is allowed in all of them",
+      "option4": "Do not perform background checks",
+      "answer": 2
+  },
+{  
+      "question": "A disadvantage of a symmetric cryptosystem is ? ",
+      "option1": "It is far less efficient than an asymmetric cryptosystem",
+      "option2": "Users who do not know each other will have difficulty securely exchanging keys",
+      "option3": "It is difficult to publish a public key",
+      "option4": "It is easy to publish a public key",
+      "answer": 2
+  },
 
 
 
