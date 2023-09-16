@@ -3810,9 +3810,102 @@ var questions = [
       "option4": "It is easy to publish a public key",
       "answer": 2
   },
+{  
+      "question": "Two organizations exchange data via FTP The best choice to make this more secure is ? ",
+      "option1": "Change the FTP protocol to SFTP or FTPS",
+      "option2": "Encrypt transferrred files with PGP",
+      "option3": "Change password more frequently",
+      "option4": "Change to longer complex passords",
+      "answer": 1
+  },
+{  
+      "question": "An attacker is capturing a user's keystrokes during authentication. The atacker may be preparing to launch a ? ",
+      "option1": "Brute force attack",
+      "option2": "Cryptanalysis attack",
+      "option3": "Replay attack",
+      "option4": "Denial of service attack",
+      "answer": 3
+  },
+{  
+      "question": "Users in a company have received email messages claiming to be from the compan's IT department with instructions on installing a security patch. The URL points to a page that resembles the company's IT helpdest home page. This may be a  ? ",
+      "option1": "Whaling attack",
+      "option2": "Pharming attack",
+      "option3": "Phishing attack",
+      "option4": "Spear phishing attack",
+      "answer": 4
+  },
+{  
+      "question": "A laptop containing several private encryption keys has been stolen. The owner of the encryption keys should? ",
+      "option1": "Generate new key pairs",
+      "option2": "Change the keys passwords",
+      "option3": "Change the encryption algorithms",
+      "option4": "No action is necessary",
+      "answer": 1
+  },
+{  
+      "question": "A company outsources its credit card processing to a third party organization. The company should? ",
+      "option1": "Require the third party organization to be PCI compliant",
+      "option2": "Require the third party organization to be GLBA compliant",
+      "option3": "Sign a contract with the third party organizzation",
+      "option4": "Perform penetration tests on the third party's system",
+      "answer": 1
+  },
+{  
+      "question": "Administration of a centralized audit log server should be performed by ? ",
+      "option1": "Database administrators",
+      "option2": "IT auditors",
+      "option3": "The same administrators who manage servers being logged",
+      "option4": "Separte administrators from those who administer serers being logged",
+      "answer": 4
+  },
+{  
+      "question": "The ideal level of relative humidity for datacenter computing equipment is  ? ",
+      "option1": "Between 0% and 20%",
+      "option2": "Between 20% and 40%",
+      "option3": "0%",
+      "option4": "Between 40% and 60%",
+      "answer": 4
+  },
+{  
+      "question": "A security manager whishes to establish a set of access control rules that specify which organization job titles are permitted to have which roles in a system. The model that the security manager should use as a model is   ? ",
+      "option1": "Access Matrix",
+      "option2": "Information Flow",
+      "option3": "Non-Interference",
+      "option4": "Biba",
+      "answer": 1
+  },
+{  
+      "question": "A decision on how to resolve an identified risk is known as   ? ",
+      "option1": "Risk control",
+      "option2": "Risk treatment",
+      "option3": "Risk management",
+      "option4": "Risk mitigation",
+      "answer": 2
+  },
+{  
+      "question": "The advantage of Cipher Block Chaining CBC is   ? ",
+      "option1": "Each block of ciphertext has a less random result",
+      "option2": "Each block of ciphertext has a more random result",
+      "option3": "Each block of ciphertext is encrypted separately",
+      "option4": "Each block of ciphertext is decrypted separately",
+      "answer": 2
+  },
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+  
   
   
   
