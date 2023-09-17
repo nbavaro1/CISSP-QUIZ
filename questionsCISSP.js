@@ -3962,14 +3962,86 @@ var questions = [
       "option4": "Estimate potential losses, conduct a threat analsyis and determine annual loss expectancy",
       "answer": 4
   },
-
-
-
-
-
-
-
-  
+{  
+      "question": "What is the Delphi Technique an example of ? ",
+      "option1": "A BCP analysis technique",
+      "option2": "A quanitative assessment technique",
+      "option3": "A DRP analysis technique",
+      "option4": "A qualitative assessment technique",
+      "answer": 4
+  },
+{  
+      "question": "What is the formula for total risk ? ",
+      "option1": "(Threat-Countermeasure)/ Asset value = Total risk",
+      "option2": "(Threat-Countermeasure) * Asset value = Total risk",
+      "option3": "Threat * Vulnerability *Asset value = Total risk",
+      "option4": "Threat * Vulnerability / Asset value = Total risk",
+      "answer": 3
+  },
+{  
+      "question": "What method of dealing with risk occurs when individuals do a cost benefit analysis and derermine that the cost of the benefits outweigh the cost of the potential loss ? ",
+      "option1": "Risk reduction",
+      "option2": "Risk rejection",
+      "option3": "Risk transference",
+      "option4": "Risk acceptance",
+      "answer": 4
+  },
+{  
+      "question": "The security kernel is found at what protection ring level ? ",
+      "option1": "Ring 0",
+      "option2": "Ring 1",
+      "option3": "Ring 2",
+      "option4": "Ring 4",
+      "answer": 1
+  },
+{  
+      "question": "You have been brought in as a consultant for a small local startup firm. Initally they want to connect to remote sites but would like to plan for remote user access in the future. With this in mind how do you advise them as to which VPN method is less likely to work through NAT ? ",
+      "option1": "IPsec transport mode",
+      "option2": "IPsec tunnel with AH",
+      "option3": "IPsec tunnel with ESP ",
+      "option4": "Suggest they use PPTP",
+      "answer": 2
+  },
+{  
+      "question": "Which of the following are considered temporary storage units within the CPU? ",
+      "option1": "I/O buffer",
+      "option2": "Registers",
+      "option3": "Control circuitry",
+      "option4": "ALU",
+      "answer": 2
+  },
+{  
+      "question": "Confidentialty and integrity are important concepts when discussing security models. Which of the following was one the first models developed to address only one goal of integrity? ",
+      "option1": "Biba",
+      "option2": "Clark Wilson",
+      "option3": "Brewer and Nash",
+      "option4": "Chinese Wall",
+      "answer": 1
+  },
+{  
+      "question": "Which of the following is considered the first security model to be based on confidentiality? ",
+      "option1": "Biba",
+      "option2": "Bell LaPadula",
+      "option3": "Graham Denning",
+      "option4": "Clark Wilson",
+      "answer": 2
+  },
+{  
+      "question": "What country specific standard was developed to evaluate integrity of individual systems and is broken into four categories? ",
+      "option1": "ITSEC",
+      "option2": "TCSEC",
+      "option3": "Common Criteria",
+      "option4": "CTCPEC",
+      "answer": 2
+  },
+{  
+      "question": "You are a consultant for a contractor that is doing work for an individual government agency. The government requires that all people must have a clearance for most restricted information in the information systems and a valid need to know. All people do not have to have a clearance for all information in the information system. What mode of security do you recommed for the GSA contractor? ",
+      "option1": "Dedicated security mode",
+      "option2": "System high security",
+      "option3": "Compartmented security mode",
+      "option4": "Multi level security mode",
+      "answer": 3
+  },  
   
   
   
