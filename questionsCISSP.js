@@ -3890,14 +3890,78 @@ var questions = [
       "option4": "Each block of ciphertext is decrypted separately",
       "answer": 2
   },
-
-
-
-
-
-
-
-
+{  
+      "question": "What type of access control features security labels   ? ",
+      "option1": "Restricted access control",
+      "option2": "Discretionary access control",
+      "option3": "Mandatory access control",
+      "option4": "Role based access control",
+      "answer": 3
+  },
+{  
+      "question": "What form of biometric system analyzes the features that exist in the colored tissue surrounding the pupil to validate access   ? ",
+      "option1": "Retina",
+      "option2": "Cornea",
+      "option3": "Iris",
+      "option4": "Optic nerve",
+      "answer": 3
+  },
+{  
+      "question": "What is the most important item to consider whtn examing biometric systems   ? ",
+      "option1": "The crossover acceptance rate the lower the number the better the biometric system",
+      "option2": "The corossover error rate the highter the number the better the biometric system",
+      "option3": "The corossover acceptance rate the lower the number the better the biometric system",
+      "option4": "The corossover error rate the lower the number the better then biometric system",
+      "answer": 4
+  },
+{  
+      "question": "You have been asked to help with an authentication problem that was reported after moving to biometric authentication. One of your compan's employees enrolled with a finerprint reader and was able to authenticate for several weeks using the new system. Then one day the employee complained that after cutting his finer he could no longer authenticate and received a Type 1 error. What is  most likely the problem ? ",
+      "option1": "The system does not examine enough information to determine the user",
+      "option2": "Fingerprint reader are not very good at handling type 1 errors by nature, since these are very dynamic",
+      "option3": "Fingerprint readers are not very good at handling type 1 errors by nature since they have high cross over error rates",
+      "option4": "The system examines too much information and needs to be configured to be less sensitive",
+      "answer": 4
+  },
+{  
+      "question": "What height of frnce will deter only casual trespassers  ? ",
+      "option1": "2-3 feet",
+      "option2": "3-4 feet",
+      "option3": "4-5 feet",
+      "option4": "5-7 feet",
+      "answer": 2
+  },
+{  
+      "question": "When discussing policies and procedures, who is strictly responsible for the protection of the company's assests and data? ",
+      "option1": "User",
+      "option2": "Data owner",
+      "option3": "Data custodian",
+      "option4": "security auditor",
+      "answer": 2
+  },
+{  
+      "question": "Which of the following is considered a flaw, loophole, oversight, or error that makes the organization susceptible to attack or damage? ",
+      "option1": "Risk",
+      "option2": "Vulnerability",
+      "option3": "Exposure",
+      "option4": "Thrat",
+      "answer": 2
+  },
+{  
+      "question": "Which of the following are the correct steps involved in determining the single loos expectancy? ",
+      "option1": "Single loss expectancy = Asset value/Exposure factor",
+      "option2": "Single loss expectancy = Asset value * Exposure factor",
+      "option3": "Single loss expectancy = Risk/Exposure factor",
+      "option4": "Single loss expectancy = Vulnerability * Exposure factor",
+      "answer": 2
+  },
+{  
+      "question": "Estimating potential loss is an important task of CISSP certified professionals. In order which of the following are the steps used to perform an quantitiative assessment? ",
+      "option1": "Estimate potential losses, perform a vulnerability assessment, and determine annual loss expectancy",
+      "option2": "Estimate potential losses, conduct a threat analysis and rank losses as high, medium or low",
+      "option3": "Assemble a team prepare a matrix of critical systems and services and rank losses as high, medium or low",
+      "option4": "Estimate potential losses, conduct a threat analsyis and determine annual loss expectancy",
+      "answer": 4
+  },
 
 
 
