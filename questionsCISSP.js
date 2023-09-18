@@ -4042,7 +4042,96 @@ var questions = [
       "option4": "Multi level security mode",
       "answer": 3
   },  
-  
+{  
+      "question": "When using PKI there are two methods by which you can handle revocation of certificates. as shown in the following diagram. When using online certificate status protocol OCSP messages are encoded ad typically transmitted over HTTP When compared to certificate revocation lists CRLs which of the followin is not true? ",
+      "option1": "Does not mandate encryption",
+      "option2": "Contains more information than a typical CRL",
+      "option3": "Discloes that a particular network host used a particular certificate at a particular time",
+      "option4": "Places less burden on client resources",
+      "answer": 2
+  },  
+{  
+      "question": "You have been asked to examine a database to evaluate referential integrity Which of the following should you review? ",
+      "option1": "Field",
+      "option2": "Aggregation",
+      "option3": "Composite key",
+      "option4": "Foreign key",
+      "answer": 4
+  },
+{  
+      "question": "Which of the following wireless standards uses frequuency hopping spread spectrum FHSS by default? ",
+      "option1": "Bluetooth",
+      "option2": "802.11a",
+      "option3": "802.11b",
+      "option4": "802.11g",
+      "answer": 1
+  },
+{  
+      "question": "Which of the following is the original technique used to digitize voice with 8 bits of sampling 8,000 times per second, which yields 64Kbps for one voice channel? ",
+      "option1": "DAT",
+      "option2": "CDMA",
+      "option3": "PCM",
+      "option4": "GSM",
+      "answer": 3
+  },
+{  
+      "question": "How many DS0 channels are bundled to make a T1? ",
+      "option1": "18",
+      "option2": "21",
+      "option3": "24",
+      "option4": "32",
+      "answer": 3
+  },
+{  
+      "question": "Which of the following protocols was developed in the mid 1970s for use in System Network Architecture SNA environments? ",
+      "option1": "SDLC",
+      "option2": "ISDN",
+      "option3": "LAP-B",
+      "option4": "X.25",
+      "answer": 1
+  },
+{  
+      "question": "Which of the following best defines transaction persistence? ",
+      "option1": "Database trasactions should be all or nothing to protect the integrity of the database ",
+      "option2": "The database should be in consistent state and there should not be a risk of integrity problems",
+      "option3": "The database should be the same before and after a transaction has occurred",
+      "option4": "Databases should be available to multiple users at the same time without endangering the integrity of the data",
+      "answer": 2
+  },
+{  
+      "question": "What is the capability to combine data from separate sources to gain information? ",
+      "option1": "Metadata ",
+      "option2": "Inference",
+      "option3": "Aggregation",
+      "option4": "Deadlocking",
+      "answer": 3
+  },
+{  
+      "question": "Ted considers himself a skillful hacker. He has devised a way to replace the existing startup programs between the moment that the system boots yes before the system actually executes these programs. He believes that if he can perfect his attack he can gain control of the system. What type of attack is described here? ",
+      "option1": "Synchronous attack ",
+      "option2": "TOC/TOU attack",
+      "option3": "DCOM attack",
+      "option4": "Smurf attack",
+      "answer": 2
+  },
+{  
+      "question": "Which of the following is evidence that is not based on personal knowledge but that was told to the witness? ",
+      "option1": "Best evidence ",
+      "option2": "Secondary evidence",
+      "option3": "Conclusive evidence",
+      "option4": "Hearsay evidence",
+      "answer": 4
+  },
+
+
+
+
+
+
+
+
+
+
   
   
    
