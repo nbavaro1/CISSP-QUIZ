@@ -4202,15 +4202,86 @@ var questions = [
       "option4": "DCOM",
       "answer": 4
   },
-
-
-
-
-
-
-
-
-
+{  
+      "question": "Which of the following protocols is said to use a web of trust? ",
+      "option1": "PKI ",
+      "option2": "IGMP",
+      "option3": "PGP",
+      "option4": "PEM",
+      "answer": 3
+  },
+{  
+      "question": "Which of the following is considered the act of encouraging or inducing a person to commit a crime in order to bring criminal charges against him? ",
+      "option1": "Inducement ",
+      "option2": "Entrapment",
+      "option3": "Honeypotting",
+      "option4": "Enticement",
+      "answer": 2
+  },
+{  
+      "question": "Which of the following terms describes the coalition of nations that have been meeting since the 1970s to solve the world's enonomic problems? ",
+      "option1": "G8 ",
+      "option2": "MLAT",
+      "option3": "SWAT",
+      "option4": "UN Resolution 1154",
+      "answer": 1
+  },
+{  
+      "question": "Which of the following is not one of the main BCP testing strategies? ",
+      "option1": "Partial interruption ",
+      "option2": "Structured walk through",
+      "option3": "Parallel",
+      "option4": "Full interruption",
+      "answer": 1
+  },
+{  
+      "question": "When discussing the BCP critical resources are usually divided into five primary categories. The catagories are which of the following groups? ",
+      "option1": "Business, administrative, user, technical, and data ",
+      "option2": "Adminstrative, policy, user, technical and data",
+      "option3": "Business, facility and supply, user technical and nontechnical",
+      "option4": "Business, facility and supply, user technical and data",
+      "answer": 4
+  },
+{  
+      "question": "Which of the following is not one of the three layers used by the Java interpreter? ",
+      "option1": "Java Language ",
+      "option2": "Java script",
+      "option3": "Java libraries",
+      "option4": "Java interpeter",
+      "answer": 2
+  },
+{  
+      "question": "Which of the following protocols is used for router multicasting? ",
+      "option1": "ICMP ",
+      "option2": "RIPv1",
+      "option3": "224.0.0.1",
+      "option4": "IGMP",
+      "answer": 4
+  },
+{  
+      "question": "VoIP uses which of the following because network congestion can be such a critical problem? ",
+      "option1": "Time division multiplexing ",
+      "option2": "TCP protocol",
+      "option3": "VLANs technology",
+      "option4": "Isochronous design",
+      "answer": 4
+  },
+{  
+      "question": "Which of the following is considered a network technology based on transferring data in cells or packets of a fixed size? ",
+      "option1": "ATM",
+      "option2": "ISDN",
+      "option3": "SMDS",
+      "option4": "Frame Relay",
+      "answer": 1
+  },
+{  
+      "question": "WEP has vulnerabilities. Which of the following is not a reason why it is vulnerable? ",
+      "option1": "Shared WEP keys among all clients",
+      "option2": "An RC4 engine not properly initialized",
+      "option3": "20 bit intialization vector",
+      "option4": "40 bit WEP keys",
+      "answer": 3
+  },
 
 
 
