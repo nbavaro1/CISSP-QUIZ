@@ -4122,6 +4122,86 @@ var questions = [
       "option4": "Hearsay evidence",
       "answer": 4
   },
+{  
+      "question": "Which mode of DES functions by means of taking each block of cipher text and XORing it with the next plain text block to be encrypted, with the result being a dependency on all the previous blocks? ",
+      "option1": "ECB ",
+      "option2": "CBC",
+      "option3": "CFB",
+      "option4": "OFB",
+      "answer": 2
+  },
+{  
+      "question": "Which mode of DES is susceptible to a meet in the middle attack? ",
+      "option1": "DES ",
+      "option2": "2DES",
+      "option3": "3DES",
+      "option4": "3DES EDE2",
+      "answer": 2
+  },
+{  
+      "question": "Which asymmetric cryptosystem is used for digital signatures? ",
+      "option1": "DES ",
+      "option2": "SHA1",
+      "option3": "Diffie Helman",
+      "option4": "ECC",
+      "answer": 4
+  },
+{  
+      "question": "When developing the organizations's contingency plan, which of teh following should not be included in the process? ",
+      "option1": "Damage assessment team ",
+      "option2": "Legal consel",
+      "option3": "Salvage team",
+      "option4": "Red team",
+      "answer": 4
+  },
+{  
+      "question": "Which of the following is a valid form of aatck against ARP? ",
+      "option1": "Flooding ",
+      "option2": "Spanning the tree attack",
+      "option3": "Name server poising",
+      "option4": "Reverse lookups",
+      "answer": 1
+  },
+{  
+      "question": "Which of the following is considered an authentication type that can use smart cards and certificates? ",
+      "option1": "CHAP ",
+      "option2": "EAP",
+      "option3": "MS CHAP",
+      "option4": "PAP",
+      "answer": 2
+  },
+{  
+      "question": "Which of the following address ranges is not listed in RFC 1918? ",
+      "option1": "10.0.0.0 to 10.255.255.255 ",
+      "option2": "172.16.0.0 to 172.31.255.255",
+      "option3": "172.16.0.0 to 172.63.255.255",
+      "option4": "192.168.0.0 to 192.168.255.255",
+      "answer": 3
+  },
+{  
+      "question": "Which of the following is not a reason why email should be protected? ",
+      "option1": "Encryption is difficult, time consuming process ",
+      "option2": "Faking email is easy",
+      "option3": "Sniffing email is easy",
+      "option4": "Stealing email is difficult",
+      "answer": 4
+  },
+{  
+      "question": "Which of the following statements about instant messaging is incorrect? ",
+      "option1": "No capability for scripting ",
+      "option2": "Can bypass corporate firewalls",
+      "option3": "Lack of encryption",
+      "option4": "Insecure password management",
+      "answer": 1
+  },
+{  
+      "question": "ActiveX is used by which of the following technologies? ",
+      "option1": "Java ",
+      "option2": "CORBA",
+      "option3": "EJB",
+      "option4": "DCOM",
+      "answer": 4
+  },
 
 
 
@@ -4129,6 +4209,14 @@ var questions = [
 
 
 
+
+
+
+
+
+
+
+  
 
 
 
