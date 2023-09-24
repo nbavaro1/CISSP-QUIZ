@@ -4283,7 +4283,7 @@ var questions = [
       "answer": 3
   },
 {  
-      "question": "Common Criteria rating of structurally tested means the design meets what leveel of verification? ",
+      "question": "Common Criteria rating of structurally tested means the design meets what level of verification? ",
       "option1": "EAL 1",
       "option2": "EAL 2",
       "option3": "EAL 4",
