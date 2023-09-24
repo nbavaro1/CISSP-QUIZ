@@ -4282,12 +4282,70 @@ var questions = [
       "option4": "40 bit WEP keys",
       "answer": 3
   },
-
-
-
-
-
-  
+{  
+      "question": "Common Criteria rating of structurally tested means the design meets what leveel of verification? ",
+      "option1": "EAL 1",
+      "option2": "EAL 2",
+      "option3": "EAL 4",
+      "option4": "EAL 5",
+      "answer": 2
+  },
+{  
+      "question": "Which of the following is not a valid Red Book rating? ",
+      "option1": "A1",
+      "option2": "B2",
+      "option3": "C1",
+      "option4": "C2",
+      "answer": 1
+  },
+{  
+      "question": "What Bell LaPadula model rule states that someone at one security level connot write information to a lower security level? ",
+      "option1": "Star property",
+      "option2": "Simple security rule",
+      "option3": "Simple integrity propery",
+      "option4": "Strong star rule",
+      "answer": 1
+  },
+{  
+      "question": "Which of the followin is considered the first line of defense against human attack? ",
+      "option1": "Cryptography",
+      "option2": "Physical security",
+      "option3": "Business continuity planning",
+      "option4": "Policies",
+      "answer": 2
+  },
+{  
+      "question": "HVAC should provide which of the following? ",
+      "option1": "HVAC should be a closed loop system with negative pressurization",
+      "option2": "HVAC should be an open loop system with positive pressurization",
+      "option3": "HVAC should be an open loop system with negative pressurization",
+      "option4": "HVAC should be a closed loop system with positive pressurization",
+      "answer": 4
+  },
+{  
+      "question": "Which of the following types of fire dectectors uses rate of rise sensors? ",
+      "option1": "Flame activated",
+      "option2": "Heat activated",
+      "option3": "Smoke activated",
+      "option4": "Ion activated",
+      "answer": 2
+  },
+{  
+      "question": "A fire caused by electrical equipment is considered which class of fire? ",
+      "option1": "D",
+      "option2": "C",
+      "option3": "B",
+      "option4": "A",
+      "answer": 2
+  },
+{  
+      "question": "A fire caused by electrical equipment is considered which class of fireWhile Jim was examining the clapper valve of a  failed fire suppression system on the loading dock, he started to wonder whether he installed the right fire suppression system. The facility is unheated and located on a major city in the northeastern US Based on this information which system would you  recommed to Jim? ",
+      "option1": "Deluge",
+      "option2": "Wet pipe",
+      "option3": "Preaction ",
+      "option4": "Dry pipe",
+      "answer": 4
+  },  
 
 
 
