@@ -4346,12 +4346,98 @@ var questions = [
       "option4": "Dry pipe",
       "answer": 4
   },  
+{  
+      "question": "What height of fence is required to prevent a determined intruder? ",
+      "option1": "4-foot",
+      "option2": "6-foot",
+      "option3": "8-foot",
+      "option4": "none of these are correct",
+      "answer": 4
+  },
+{  
+      "question": "A fire caused by combustible metals would be considered which class of fire? ",
+      "option1": "A",
+      "option2": "B",
+      "option3": "C",
+      "option4": "D",
+      "answer": 4
+  },
+{  
+      "question": "Controls should work in a layered approach. Review the following diagram which order does the diagram most closely represent; 1, 8 foot fence and no trespassing sign 2,DES MD5, and NAC 3,Policy on PII with awareness training? ",
+      "option1": "1,Physical/preventative 2,administrative/preventative, 3,technical/deterent control layered approach",
+      "option2": "Physical/preventative/deterrent 2,technical/preventative/detective 3,administrative/preventative layered approach",
+      "option3": "Deterrent/preventative 2,administrative/detective 3,preventative training",
+      "option4": "Physical/preventative/deterrent 2,hardware/software preventative 3,administrative/preventative layered approach",
+      "answer": 2
+  },
+ {  
+      "question": "Which of the following types of card keys contains rows of copper strips? ",
+      "option1": "Magnetic strip",
+      "option2": "Electtonic circuit",
+      "option3": "Magnetic stirpe",
+      "option4": "Active electrionic",
+      "answer": 1
+  }, 
+{  
+      "question": "Tony's company manufactures proprietary tractor trailer tracking devices. Now that employees will be issued laptops, Tony is concerned about the loss of confidential information if an employee's laptop is stolen. Which of the following reprents the best defensive method? ",
+      "option1": "Use integrity programs such as MD5 and SHA to verify the validity of installed programs",
+      "option2": "Place lables on the lpatops offering a reward for stolen or missing units",
+      "option3": "Issue laptop users locking bables to secure the units and prevent their theft",
+      "option4": "Encrypt the hard drives",
+      "answer": 4
+  },   
+ {  
+      "question": "Under what conditions can halon be expected to degrade into toxic compounds? ",
+      "option1": "At temperatures greater then 500 F",
+      "option2": "At temparatures greater then 900 F and concentration greater then 10%",
+      "option3": "At temperatures greater then 900",
+      "option4": "At temperatures greater then 500 F and concentration greater then 7%",
+      "answer": 2
+  }, 
+ {  
+      "question": "According to NIST perimeter lighting standards, critical areas should be illuminated to what measurement? ",
+      "option1": "10 feet in height, with 2 foot candles of illuminance",
+      "option2": "12 feet in height, with 4 foot candles of illuminance",
+      "option3": "8 feet in height, with 2 foot candles of illuminance",
+      "option4": "8 feet in height, with 4 foot candles of illuminance",
+      "answer": 3
+  }, 
+ {  
+      "question": "What type of biometric error signifies that an authorized user has been denied leitmate access? ",
+      "option1": "Type I",
+      "option2": "Type II",
+      "option3": "Type III",
+      "option4": "Type IV",
+      "answer": 1
+  }, 
+{  
+      "question": "In biometrics the point at which the FAR equals the FRR is known as which of the following? ",
+      "option1": "Crossover error rate",
+      "option2": "Error acceptance rate",
+      "option3": "Crossover acceptance rate",
+      "option4": "Failure acceptance rate",
+      "answer": 1
+  }, 
+{  
+      "question": "RSA's SecurID is an example of which of the following? ",
+      "option1": "SSO system",
+      "option2": "Synchronous authentication",
+      "option3": "Token authentication",
+      "option4": "Asynchronous authentication",
+      "answer": 2
+  }, 
+
+
+
+
+
+
+
+
 
 
 
   
-  
-   
 
 
   ]
