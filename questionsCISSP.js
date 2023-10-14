@@ -4426,6 +4426,86 @@ var questions = [
       "option4": "Asynchronous authentication",
       "answer": 2
   }, 
+{  
+      "question": "Which of the following is a weak implementation of a EAP? ",
+      "option1": "EAP-FAST",
+      "option2": "LEAP",
+      "option3": "PEAP",
+      "option4": "EAP-TLS",
+      "answer": 2
+  }, 
+{  
+      "question": "When discussing the security of SSO systems, which of the following is considered a disadvantage? ",
+      "option1": "Single sign on requires much more maintenance and overhead because all systems are tied together",
+      "option2": "The biggest disadvantage to single sign on is that system time on all systems must be held to very tight standards if deviated from this can cause serious access problems",
+      "option3": "There are no real disadvantages to single sign on",
+      "option4": "If single sign on is breached it offers the intruder access to all systems tied to the SSO implementation",
+      "answer": 4
+  }, 
+{  
+      "question": "Snort started as what type of system? ",
+      "option1": "Behavior based IPS system",
+      "option2": "Signature based IDS system",
+      "option3": "Behavior based IDS system",
+      "option4": "Signature based IPS system",
+      "answer": 2
+  }, 
+{  
+      "question": "What type of attack is also known as a race condition? ",
+      "option1": "Synchronous attack",
+      "option2": "Buffer overflow",
+      "option3": "Asynchronous attack",
+      "option4": "Scanlog attack",
+      "answer": 3
+  }, 
+{  
+      "question": "I/O drivers and utilities are typically found at what protected ring level? ",
+      "option1": "Ring 1",
+      "option2": "Ring 2",
+      "option3": "Ring 3",
+      "option4": "Ring 0",
+      "answer": 2
+  }, 
+{  
+      "question": "What type of CPU can interleave two or more programs for execution at any on time? ",
+      "option1": "Multiprogramming",
+      "option2": "Multitasking",
+      "option3": "Multiapp",
+      "option4": "Multiprocessor",
+      "answer": 1
+  }, 
+{  
+      "question": "This portion of the CPU performs arithmetic and logical operations on the binary data? ",
+      "option1": "I/O buffer",
+      "option2": "Registers",
+      "option3": "Control circuit",
+      "option4": "ALU",
+      "answer": 4
+  }, 
+{  
+      "question": "You are a security consultant for a contracting agency, the agency chief wants to ensure he prevents subjects from writting information to a higher level then the subject's security clearance. Wh also wants to ensure subjects from a higher level clearance cannot read information at a lower level. The require some type of access control models for their infomation systems to protect the integrity of their data What is your best recommendation for a model of use? ",
+      "option1": "Bell LaPadula",
+      "option2": "Biba",
+      "option3": "State Machine",
+      "option4": "Clark Wilson",
+      "answer": 2
+  }, 
+{  
+      "question": "What piece of documentation was developed to evaluate stand alone systems and is a basis of measurement for confidentiality? ",
+      "option1": "The Red Book",
+      "option2": "The Orange Book",
+      "option3": "Common Criteria",
+      "option4": "CTCPEC",
+      "answer": 2
+  }, 
+{  
+      "question": "Which level of Orange Book protection is considered mandatory protection and is the first level in which labels are required? ",
+      "option1": "B3",
+      "option2": "C2",
+      "option3": "B1",
+      "option4": "A1",
+      "answer": 3
+  }, 
 
 
 
@@ -4433,6 +4513,12 @@ var questions = [
 
 
 
+
+
+
+
+
+  
 
 
 
