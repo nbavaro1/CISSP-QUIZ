@@ -4579,7 +4579,7 @@ var questions = [
       "answer": 3
   }, 
 {  
-      "question": " Which of the following? ", best describes an approved type of forensic duplication?",
+      "question": " Which of the following best describes an approved type of forensic duplication?",
       "option1": "Logical copy",
       "option2": "Bit copy",
       "option3": "Microsoft backup",
