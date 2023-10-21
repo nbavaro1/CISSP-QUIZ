@@ -4506,14 +4506,86 @@ var questions = [
       "option4": "A1",
       "answer": 3
   }, 
-
-
-
-
-
-
-
-
+{  
+      "question": "Which of the following is considered the totality of protection mechanisms within a computer system and is responsible for enforcing security? ",
+      "option1": "Rings of protection",
+      "option2": "The security kernel",
+      "option3": "TCB",
+      "option4": "Resource isolation",
+      "answer": 3
+  }, 
+{  
+      "question": "Johnny is worried that someone might be able to intercept and decrypt his VoIP phone calls. Which of the following protocols it most closely associated with VoIP? ",
+      "option1": "SKYP",
+      "option2": "SLIP",
+      "option3": "S/MINE",
+      "option4": "SIP",
+      "answer": 4
+  }, 
+{  
+      "question": "Which of the following wireless standards uses direct sequence spread spectrum DSSS by default? ",
+      "option1": "Bluetooth",
+      "option2": "802.11a",
+      "option3": "802.11b",
+      "option4": "802.11ac",
+      "answer": 3
+  }, 
+{  
+      "question": "What is a rogue AP? ",
+      "option1": "An individual connected to an unauthorized modem",
+      "option2": "An unauthorized AP attached to the corporate network",
+      "option3": "An unauthorized modem attached to the network",
+      "option4": "An individual intercepting wireless traffic from inside or outside the organization",
+      "answer": 2
+  }, 
+{  
+      "question": "Pulse code modulation PCM is used to digitize a voice with 8 bits of sampling for transmission on a DS0 line. What is the maximum rate of encoding for one of these voice channels? ",
+      "option1": "28.8 Kbps",
+      "option2": "56Kbps",
+      "option3": "64Kbps",
+      "option4": "128Kbps",
+      "answer": 3
+  }, 
+{  
+      "question": " A T1 uses which of the following to multiplex DS0s into a composite T1? ",
+      "option1": "Channel division",
+      "option2": "Frequency hopping spread spectrum",
+      "option3": "Frequency division",
+      "option4": "Time division",
+      "answer": 4
+  }, 
+{  
+      "question": " Which of the following focuses on how to repair and restore the data center and information at an original or new primary site? ",
+      "option1": "BCP",
+      "option2": "BCM",
+      "option3": "DRP",
+      "option4": "BIA",
+      "answer": 3
+  }, 
+{  
+      "question": " This type of service is used to provide protection for source code in case the manaufactureer declares bankruptcy or goes broke ",
+      "option1": "Government access to keys",
+      "option2": "MAD",
+      "option3": "Electronic vaulting",
+      "option4": "Software escrow",
+      "answer": 4
+  }, 
+{  
+      "question": " Which of the following describes the cooperative effort between the United States and Europe to exchange information about European citizens between European firms and North American parent corporations? ",
+      "option1": "SB 168",
+      "option2": "Demar Act",
+      "option3": "Safe Harbor",
+      "option4": "Safety Shield",
+      "answer": 3
+  }, 
+{  
+      "question": " Which of the following? ", best describes an approved type of forensic duplication?",
+      "option1": "Logical copy",
+      "option2": "Bit copy",
+      "option3": "Microsoft backup",
+      "option4": "Xcopy",
+      "answer": 2
+  },
 
 
 
