@@ -4650,6 +4650,110 @@ var questions = [
     "option4": "Accountability",
     "answer": 1
   },
+  {  
+    "question": "Which tool is commonly used for network vulnerability scanning?",
+    "option1": "Wireshark",
+    "option2": "Nessus",
+    "option3": "Nmap",
+    "option4": "Metasploit",
+    "answer": 2
+  },
+  {  
+    "question": "What is the primary goal of an incident response plan?",
+    "option1": "To identify vulnerabilities in a network",
+    "option2": "To recover from security vreaches and minimize impact",
+    "option3": "To establish secure coding practices",
+    "option4": "To enforce password complexity rules",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following protocols uses port 22 by default?",
+    "option1": "FTP",
+    "option2": "SSH",
+    "option3": "HTTP",
+    "option4": "SMTP",
+    "answer": 2
+  },
+  {  
+    "question": "What tyupe of malware is designed to replicate and spread from one computer to another?",
+    "option1": "Virus",
+    "option2": "Worm",
+    "option3": "Trojan",
+    "option4": "Spyware",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following is an example of a symmetric encryption algorithm?",
+    "option1": "RSA",
+    "option2": "ECC",
+    "option3": "AES",
+    "option4": "DSA",
+    "answer": 3
+  },
+  {  
+    "question": "In the context of network security, what does the term honeypot refer to?",
+    "option1": "A type of firewall",
+    "option2": "A decoy system to attract attackers",
+    "option3": "A strong password policy",
+    "option4": "A method of data encryption",
+    "answer": 2
+  },
+  {  
+    "question": "What is the primary function of a DMZ Demilitarized Zone in network security?",
+    "option1": "To encrypt all data passing through the network",
+    "option2": "To separate and protect internal networks from untrusted external networks",
+    "option3": "To allow unrestricted access to the internal network",
+    "option4": "To block all incoming and outgoing network traffic",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following best describes two factor authentication 2FA?",
+    "option1": "Using a username and password",
+    "option2": "Using a password and a fingerprint scan",
+    "option3": "Using two different passwords",
+    "option4": "Using a password and a pin",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following terms describes a network device designed to detect and alert administrators about potential security breaches but not take action to stop them?",
+    "option1": "Firewall",
+    "option2": "Intrusion Detection System IDS",
+    "option3": "Intrusion Prevention System IPS",
+    "option4": "Proxy server",
+    "answer": 2
+  },
+  {  
+    "question": "What is the purpose of network segmentation?",
+    "option1": "To improve network performance by reducing congestion",
+    "option2": "To isolate sensitive systems to enhance security",
+    "option3": "To prevent unauthorized access to external websites",
+    "option4": "To enable wireless communication within a network",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following is a form of social engineering attack?",
+    "option1": "SQL injection",
+    "option2": "Cross site scripting",
+    "option3": "Phishing",
+    "option4": "Denial of Service DoS",
+    "answer": 3
+  },
+  {  
+    "question": "What is the main goal of implementing security policies and procedures in an organization?",
+    "option1": "To ensure compliance with legal regulations",
+    "option2": "To reduce operational costs",
+    "option3": "To prevent hardware failures",
+    "option4": "To improve employee productivity",
+    "answer": 1
+  },
+  {  
+    "question": "Which of the following best describes the concept of least privilege?",
+    "option1": "Providing users with the highest level of access possible",
+    "option2": "Granting users access only to the resources they need to perform their job",
+    "option3": "Rotating user privileges regularly",
+    "option4": "Allowing users to access all network resources",
+    "answer": 2
+  },
 
 
 
@@ -4661,6 +4765,10 @@ var questions = [
 
 
 
+
+
+
+  
 
 
   
