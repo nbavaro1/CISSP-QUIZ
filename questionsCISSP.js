@@ -2768,7 +2768,7 @@ var questions = [
       "option2": "Authorization and accountability",
       "option3": "Authentication and authorization",
       "option4": "Authentication, authorization, and accountablity",
-      "answer": 3
+      "answer": 4
   }, 
  {  
       "question": "You have been asked to implement a WAN technology for your client. The client is based in a rural area in the southern US. The client does not want to use a circuit switched technology. Based on this information, which of the following is a cell switched technology which you could use? ",
@@ -4506,7 +4506,6 @@ var questions = [
       "option4": "A1",
       "answer": 3
   }, 
-
 {  
       "question": "Which of the following is considered the totality of protection mechanisms within a computer system and is responsible for enforcing security? ",
       "option1": "Rings of protection",
@@ -4587,10 +4586,79 @@ var questions = [
       "option4": "Xcopy",
       "answer": 2
   },
+  {  
+    "question": " Which of the following is an example of a physical security control?",
+    "option1": "Firewall",
+    "option2": "Password policy",
+    "option3": "Security badge",
+    "option4": "Antivirus software",
+    "answer": 3
+  },
+{  
+    "question": " What is the primary purpose of a digital certificate?",
+    "option1": "to encrypt data in transit",
+    "option2": "To verify the identity of a sender or receiver",
+    "option3": "To create a secure VPN connection",
+    "option4": "To block malicious software",
+    "answer": 2
+  },
+  {  
+    "question": " Which attack involves sending unsolicited massages over Bluetooth?",
+    "option1": "Bluesnarfing",
+    "option2": "Bl;uejacking",
+    "option3": "Bluetooth hijacking",
+    "option4": "Bluebugging",
+    "answer": 2
+  },
+  {  
+    "question": " Which of the following type of attacks involves tricking a user into providing personal information by pretending to be a legitimate entity?",
+    "option1": "Phishing",
+    "option2": "Tailgating",
+    "option3": "Pharming",
+    "option4": "Spear phishing",
+    "answer": 1
+  },
+  {  
+    "question": " What does the acronym DLP stand for in the context of information security?",
+    "option1": "Data Loss Prevention",
+    "option2": "Digital License Protection",
+    "option3": "Data Leakage Protection",
+    "option4": "Device Lifecycle Protection",
+    "answer": 1
+  },
+  {  
+    "question": "Which cryptographic algorithm is considered secure and is commonly used for encrypting internet traffic",
+    "option1": "DES",
+    "option2": "MD5",
+    "option3": "RSA",
+    "option4": "SHA-1",
+    "answer": 3
+  },
+  {  
+    "question": " Which of the following is a best practice for managing user permissions?",
+    "option1": "Grant all users administrative acess",
+    "option2": "Implement the principle of least privilege",
+    "option3": "Use shared accounts for critical systems",
+    "option4": "Rotate user roles every month",
+    "answer": 2
+  },
+  {  
+    "question": "A company needs to ensure that only authorized personnel can access sensitive data. Which security principle dows this address?",
+    "option1": "Confidentiality",
+    "option2": "Integrity",
+    "option3": "Availability",
+    "option4": "Accountability",
+    "answer": 1
+  },
 
 
 
-  
+
+
+
+
+
+
 
 
 
