@@ -4754,16 +4754,164 @@ var questions = [
     "option4": "Allowing users to access all network resources",
     "answer": 2
   },
+  {  
+    "question": "Which of the following techniques can be used to obscure the true origin of network traffic?",
+    "option1": "Hashing",
+    "option2": "Network Address Translation NAT",
+    "option3": "Tunneling",
+    "option4": "Encapsulation",
+    "answer": 3
+  },
+  {  
+    "question": "What type of attack involves an attacker intercepting and potentially altering communication between two parties without their knowledge?",
+    "option1": "Phishing",
+    "option2": "Man in the Middle MITM",
+    "option3": "SQL Injection ",
+    "option4": "Cross site Scripting XSS",
+    "answer": 2
+  },
+  {  
+    "question": "Which security princple ensures that information is not altered or tampered with?",
+    "option1": "Confidentiality",
+    "option2": "Integrity",
+    "option3": "Availability",
+    "option4": "Non repudiation",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following is a characteristic of a brute force attack?",
+    "option1": "It uses a dictionary of known passwords to guess user credentials",
+    "option2": "It attempts all possible password combinations until the correct one is found",
+    "option3": "It involves tricking users into providing their login details",
+    "option4": "It exploits vulnerabilities in software to gain unauthorized access",
+    "answer": 2
+  },
+  {  
+    "question": "What is the primary purpose of Security Information and Event Management SIEM system?",
+    "option1": "To monitor and analyze security alerts in real time",
+    "option2": "To manage and distribute software updates",
+    "option3": "To control access to network resources",
+    "option4": "To provide encryption services",
+    "answer": 1
+  },
+  {  
+    "question": "Which of the following is a primary characteristic of a zero day vulnerability?",
+    "option1": "It has already been patched by the software vendor",
+    "option2": "It is known to attackers but not yet to the software vendor",
+    "option3": "It has been publicly disclosed but not yet exploited",
+    "option4": "It is a known vulnerability that has been exploited multiple times",
+    "answer": 2
+  },
+  {  
+    "question": "Which Type of firewall filters traffic based on packet header information such as source and destination IP addresses?",
+    "option1": "Application layer firewall",
+    "option2": "Stateful firewall",
+    "option3": "Packet filtering firewall",
+    "option4": "Proxy firewall",
+    "answer": 3
+  },
+  {  
+    "question": "Which of the following describes the process of verifying the identity of a user device or other entity in a computer system",
+    "option1": "Authorization",
+    "option2": "Authentication",
+    "option3": "Accounting",
+    "option4": "Auditing",
+    "answer": 2
+  },
+  {  
+    "question": "What is the primary purpose of a demilitarized zone DMZ in network architecture?",
+    "option1": "To provide a secure area for sensitive data storage",
+    "option2": "To isolate internal networks from external threats",
+    "option3": "To encrypt data before transmission",
+    "option4": "To optimize network performance",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following is a method used to prevent session hijacking?",
+    "option1": "Using HTTPS for secure communication",
+    "option2": "Implementing strong passwords",
+    "option3": "Regularly updating antivirus software",
+    "option4": "Disabling cookies",
+    "answer": 1
+  },
+  {  
+    "question": "What type of malware disguises itself as a legitimate software application?",
+    "option1": "Worm",
+    "option2": "Trojan",
+    "option3": "Rootkit",
+    "option4": "Ransomware",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following security measures is used to protect data at rest?",
+    "option1": "SSL/TLS encryption",
+    "option2": "Full disk encryption",
+    "option3": "VPN",
+    "option4": "Two factor authentication",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following describes the process of hardening a system?",
+    "option1": "Installing the latest antivirus software",
+    "option2": "Disabling unnecessary services and applications",
+    "option3": "Implementing network segmentation",
+    "option4": "Creating a disaster recovery plan",
+    "answer": 2
+  },
+  {  
+    "question": "What is the purpose of a Business Impact Analysis BIA?",
+    "option1": "To identify critical business functions and the impact of a disruption",
+    "option2": "To determine the effectiveness of security controls",
+    "option3": "To assess vulnerabilities in the IT infrastructure",
+    "option4": "To establish a secure network perimeter",
+    "answer": 1
+  },
+  {  
+    "question": "Which of the following is used to detect unauthorized changes to files?",
+    "option1": "Intrusion Prevention System IPS",
+    "option2": "File integrity Monitoring FIM",
+    "option3": "Data Loss Prevention DLP",
+    "option4": "Network Access Control NAC",
+    "answer": 2
+  },
+  {  
+    "question": "Which attack involves the exploitation of a websites scripting capabilities to execute maliciouis code in a uswers browser?",
+    "option1": "Cross site Scripting XSS",
+    "option2": "SQL Injection",
+    "option3": "Command Injection",
+    "option4": "Buffer Overflow",
+    "answer": 1
+  },
+  {  
+    "question": "What is the primary purpose of implementing a security baseline?",
+    "option1": "To ensure compliance with industry standards",
+    "option2": "To define a minimum level of security for systems and devices",
+    "option3": "To track and log security incidents",
+    "option4": "To conduct regular security audits",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following describes a benefit of cloud computing",
+    "option1": "Enhanced physical security",
+    "option2": "Improved control over data",
+    "option3": "Scalability and flexibility",
+    "option4": "Increased on premises storage requirements",
+    "answer": 3
+  },
+  {  
+    "question": "What type of access control model is based on predefined rules and policies",
+    "option1": "Discretionary Access Control DAC",
+    "option2": "Role Based Access Control RBAC",
+    "option3": "Mandatory Access Control MAC",
+    "option4": "Attribute Based Access Control ABAC",
+    "answer": 3
+  },
 
 
 
 
 
-
-
-
-
-
+  
 
 
 
