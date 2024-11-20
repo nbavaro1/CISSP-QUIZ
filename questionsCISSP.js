@@ -4906,6 +4906,178 @@ var questions = [
     "option4": "Attribute Based Access Control ABAC",
     "answer": 3
   },
+  {  
+    "question": "Which of the following is a commonly used hashing algorithm",
+    "option1": "AES",
+    "option2": "RSA",
+    "option3": "SHA 256",
+    "option4": "DES",
+    "answer": 3
+  },
+  {  
+    "question": "What is the maink purpose of using a VPN Virtual Private Network?",
+    "option1": "To increase network speed",
+    "option2": "To provide secure remote access",
+    "option3": "To create a public network",
+    "option4": "To filter malicious emails",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following tools can be used to capture and analyze network traffic?",
+    "option1": "Wireshark",
+    "option2": "Nessus",
+    "option3": "Metaploit",
+    "option4": "Burp Suite",
+    "answer": 1
+  },
+  {  
+    "question": "What is the purpose of multifactor authentication MFA?",
+    "option1": "To encrypt data during transmission",
+    "option2": "To require more then one form of verification for access",
+    "option3": "To log all user activities",
+    "option4": "To isolate network segments",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following terms describes a network architecture where multiple devices are connected to a central hub?",
+    "option1": "Star topology",
+    "option2": "Mesh topology",
+    "option3": "Ring topology",
+    "option4": "Bus topology",
+    "answer": 1
+  },
+  {  
+    "question": "Which of the following is an example of a social engineer attack?",
+    "option1": "DDoS attack",
+    "option2": "Phishing email",
+    "option3": "SQL injection",
+    "option4": "Buffer overflow",
+    "answer": 2
+  }, 
+  {  
+    "question": "Which security principle ensures that a user cannot deny having performed an action?",
+    "option1": "Confidentiality",
+    "option2": "Integrity",
+    "option3": "Availability",
+    "option4": "Non repudiation",
+    "answer": 4
+  }, 
+  {  
+    "question": "Which of the following protocols is used to secure web traffic?",
+    "option1": "HTTP",
+    "option2": "FTP",
+    "option3": "HTTPS",
+    "option4": "Telnet",
+    "answer": 3
+  }, 
+  {  
+    "question": "What is the primary purpose of a digital signature?",
+    "option1": "To encrypt data",
+    "option2": "To verify the integrity and authenticity of a message",
+    "option3": "To create a secure conection",
+    "option4": "To store cryptographic keys",
+    "answer": 2
+  }, 
+  {  
+    "question": "Which type of attack exploits the trust relationship between a user and a website?",
+    "option1": "Man in the Middle MITM",
+    "option2": "Cross Site Request Forgery CSRF",
+    "option3": "SQL Injection",
+    "option4": "Command Injection",
+    "answer": 2
+  }, 
+  {  
+    "question": "Which of the following is a form of wireless network attack where an unauthorized access point is set up to mimic a legitimate one?",
+    "option1": "Evil twin",
+    "option2": "Wardriving",
+    "option3": "Rogue access point",
+    "option4": "Bluejacking",
+    "answer": 1
+  }, 
+  {  
+    "question": "Which type of malware can record the keystrokes of a user?",
+    "option1": "Ransomware",
+    "option2": "Keylogger",
+    "option3": "Rootkit",
+    "option4": "Adware",
+    "answer": 2
+  }, 
+  {  
+    "question": "What does the acronym SAML stand for in the context of single sign on SSO technologies?",
+    "option1": "Secure Access Management Layer",
+    "option2": "Security Assertion Markup Language",
+    "option3": "Simple Authentication management Layer",
+    "option4": "Secure Authorization markup Language",
+    "answer": 2
+  }, 
+  {  
+    "question": "Which of the following is a common method for achieving network redundancy?",
+    "option1": "RAID arrays",
+    "option2": "Load balancing",
+    "option3": "NAT",
+    "option4": "DHCP",
+    "answer": 2
+  }, 
+  {  
+    "question": "What type of testing involves simulating an attack on a system to identify vulnerabilities?",
+    "option1": "Black box testing",
+    "option2": "White box testing",
+    "option3": "Penetration testing",
+    "option4": "Rewgression testing",
+    "answer": 3
+  }, 
+  {  
+    "question": "Which of the following protocols is used for secure file transfer?",
+    "option1": "FTP",
+    "option2": "FTPS",
+    "option3": "Telnet",
+    "option4": "Http",
+    "answer": 2
+  },
+  {  
+    "question": "Which type of policy defines how an organization handles the installation and use of software?",
+    "option1": "Acceptable Use Policy AUP",
+    "option2": "Access Control Policy",
+    "option3": "Software Development Life Cycle SDLC Policy",
+    "option4": "Software Licensing Policy",
+    "answer": 1
+  },
+  {  
+    "question": "Which of the following is an example of a physical security control?",
+    "option1": "Encryption",
+    "option2": "Biometric scanner",
+    "option3": "Firewall",
+    "option4": "Intrusion Detection System IDS",
+    "answer": 2
+  },
+  {  
+    "question": "Which does the term air gap refer to in cybersecurity?",
+    "option1": "A software firewall that filters incoming traffic",
+    "option2": "A physical separation between a secure network and an unsecured network",
+    "option3": "A wireless network security protocol",
+    "option4": "An encryption method for securing data in transit",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following attacks exploits a vulnerability in a web application by injecting malicious SQL code?",
+    "option1": "Cross site scriptiong XSS",
+    "option2": "SQL Injection",
+    "option3": "Command Injection",
+    "option4": "Directory Traversal",
+    "answer": 2
+  },
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4916,9 +5088,8 @@ var questions = [
 
 
 
+
   
-
-
   
 
 
