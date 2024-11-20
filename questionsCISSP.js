@@ -5066,6 +5066,174 @@ var questions = [
     "option4": "Directory Traversal",
     "answer": 2
   },
+  {  
+    "question": "Which of the following is a primary goal of a disaster recovery plan?",
+    "option1": "To prevent security breaches",
+    "option2": "To ensure business continuity after a disruption",
+    "option3": "To enforce security policies",
+    "option4": "To monitor network traffic",
+    "answer": 2
+  },
+  {  
+    "question": "What type of attack involves overwhelming a system with traffic to render it unavailable?",
+    "option1": "Man in the Middle MITM",
+    "option2": "Denial of Service DOS",
+    "option3": "Phishing",
+    "option4": "Ransomware",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following is used to manage and automate the application of security patches to systems?",
+    "option1": "Vulnerability scanner",
+    "option2": "Patch management system",
+    "option3": "Intrusion Detection System IDS",
+    "option4": "Network firewall",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following is a common asymmetric encryption algorithm?",
+    "option1": "AES",
+    "option2": "RSA",
+    "option3": "DES",
+    "option4": "3DES",
+    "answer": 2
+  },
+  {  
+    "question": "What is the primary function of a proxy server?",
+    "option1": "To act as an intermediary between a user and the internet",
+    "option2": "To encrypt network traffic",
+    "option3": "To provide direct access to the internal network",
+    "option4": "To detect and prevent malware",
+    "answer": 1
+  },
+  {  
+    "question": "Which security concept refers to the ability to track and log user actions?",
+    "option1": "Confidentiality",
+    "option2": "Integrity",
+    "option3": "Availability",
+    "option4": "Accountability",
+    "answer": 4
+  },
+  {  
+    "question": "Which of the following is an attack that targets the communication between a client and server by intercepting and potentially altering the data?",
+    "option1": "Phishing",
+    "option2": "Man in the Middle MITM",
+    "option3": "SQL Injection",
+    "option4": "Cross Site Scripting XSS",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following terms describes the use of multiple layers of security to protect resources?",
+    "option1": "Security through obscurity",
+    "option2": "Defense in depth",
+    "option3": "Single point of failure",
+    "option4": "Security through diversity",
+    "answer": 2
+  },
+  {  
+    "question": "What is the primary role of a Certificate Authority CA in a Public Key Infrastucture PKI?",
+    "option1": "To encrypt data",
+    "option2": "To issue and manage digital certificates",
+    "option3": "To create cryptographic keys",
+    "option4": "To enforce security policies",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following is a method to verify the integrity of data?",
+    "option1": "Encryption",
+    "option2": "Hashing",
+    "option3": "Authentication",
+    "option4": "Authorization",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following technologies is used to securely conect remote users to a private network over the internet?",
+    "option1": "IDS",
+    "option2": "VPN",
+    "option3": "NAT",
+    "option4": "Proxy server",
+    "answer": 2
+  },
+  {  
+    "question": "What type of malware encrypts a users files and demands payment to restore access?",
+    "option1": "Virus",
+    "option2": "Worm",
+    "option3": "Ransomware",
+    "option4": "Spyware",
+    "answer": 3
+  },
+  {  
+    "question": "Which of the following best describes the concept of data exfiltration?",
+    "option1": "The unauthorized copying or transfer of data from a system",
+    "option2": "The encryption of data to prevent unauthorized access",
+    "option3": "The creation of backups for disaster recovery",
+    "option4": "The deletion of obsolete data from a system",
+    "answer": 1
+  },
+  {  
+    "question": "Which type of authentication factor involves something the user knows?",
+    "option1": "Password",
+    "option2": "Smarrt card",
+    "option3": "Fingerprint",
+    "option4": "Token",
+    "answer": 1
+  },
+  {  
+    "question": "What is the primary purpose of network segmentation?",
+    "option1": "To improve network performance by reducing congestion",
+    "option2": "To isolate sensitive systems to enhance security",
+    "option3": "To prevent unauthorized access to external websites",
+    "option4": "To enable wireless communication within a network",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following is a characteristic of a phishing attack?",
+    "option1": "It uses social engineering to trick users into revealing sensitive information",
+    "option2": "It involves flooding a network with traffic to cause a denial of service",
+    "option3": "It exploits software vulnerabilities to gain unautherized access",
+    "option4": "It involves physical tampering with network hardware",
+    "answer": 1
+  },
+  {  
+    "question": "What does the acronym DLP stand for in cybersecurity?",
+    "option1": "Data Loss Prevention",
+    "option2": "Digital License Protection",
+    "option3": "Dynamic Link Protocol",
+    "option4": "Distributed Log Processing",
+    "answer": 1
+  },
+  {  
+    "question": "Which type of access control model is based on users role within an organization?",
+    "option1": "Discretionary Access Control DAC",
+    "option2": "Role Based Access Control RBAC",
+    "option3": "Mandatory Access Control MAC",
+    "option4": "Attribute Based Access Control ABAC",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following is an example of a physical access control?",
+    "option1": "Password",
+    "option2": "Biometric scanner",
+    "option3": "Firewall",
+    "option4": "Antivirus software",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following is the best method to protect data in transit?",
+    "option1": "Hashing",
+    "option2": "Encryption",
+    "option3": "Authentication",
+    "option4": "Backup",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following is the best method to protect data in transit?",
+    "option1": "Hashing",
+    "option2": "Encryption",
+    "option3": "Authentication",
+    "option4": "Backup",
+    "answer": 2
+  },
 
 
 
@@ -5075,11 +5243,7 @@ var questions = [
 
 
 
-
-
-
-
-
+  
 
 
 
