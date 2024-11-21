@@ -5234,6 +5234,185 @@ var questions = [
     "option4": "Backup",
     "answer": 2
   },
+  {  
+    "question": "Which of the following best describes a buffer overflow attack?",
+    "option1": "Sending excessive amounts of data to overflow the memory buffer and execute malicious code",
+    "option2": "Exploiting a vulnerability in SQL databases to extract sensitive information",
+    "option3": "Redirecting a user to malicious website to steal credentials",
+    "option4": "Intercepting communication between two systems",
+    "answer": 1
+  },
+  {  
+    "question": "What is the primary purpose of implementing a honeypot in a network?",
+    "option1": "To prevent unauthorized access to the network",
+    "option2": "To detect and analyze malicious activity",
+    "option3": "To encrypt sensitive data",
+    "option4": "To provide a backup for critical data",
+    "answer": 2
+  },
+  {  
+    "question": "Which type of attack involves an attacker gaining access to a system by using a default or easily guessed password?",
+    "option1": "Dictionary attack",
+    "option2": "Brute force attack",
+    "option3": "Credential stuffing",
+    "option4": "Password spraying",
+    "answer": 4
+  },
+  {  
+    "question": "Which of the following is a key benefit of using a security information and event management SIEM system?",
+    "option1": "Automating the response to security incidents",
+    "option2": "Managing user access to network resources",
+    "option3": "Encrypting sensitive data",
+    "option4": "Consolidating and analyzing security event data from multiple sources",
+    "answer": 4
+  },
+  {  
+    "question": "What does the principle of separation of duties aim to prevent?",
+    "option1": "Unauthorized data access",
+    "option2": "Insider threats and fraud",
+    "option3": "Denial of service attacks",
+    "option4": "Malware infections",
+    "answer": 2
+  },
+  {  
+    "question": "Which of the following describes the primary function of an Intrusion Prevention System IPS?",
+    "option1": "Detecting and logging unauthorized access attempts",
+    "option2": "Blocking and preventing identified threats in real time",
+    "option3": "Analyzing network traffic for vulnerabilities",
+    "option4": "Monitoring system performance and availability",
+    "answer": 2
+  },
+  {  
+    "question": "Which type of malware is designed to provide unauthorized access to a system by bypassing normal authentication mechanisms?",
+    "option1": "Adware",
+    "option2": "Trojan",
+    "option3": "Rootkit",
+    "option4": "Spyware",
+    "answer": 3
+  },
+  {  
+    "question": "What is the purpose of a digital certificate?",
+    "option1": "To verify the identity of a user or device",
+    "option2": "To encrypt data in transit",
+    "option3": "To generate cryptographic keys",
+    "option4": "To store user passwords securely",
+    "answer": 1
+  },
+  {  
+    "question": "Which of the following best describes the concept of implicit deny in access control",
+    "option1": "Allowing access to all resources unless explicitly denied",
+    "option2": "Denying all access unless explicitly granted",
+    "option3": "Allowing access based on user roles",
+    "option4": "Granting temporary access to resources",
+    "answer": 2
+  }, 
+  {  
+    "question": "What is the primary purpose of encryption in cybersecurity?",
+    "option1": "To ensure data integrity",
+    "option2": "To verify user identity",
+    "option3": "To protect data confidentiality",
+    "option4": "To maintain data availability",
+    "answer": 3
+  }, 
+  {  
+    "question": "Which of the following protocols is commonly used to securely manage network devices over an IP network?",
+    "option1": "FTP",
+    "option2": "SNMP",
+    "option3": "SSH",
+    "option4": "Telnet",
+    "answer": 3
+  }, 
+  {  
+    "question": "Which of the following protocols is commonly used to securely manage network devices over an IP network?",
+    "option1": "FTP",
+    "option2": "SNMP",
+    "option3": "SSH",
+    "option4": "Telnet",
+    "answer": 3
+  }, 
+  {  
+    "question": "What type of attack involves sending an email that appears to be from a trusted source to trick the recipient into revealing confidential information?",
+    "option1": "Phishing",
+    "option2": "Spoofing",
+    "option3": "Pharming",
+    "option4": "Whaling",
+    "answer": 1
+  }, 
+  {  
+    "question": "Which security principle ensures that only authorized individuals can access or modify data?",
+    "option1": "Integrity",
+    "option2": "Confidentiality",
+    "option3": "Availability",
+    "option4": "Accountability",
+    "answer": 2
+  }, 
+  {  
+    "question": "Which of the following describes a brute force attack?",
+    "option1": "Exploiting a software vulnerability to gain unauthorized access",
+    "option2": "Using a large number of trial and error attempts to guess a password",
+    "option3": "Redirecting traffic to a malicious website",
+    "option4": "Intercepting communications between two systems",
+    "answer": 2
+  }, 
+  {  
+    "question": "Which of the following describes a brute force attack?",
+    "option1": "Exploiting a software vulnerability to gain unauthorized access",
+    "option2": "Using a large number of trial and error attempts to guess a password",
+    "option3": "Redirecting traffic to a malicious website",
+    "option4": "Intercepting communications between two systems",
+    "answer": 2
+  }, 
+  {  
+    "question": "What is the main purpose of implementing Data Loss Prevention DLP solutions?",
+    "option1": "To prevent unauthorized access to network resources",
+    "option2": "To detect and block the exfiltration of sensitive data",
+    "option3": "To secure data in transit",
+    "option4": "To monitor user activity on the network",
+    "answer": 2
+  }, 
+  {  
+    "question": "Which of the following is a social engineering attack that targets high profile individuals such as executives or celebrities?",
+    "option1": "Spear phishing",
+    "option2": "Whaling",
+    "option3": "Phishing",
+    "option4": "Pretexting",
+    "answer": 2
+  }, 
+  {  
+    "question": "Which type of malware can spread without any human interaction?",
+    "option1": "Virus",
+    "option2": "Trojan",
+    "option3": "Worm",
+    "option4": "Spyware",
+    "answer": 3
+  }, 
+  {  
+    "question": "What is the purpose of a DMZ Demilitarized Zone in a network architecture?",
+    "option1": "To isolate internal network from external threats",
+    "option2": "To provide a secure area for public facing services",
+    "option3": "To encrypt data in transit",
+    "option4": "To monitor internal network traffic",
+    "answer": 1
+  }, 
+  {  
+    "question": "Which of the following is an example of a physical security control that can prevent unauthorized access to a facility?",
+    "option1": "Firewall",
+    "option2": "CCTV cameras",
+    "option3": "Intrusion Detection System",
+    "option4": "Anti virus software",
+    "answer": 2
+  }, 
+  {  
+    "question": "What is the main goal of a risk assessment?",
+    "option1": "To identify assess and prioritize risks to organizational assets",
+    "option2": "To implement security controls to mitigate risks",
+    "option3": "To create a disaster recovery plan",
+    "option4": "To enforce security policies",
+    "answer": 1
+  }, 
+
+
+
 
 
 
@@ -5244,13 +5423,6 @@ var questions = [
 
 
   
-
-
-
-  
-
-
-
 
 
   
